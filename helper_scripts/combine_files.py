@@ -11,7 +11,10 @@ import pandas as pd
 path_to_folder = "../raw_data"
 file_suffix = "_tweets.csv"
 output_file = "../manipulated_data/combinedtweets.csv"
+congress_data_file = "../raw_data/CongressTwitterHandles16and17.csv"
 num_files = 0
+error_count = 0
+first_write = True
 csv.field_size_limit(sys.maxsize)
 
 print 'Starting to combine data'
@@ -19,24 +22,48 @@ print 'Starting to combine data'
 #Read in all of the names of files
 directoryFiles = [f for f in listdir(path_to_folder) if isfile(join(path_to_folder, f))]
 
-#open file for writing
-with open(output_file, 'wb') as csvwriter:
-    writer = csv.writer(csvwriter, delimiter=' ',
-                            quotechar='|', quoting=csv.QUOTE_MINIMAL)
+#Read in congresspeople data
+congress_data = pd.read_csv(congress_data_file, encoding='utf8')
 
-    for file in directoryFiles:
-        if file_suffix not in file:
-            continue
-        num_files += 1
-        twitter_handle = "@%s" % (file.replace(file_suffix, ""))
-        print "processing %s with twitter handle: %s" % (file, twitter_handle)
-        file_name = "%s/%s" % (path_to_folder, file)
+for file in directoryFiles:
+    if file_suffix not in file:
+        continue
 
-        df = pd.read_csv(file_name, encoding='utf8')
-        df['twitter_handle'] = twitter_handle
-        if num_files == 1:
-            df.to_csv(output_file, encoding='utf8')
+    num_files += 1
+    twitter_handle = file.replace(file_suffix, "")
+    print "processing %s with twitter handle: %s" % (file, twitter_handle)
+    file_name = "%s/%s" % (path_to_folder, file)
+    df = pd.read_csv(file_name, encoding='utf8')
+    df[u'twitter'] = twitter_handle
+
+    #try to merge with extracted data
+    extracted_data = congress_data.loc[congress_data['twitter'] == twitter_handle]
+    if len(extracted_data.index) > 0:
+        print 'we found data'
+
+        #print extracted_data
+
+        print list(df.columns.values)
+
+
+        print 'sitting here to inspect data'
+
+        #enhance extracted data
+        #print 'last name is: %s' % extracted_data['last_name']
+        #df['last_name'] = "testing" #extracted_data['last_name']
+        print list(congress_data.columns.values)
+        df2 = pd.merge(df, congress_data, on='twitter', how='left')
+
+        #write the data to a file
+        if first_write:
+            df2.to_csv(output_file, encoding='utf8')
+            first_write = False
         else:
-            df.to_csv(output_file, encoding='utf8', mode='a', header=False)
+            df2.to_csv(output_file, encoding='utf8', mode='a', header=False)
+        break
+    else:
+        print 'we didnt find data for %s' % (twitter_handle)
+        error_count += 1
+        continue
 
-print 'finished writing records from %d files to file: %s' % (num_files, output_file)
+print 'finished writing records from %d files to file: %s.  We found %d errors' % (num_files, output_file, error_count)
