@@ -32,7 +32,7 @@ def convert_to_lat(input):
         return ""
 
     input2 = input.replace("{u'type': u'Point', u'coordinates': [", "").replace("]}", "").split(",")
-    return input2[0]
+    return input2[1]
 
 def convert_to_long(input):
     input = str(input)
@@ -40,25 +40,34 @@ def convert_to_long(input):
         return ""
 
     input2 = input.replace("{u'type': u'Point', u'coordinates': [", "").replace("]}", "").split(",")
-    return input2[1]
+    return input2[0]
 
 
 for file in directoryFiles:
-    if file_suffix not in file:
+    #if file_suffix not in file:
+    #    continue
+
+    if not file == "RepDavid_tweets.csv":
         continue
 
     num_files += 1
     twitter_handle = file.replace(file_suffix, "")
     print "processing %s with twitter handle: %s" % (file, twitter_handle)
     file_name = "%s/%s" % (path_to_folder, file)
-    df = pd.read_csv(file_name, encoding='utf8')
+    df = pd.read_csv(file_name, encoding='utf8', quotechar='"')
     df[u'twitter'] = twitter_handle
     df['lat'] = df['coordinates'].apply(convert_to_lat)
     df['long'] = df['coordinates'].apply(convert_to_long)
     del df['coordinates']
 
+    df.to_csv("../manipulated_data/combinedtweetsintermediate.csv", encoding='utf8')
+
     #try to merge with extracted data
     extracted_data = congress_data.loc[congress_data['twitter'] == twitter_handle]
+
+    if num_files > 10:
+        break
+
     if len(extracted_data.index) > 0:
 
         #enhance extracted data
