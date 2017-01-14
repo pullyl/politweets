@@ -12,6 +12,7 @@ path_to_folder = "../raw_data"
 file_suffix = "_tweets.csv"
 output_file = "../manipulated_data/combinedtweets.csv"
 congress_data_file = "../raw_data/CongressTwitterHandles16and17.csv"
+error_files = []
 num_files = 0
 error_count = 0
 first_write = True
@@ -39,19 +40,8 @@ for file in directoryFiles:
     #try to merge with extracted data
     extracted_data = congress_data.loc[congress_data['twitter'] == twitter_handle]
     if len(extracted_data.index) > 0:
-        print 'we found data'
-
-        #print extracted_data
-
-        print list(df.columns.values)
-
-
-        print 'sitting here to inspect data'
 
         #enhance extracted data
-        #print 'last name is: %s' % extracted_data['last_name']
-        #df['last_name'] = "testing" #extracted_data['last_name']
-        print list(congress_data.columns.values)
         df2 = pd.merge(df, congress_data, on='twitter', how='left')
 
         #write the data to a file
@@ -60,10 +50,13 @@ for file in directoryFiles:
             first_write = False
         else:
             df2.to_csv(output_file, encoding='utf8', mode='a', header=False)
-        break
+
     else:
         print 'we didnt find data for %s' % (twitter_handle)
         error_count += 1
+        error_files.append(file)
         continue
 
 print 'finished writing records from %d files to file: %s.  We found %d errors' % (num_files, output_file, error_count)
+print 'error files are:'
+print error_files
