@@ -5,13 +5,13 @@
 from os import listdir
 from os.path import isfile, join
 import csv, sys
-#import pandas as pd
+import pandas as pd
 
 #setup
 path_to_folder = "../raw_data"
 file_suffix = "_tweets.csv"
 output_file = "../manipulated_data/combinedtweets.csv"
-num_records = 0
+num_files = 0
 csv.field_size_limit(sys.maxsize)
 
 print 'Starting to combine data'
@@ -23,24 +23,20 @@ directoryFiles = [f for f in listdir(path_to_folder) if isfile(join(path_to_fold
 with open(output_file, 'wb') as csvwriter:
     writer = csv.writer(csvwriter, delimiter=' ',
                             quotechar='|', quoting=csv.QUOTE_MINIMAL)
-    #writer.writerow(['Spam'] * 5 + ['Baked Beans'])
-    #writer.writerow(['Spam', 'Lovely Spam', 'Wonderful Spam'])
 
     for file in directoryFiles:
         if file_suffix not in file:
             continue
+        num_files += 1
         twitter_handle = "@%s" % (file.replace(file_suffix, ""))
         print "processing %s with twitter handle: %s" % (file, twitter_handle)
         file_name = "%s/%s" % (path_to_folder, file)
-        print file_name
-        with open(file_name, 'rU') as csvfile:
-            csvreader = csv.reader(csvfile, delimiter=' ', quotechar='|')
-            for row in csvreader:
-                num_records += 1
-                print file_name
-                row.append(twitter_handle)
-                print ', '.join(row)
-                writer.writerow(row)
 
+        df = pd.read_csv(file_name, encoding='utf8')
+        df['twitter_handle'] = twitter_handle
+        if num_files == 1:
+            df.to_csv(output_file, encoding='utf8')
+        else:
+            df.to_csv(output_file, encoding='utf8', mode='a', header=False)
 
-print 'finished writing %d records to file: %s' % (num_records, output_file)
+print 'finished writing records from %d files to file: %s' % (num_files, output_file)
