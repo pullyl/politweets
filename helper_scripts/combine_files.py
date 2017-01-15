@@ -42,12 +42,12 @@ def convert_to_long(input):
     input2 = input.replace("{u'type': u'Point', u'coordinates': [", "").replace("]}", "").split(",")
     return input2[0]
 
+def simplify_text(input):
+    text = input.replace("\n", "")
+    return text
 
 for file in directoryFiles:
-    #if file_suffix not in file:
-    #    continue
-
-    if not file == "RepDavid_tweets.csv":
+    if file_suffix not in file:
         continue
 
     num_files += 1
@@ -59,14 +59,10 @@ for file in directoryFiles:
     df['lat'] = df['coordinates'].apply(convert_to_lat)
     df['long'] = df['coordinates'].apply(convert_to_long)
     del df['coordinates']
-
-    df.to_csv("../manipulated_data/combinedtweetsintermediate.csv", encoding='utf8')
+    df['text'] = df['text'].apply(simplify_text)
 
     #try to merge with extracted data
     extracted_data = congress_data.loc[congress_data['twitter'] == twitter_handle]
-
-    if num_files > 10:
-        break
 
     if len(extracted_data.index) > 0:
 
