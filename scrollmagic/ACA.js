@@ -1,37 +1,3 @@
-<!DOCTYPE html>
-<html>
-<meta charset="utf-8">
-
-<!-- Example based on http://bl.ocks.org/mbostock/3887118 -->
-<!-- Tooltip example from http://www.d3noob.org/2013/01/adding-tooltips-to-d3js-graph.html -->
-
-<style>
-body {
-  font: 11px sans-serif;
-}
-
-.axis path,
-.axis line {
-  fill: none;
-  stroke: #000;
-  shape-rendering: crispEdges;
-}
-
-.dot {
-  stroke: #000;
-}
-
-.tooltip {
-  position: absolute;
-  width: 200px;
-  height: 28px;
-  pointer-events: none;
-}
-</style>
-<body>
-<script src="https://d3js.org/d3.v3.min.js"></script>
-
-<script>
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
@@ -45,26 +11,26 @@ var margin = {top: 20, right: 20, bottom: 30, left: 40},
 
 // setup x 
 var xValue = function(d) { return d.sumOfObamaCare;}, // data -> value
-    xScale = d3.scale.linear().range([0, width]), // value -> display
-    xMap = function(d) { return xScale(xValue(d));}, // data -> display
-    xAxis = d3.svg.axis().scale(xScale).orient("bottom");
+    xScale = d3.scaleLinear().range([0, width]), // value -> display
+    xMap = function(d) { return xScale(xValue(d));} // data -> display
+    //xAxis = d3.svg.axis().scale(xScale).orient("bottom");
 
 // setup y
 var yValue = function(d) { return d.sumOfACA;}, // data -> value
-    yScale = d3.scale.linear().range([height, 0]), // value -> display
-    yMap = function(d) { return yScale(yValue(d));}, // data -> display
-    yAxis = d3.svg.axis().scale(yScale).orient("left");
+    yScale = d3.scaleLinear().range([height, 0]), // value -> display
+    yMap = function(d) { return yScale(yValue(d));} // data -> display
+    //yAxis = d3.svg.axis().scale(yScale).orient("left");  --> LP was this important?
 
 
 // setup fill color
-var cValue = function(d) { return d.party;},
+var cValue = function(d) { return d.party;}
 //   color = d3.scale.category10();
-   color = d3.scale.ordinal()
+   /*color = d3.scale.ordinal()
   .domain(["Democrat", "Republican", "Independent"])
-  .range(["blue", "red" , "green"]);
+  .range(["blue", "red" , "green"]);*/
 
 // add the graph canvas to the body of the webpage
-var svg = d3.select("body").append("svg")
+var svg = d3.select("body").append("svg-1")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
@@ -93,7 +59,7 @@ d3.csv("./acaobamacare.csv", function(error, data) {
   svg.append("g")
       .attr("class", "x axis")
       .attr("transform", "translate(0," + height + ")")
-      .call(xAxis)
+      //.call(xAxis)
     .append("text")
       .attr("class", "label")
       .attr("x", width)
@@ -104,7 +70,7 @@ d3.csv("./acaobamacare.csv", function(error, data) {
   // y-axis
   svg.append("g")
       .attr("class", "y axis")
-      .call(yAxis)
+      //.call(yAxis)
     .append("text")
       .attr("class", "label")
       .attr("transform", "rotate(-90)")
@@ -130,7 +96,7 @@ d3.csv("./acaobamacare.csv", function(error, data) {
       .attr("r", 3.5)
       .attr("cx", xMap)
       .attr("cy", yMap)
-      .style("fill", function(d) { return color(cValue(d));})  
+      //.style("fill", function(d) { return color(cValue(d));})  
       .on("mouseover", function(d) {
           tooltip.transition()
                .duration(200)
@@ -148,7 +114,7 @@ d3.csv("./acaobamacare.csv", function(error, data) {
 
   // draw legend
   var legend = svg.selectAll(".legend")
-      .data(color.domain())
+      //.data(color.domain())
     .enter().append("g")
       .attr("class", "legend")
       .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
@@ -158,7 +124,7 @@ d3.csv("./acaobamacare.csv", function(error, data) {
       .attr("x", width - 18)
       .attr("width", 18)
       .attr("height", 18)
-      .style("fill", color);
+      //.style("fill", color);
 
   // draw legend text
   legend.append("text")
@@ -168,7 +134,3 @@ d3.csv("./acaobamacare.csv", function(error, data) {
       .style("text-anchor", "end")
       .text(function(d) { return d;})
 });
-
-</script>
-</body>
-</html>
