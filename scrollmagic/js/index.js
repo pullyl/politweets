@@ -20,7 +20,7 @@ $(function() {
   .addTo(scrollMagicController);
 
 
-var tween3 = TweenMax.to('#animation-3', 0.4, {backgroundColor: 'rgb(17, 0, 98)',scale: 4,rotation: 360});
+var tween3 = TweenMax.to('#animation-3', 0.4, {scale: 4,rotation: 360});
 
       var scene3 = new ScrollScene({
         triggerElement: '#scene-3',
