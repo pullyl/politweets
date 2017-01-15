@@ -2,15 +2,18 @@
 body { height: 100%; background: transparent; -webkit-font-smoothing: antialiased; }
 .ScrollSceneIndicators { z-index: 9999999 !important; }
 
+img {
+    width: 100%;
+    height: auto;
+}
+
 /* Ignore => Useless Header Styles */
 header {
   text-align: center;
-  font-size: 100px;
-  background: rgb(0, 0, 255);
+  background: rgb(217, 217, 217);
   padding: 100px 0 125px;
   color: none;
-  height: 100vh;
-  color: white;
+  color: black;
   position: relative;
 
 }
@@ -35,7 +38,6 @@ header i.fa-angle-double-down {
   color: #111;
 }
 header i.fa-angle-double-down:after {
-  content: 'Start Scrolling Down';
   position: absolute;
   bottom: 100%;
   left: -35px;
@@ -82,6 +84,14 @@ main { padding: 200px 0 1200px 0; overflow: hidden; background: none; }
   transform: translate(-50%, -50%);
 }
 
+/*charts*/
+.left-chart {
+	background-color: green;
+	width: 60%;
+	float: left;
+	
+}
+
 
 
 /* SCENE COLORS */
@@ -90,6 +100,6 @@ body {
   -moz-transition: all 300ms ease;
   transition: all 300ms ease;
 }
-body.scene-1-active { background: rgb(204, 255, 204) !important; }
-body.scene-2-active { background: rgb(204, 0, 204) !important; }
-body.scene-3-active { background: rgb(2, 0, 60) !important; }
+body.scene-1-active { background: #095ec6 !important; }
+body.scene-2-active { background: #bf0900 !important; }
+body.scene-3-active { background: #f1d302 !important; }
