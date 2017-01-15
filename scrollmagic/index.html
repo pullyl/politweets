@@ -34,7 +34,10 @@
     <div class="container">
       <div class="col-md-8 col-md-offset-2">
 	  	<img src="images/logo.png">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec ultricies magna. Vestibulum eleifend elit at velit eleifend congue. Nunc tempor, urna eget placerat facilisis, neque urna tempus odio, sit amet imperdiet tellus turpis vel arcu. Suspendisse potenti. Suspendisse facilisis non magna a luctus. Aliquam turpis ante, molestie euismod consectetur pellentesque, efficitur vitae risus. Ut feugiat orci orci, at feugiat massa pellentesque non. Donec sed odio eget est efficitur malesuada. Nunc vel erat placerat, pellentesque ante sit amet, pulvinar dolor.</div>
+	  	<h3>Aggregating congressional tweets, one 3AM rant at a time</h3>
+      <br>Congressional tweets have increased by over <b>450%</b> since 2012, however, there is little oversight into what is being said or how policy is being talked about.  Politweets sets out with <b>two goals</b> (1) <a href="https://github.com/pullyl/politweets/tree/master/raw_data">Pull together tweets in an open, searchable format and </a>(2) Explore the types of messages that congresspeople are sharing with the world. Through analysis of <b>healthcare, immigration, and other information</b> we have learned a few things:
+      <br><br><b>1.  Politicians don't always use the *correct* name of legislation
+      <br>2.  Tweets often favor policies they oppose.</div>
     </div>
     <i class="fa fa-angle-double-down"></i>
   </header>
@@ -42,6 +45,15 @@
 
 
   <main>
+    <div class="container">
+      <div class="left-chart" id="scene-2"> 
+          <h2>Use of the term ObamaCare versus ACA</h2>
+        <svg width="960" height="500"></svg>
+        <script type="text/javascript" src="aca.js"></script>
+        <!-- <div class="animation" id="animation-1"><i class="fa fa-heart"></i></div> -->
+      </div>
+      Since 2009 we found over 8,000 tweets mentioning ACA or ObamaCare.  Given the confusion over whether or not these are the same thing, we setout to understand how the different parties were talking about the two policies.  Not surprisingly, we overwhelmingly found that Democrats tweet about "ACA" or "Affordable Care Act", while Republicans tweet about ObamaCare.
+    </div>
     <div class="container">
       <div class="left-chart" id="scene-3"> 
           <p>#immigration</p>
