@@ -62,6 +62,7 @@ d3.csv("data.csv", type, function(error, data) {
   party.append("path")
       .attr("class", "line")
       .attr("d", function(d) { return line(d.values); })
+      // .style("stroke", 'red')
       .style("stroke", function(d) { return z(d.id); });
 
   party.append("text")
