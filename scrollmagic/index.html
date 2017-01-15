@@ -10,9 +10,12 @@
     background: none;
   }
 
-  .line {
+  .line_dem {
     fill: none;
-    stroke: red;
+    stroke-width: 1.5px;
+  }
+   .line_rep {
+    fill: none;
     stroke-width: 1.5px;
   }
 </style>
@@ -30,8 +33,11 @@
   <header>
     <div class="container">
       <div class="col-md-8 col-md-offset-2">
-	  	<img src="images/logo.png">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec ultricies magna. Vestibulum eleifend elit at velit eleifend congue. Nunc tempor, urna eget placerat facilisis, neque urna tempus odio, sit amet imperdiet tellus turpis vel arcu. Suspendisse potenti. Suspendisse facilisis non magna a luctus. Aliquam turpis ante, molestie euismod consectetur pellentesque, efficitur vitae risus. Ut feugiat orci orci, at feugiat massa pellentesque non. Donec sed odio eget est efficitur malesuada. Nunc vel erat placerat, pellentesque ante sit amet, pulvinar dolor.</div>
+        <i class="fa fa-twitter"></i> 
+        Politweets
+        <hr>
+        <h2>Debug Politics 2017</h2>
+      </div>
     </div>
     <i class="fa fa-angle-double-down"></i>
   </header>
@@ -40,9 +46,26 @@
 
   <main>
     <div class="container">
-      <div class="left-chart" id="scene-3"> 
+      <div class="wrap" id="scene-1"> 
+        <div id="animation-1"> 
+          <p>Twitter is a popular tool</p>
+          <p>So we decided to use it</p>
+        </div>
+      </div>
+
+      <div class="wrap" id="scene-2"> 
+        <div id="animation-2"> 
+          <p>We collected a lot of tweets</p>
+          <p>And analyzed them</p>
+        </div>
+      </div>
+
+      <div class="wrap" id="scene-3"> 
+        <div id="animation-3"> 
           <p>#immigration</p>
-        <svg width="auto" height="500"></svg>
+        </div>
+        <div id="pin1">TWEET</div>
+        <svg width="960" height="500"></svg>
         <script type="text/javascript" src="line.js"></script>
         <!-- <div class="animation" id="animation-1"><i class="fa fa-heart"></i></div> -->
       </div>
