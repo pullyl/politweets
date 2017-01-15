@@ -55,9 +55,13 @@ var yValue = function(d) { return d.sumOfACA;}, // data -> value
     yMap = function(d) { return yScale(yValue(d));}, // data -> display
     yAxis = d3.svg.axis().scale(yScale).orient("left");
 
+
 // setup fill color
 var cValue = function(d) { return d.party;},
-    color = d3.scale.category10();
+//   color = d3.scale.category10();
+   color = d3.scale.ordinal()
+  .domain(["Democrat", "Republican", "Independent"])
+  .range(["blue", "red" , "green"]);
 
 // add the graph canvas to the body of the webpage
 var svg = d3.select("body").append("svg")
@@ -109,6 +113,15 @@ d3.csv("./acaobamacare.csv", function(error, data) {
       .style("text-anchor", "end")
       .text("Sum of 'ACA'");
 
+// Straight line
+  svg.append('line')
+    .attr("x1",xScale(0))
+    .attr("y1",yScale(0))
+    .attr("x2",xScale(60))
+    .attr("y2",yScale(60))
+    .attr("stroke", "black")
+    .attr("stroke-width", 1);
+    
   // draw dots
   svg.selectAll(".dot")
       .data(data)
@@ -117,7 +130,7 @@ d3.csv("./acaobamacare.csv", function(error, data) {
       .attr("r", 3.5)
       .attr("cx", xMap)
       .attr("cy", yMap)
-      .style("fill", function(d) { return color(cValue(d));}) 
+      .style("fill", function(d) { return color(cValue(d));})  
       .on("mouseover", function(d) {
           tooltip.transition()
                .duration(200)
