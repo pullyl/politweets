@@ -104,6 +104,7 @@ main { overflow: hidden; background: none; }
 	width: 60%;
 	height: auto;
 	float: left;
+	margin: 5px;
 }
 
 .left-chart img {
@@ -114,7 +115,7 @@ main { overflow: hidden; background: none; }
 .right-text {
 	width: 30%
 	float: right;
-	color: gray;
+	color: black;
 }
 
 .right-text img {
@@ -135,7 +136,7 @@ main { overflow: hidden; background: none; }
 .left-text {
 	width: 30%
 	float: left;
-	color: gray;
+	color: black;
 }
 
 .left-text img {
