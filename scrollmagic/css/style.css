@@ -56,7 +56,7 @@ h2 {
 }
 
 /* Create huge scrolling area (imitates height of a page) */
-main { padding: 200px 0 1200px 0; overflow: hidden; background: none; }
+main { overflow: hidden; background: none; }
 
 /* Styles for wrap for demo */
 .wrap {
@@ -149,6 +149,20 @@ body {
   -moz-transition: all 300ms ease;
   transition: all 300ms ease;
 }
-body.scene-1-active { background: #095ec6 !important; }
-body.scene-2-active { background: #bf0900 !important; }
-body.scene-3-active { background: #f1d302 !important; }
+#scene-1 { 
+	background-color: #095ec6 !important; 
+	width: 100%;
+}
+#scene-2 { 
+	background-color: #bf0900 !important; 
+	width: 100%;		
+}
+#scene-3 { 
+	background-color: #f1d302 !important; 
+	width: 100%;
+}
+
+#scene-4 { 
+	background-color: #235789 !important; 
+	width: 100%;
+}
