@@ -26,7 +26,7 @@ function drawACAChart() {
 	    .x(function(d) { return x(d.date); })
 	    .y(function(d) { return y(d.rep); });
 	
-	d3.csv("data_dems.csv", function(d) {
+	d3.csv("data/immigration_data_dems.csv", function(d) {
 	  d.date = parseTime(d.date);
 	  d.dem = +d.dem;
 	  return d;
@@ -53,7 +53,7 @@ function drawACAChart() {
 	});
 	
 	
-	d3.csv("data_reps.csv", function(d) {
+	d3.csv("data/immigration_data_reps.csv", function(d) {
 	  d.date = parseTime(d.date);
 	  d.rep = +d.rep;
 	  return d;
