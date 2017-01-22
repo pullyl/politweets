@@ -14,6 +14,12 @@ function drawImmigrationChart() {
 	
 	var x = d3.scaleTime().rangeRound([0, width]);
 	var y = d3.scaleLinear().rangeRound([height, 0]);
+
+	// Define 'div' for tooltips
+var div = d3.select("body")
+	.append("div")  // declare the tooltip div 
+	.attr("class", "tooltip")              // apply the 'tooltip' class
+	.style("opacity", 0);                  // set the opacity to nil
 	
 	console.log(width);
 	console.log(height);
@@ -49,7 +55,15 @@ function drawImmigrationChart() {
 	      .datum(data)
 	      .attr("class", "line_dem")
 	      .attr("stroke", "blue")
-	      .attr("d", line_dem);
+	      .attr("d", line_dem)
+	      	            .on("mouseover", function(d) {
+	      	div.transition()
+	      		.duration(200)
+	      		.style("opacity", .9);
+	      	div .html("testing")
+	      	.style("left", (d3.event.pageX) + "px")		
+                .style("top", (d3.event.pageY - 28) + "px");
+	      });
 	});
 	
 	
@@ -75,7 +89,16 @@ function drawImmigrationChart() {
 	      .datum(data)
 	      .attr("class", "line_rep")
 	      .attr("stroke", "red")
-	      .attr("d", line_rep);
+	      .attr("d", line_rep)
+	            .on("mouseover", function(d) {
+	      	div.transition()
+	      		.duration(200)
+	      		.style("opacity", .9);
+	      	div .html("testing")
+	      	.style("left", (d3.event.pageX) + "px")		
+                .style("top", (d3.event.pageY - 28) + "px");
+	      });
+
 	});
 	
 }
