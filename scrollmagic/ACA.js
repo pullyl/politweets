@@ -1,14 +1,14 @@
 //Draw chart
-drawChart();
+drawACAChart();
 
 //Call resize function when window is resized
 $(window).resize(function () {
-    drawChart();
+    drawACAChart();
 });
 
 
-function drawChart() {
-	[width, height, g] = resize(d3);
+function drawACAChart() {
+	[width, height, acaChart] = resizeACAChart(d3);
 
 	var parseTime = d3.timeParse("%b-%y");
 	
@@ -36,19 +36,19 @@ function drawChart() {
 	  x.domain(d3.extent(data, function(d) { return d.date; }));
 	  y.domain(d3.extent(data, function(d) { return d.dem; }));
 	
-	  g.append("g")
+	  acaChart.append("g")
 	      .attr("class", "axis axis--x")
 	      .attr("transform", "translate(0," + height + ")")
 	      .call(d3.axisBottom(x));
 	
-	  g.append("g")
+	  acaChart.append("g")
 	      .attr("class", "axis axis--y")
 	      .call(d3.axisLeft(y))
 	
-	  g.append("path")
+	  acaChart.append("path")
 	      .datum(data)
 	      .attr("class", "line_dem")
-	      .attr("stroke", "blue")
+	      .attr("stroke", "purple")
 	      .attr("d", line_dem);
 	});
 	
@@ -62,43 +62,44 @@ function drawChart() {
 	
 	  x.domain(d3.extent(data, function(d) { return d.date; }));
 	
-	  g.append("g")
+	  acaChart.append("g")
 	      .attr("class", "axis axis--x")
 	      .attr("transform", "translate(0," + height + ")")
 	      .call(d3.axisBottom(x));
 	
-	  g.append("g")
+	  acaChart.append("g")
 	      .attr("class", "axis axis--y")
 	      .call(d3.axisLeft(y))
 	
-	  g.append("path")
+	  acaChart.append("path")
 	      .datum(data)
 	      .attr("class", "line_rep")
-	      .attr("stroke", "red")
+	      .attr("stroke", "green")
 	      .attr("d", line_rep);
 	});
 	
 }
 
 /* 	Size chart		*/
-function resize(d3) {
-	console.log("resizing the window");
+function resizeACAChart(d3) {
+	console.log("resizing the ACA window");
     // Set the dimensions of the canvas / graph
     width = window.innerWidth * .6 - 20,
     height = width*.6
     
-    document.getElementById("immigrationChart").style.height = height;
-    document.getElementById("immigrationChart").style.width = width;
+    document.getElementById("aca-chart").style.height = height + "px";
+	document.getElementById("aca-chart").style.width = width + "px";
     
-    console.log("resize width:  " + width);
-    console.log(height);
+    console.log("ACA resize width:  " + width);
+    console.log("ACA resize height: " + height);
+
+    d3.select("#aca-chart-id").remove();
     
-    var svg = d3.select("svg"),
+    var svg1 = d3.select("#aca-chart").append("svg").attr("id","aca-chart-id"),
     margin = {top: 20, right: 20, bottom: 30, left: 50},
     width = +width - margin.left - margin.right,
     height = +height - margin.top - margin.bottom;
-    svg.selectAll("*").remove();
-    g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    acaChart = svg1.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
           
-	return [width, height, g];
+	return [width, height, acaChart];
 }

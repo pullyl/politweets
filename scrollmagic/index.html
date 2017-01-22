@@ -53,7 +53,7 @@
     <div class="container" id="scene-1">
 	  <h2>Use of the term ObamaCare versus ACA</h2>
       <div class="left-chart"> 
-		  <img src="images/aca.jpg">
+	      <div id="aca-chart"></div>
       </div>
       <div class="right-text">
       Since 2009 we found over 8,000 tweets mentioning ACA or ObamaCare.  Given the confusion over whether or not these are the same thing, we setout to understand how the different parties were talking about the two policies.  Not surprisingly, we overwhelmingly found that Democrats tweet about "ACA" or "Affordable Care Act", while Republicans tweet about ObamaCare.
@@ -72,9 +72,7 @@
     <div class="container" id="scene-3">
 	  <h2>Immigration</h2>
       <div class="left-chart"> 
-	      <svg id="immigrationChart"></svg>
-		  <script type="text/javascript" src="line.js"></script>
-		  <!-- <div class="animation" id="animation-1"><i class="fa fa-heart"></i></div> -->
+	      <div id="immigration-chart"></div>
       </div>
       <div class="right-text">
       Looking at the volume of immigration tweets over time by party, we can see that they follow 1 of 2 patterns: either the volume of Democrat and Republican tweets peaks at the same time, or Democrats peak while Republicans dip.  Examining these peaks gives us insight into starkly disparate party views on immigration.
@@ -101,6 +99,8 @@
 </div></main>
 <script src='http://cdnjs.cloudflare.com/ajax/libs/gsap/1.14.2/TweenMax.min.js'></script>
 <script src='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js'></script>
+<script type="text/javascript" src="aca.js"></script>
+<script type="text/javascript" src="immigration.js"></script>
 
 </body>
 </html>
