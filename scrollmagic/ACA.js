@@ -49,7 +49,12 @@ function drawACAChart() {
        div.transition()
          .duration(500)
          .style("opacity", 0);
-         });
+         })
+     .on("click", function(d){
+	    console.log("we just clicked on: " + d.twitter)
+        var url = "healthcare_twitter_details.html";
+        location.href = url;
+	});
 	
 	  // Add the X Axis
 	  acaChart.append("g")
@@ -70,7 +75,6 @@ function drawACAChart() {
 }
 
 function circleColor(party) {
-	console.log(party)
 	if ( party == 'Republican') {
 		return 'red';	
 	} else if (party == 'Democrat') {
