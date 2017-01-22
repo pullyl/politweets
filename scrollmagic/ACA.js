@@ -36,7 +36,20 @@ function drawACAChart() {
 	      .attr("r", 5)
 	      .style('fill', function(d) { return circleColor(d.party); })
 	      .attr("cx", function(d) { return x(d.sumOfACA); })
-	      .attr("cy", function(d) { return y(d.sumOfObamaCare); });
+	      .attr("cy", function(d) { return y(d.sumOfObamaCare); })
+	      .on("mouseover", function(d) {
+       div.transition()
+         .duration(200)
+         .style("opacity", .9);
+       div.html(d.twitter + "<br>" + d.sumOfACA + " ACA" + "<br>" + d.sumOfObamaCare + " OC")
+         .style("left", (d3.event.pageX) + "px")
+         .style("top", (d3.event.pageY - 28) + "px");
+       })
+     .on("mouseout", function(d) {
+       div.transition()
+         .duration(500)
+         .style("opacity", 0);
+         });
 	
 	  // Add the X Axis
 	  acaChart.append("g")
@@ -48,6 +61,12 @@ function drawACAChart() {
 	      .call(d3.axisLeft(y));			
 
 	});
+	
+	// Define 'div' for tooltips
+	var div = d3.select("body")
+	.append("div")  // declare the tooltip div 
+	.attr("class", "aca-tooltip")              // apply the 'tooltip' class
+	.style("opacity", 0);  
 }
 
 function circleColor(party) {
