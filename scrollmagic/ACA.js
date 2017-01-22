@@ -10,74 +10,55 @@ $(window).resize(function () {
 function drawACAChart() {
 	[width, height, acaChart] = resizeACAChart(d3);
 
-	var parseTime = d3.timeParse("%b-%y");
+	//Setup the ranges
+	var x = d3.scaleTime().range([0, width]);
+	var y = d3.scaleLinear().range([height, 0]);	
 	
-	var x = d3.scaleTime().rangeRound([0, width]);
-	var y = d3.scaleLinear().rangeRound([height, 0]);
-	
-	console.log(width);
-	console.log(height);
-	
-	var line_dem = d3.line()
-	    .x(function(d) { return x(d.date); })
-	    .y(function(d) { return y(d.dem); });
-	
-	var line_rep = d3.line()
-	    .x(function(d) { return x(d.date); })
-	    .y(function(d) { return y(d.rep); });
-	
-	d3.csv("data/immigration_data_dems.csv", function(d) {
-	  d.date = parseTime(d.date);
-	  d.dem = +d.dem;
-	  return d;
-	}, function(error, data) {
+	// Get the data
+	d3.csv("data/acaobamacare.csv", function(error, data) {
 	  if (error) throw error;
 	
-	  x.domain(d3.extent(data, function(d) { return d.date; }));
-	  y.domain(d3.extent(data, function(d) { return d.dem; }));
+	  // format the data
+	  data.forEach(function(d) {
+	      d.sumOfACA = +d.sumOfACA;
+		  d.sumOfObamaCare = +d.sumOfObamaCare;
+	  });
+	  
+		
+	  // Scale the range of the data
+	  x.domain(d3.extent(data, function(d) { return d.sumOfACA; }));
+	  y.domain([0, d3.max(data, function(d) { return d.sumOfObamaCare; })]);
+	  	
+	  // Add the scatterplot
+	  acaChart.selectAll("dot")
+	      .data(data)
+	    .enter().append("circle")
+	      .attr("r", 5)
+	      .style('fill', function(d) { return circleColor(d.party); })
+	      .attr("cx", function(d) { return x(d.sumOfACA); })
+	      .attr("cy", function(d) { return y(d.sumOfObamaCare); });
 	
+	  // Add the X Axis
 	  acaChart.append("g")
-	      .attr("class", "axis axis--x")
 	      .attr("transform", "translate(0," + height + ")")
 	      .call(d3.axisBottom(x));
 	
+	  // Add the Y Axis
 	  acaChart.append("g")
-	      .attr("class", "axis axis--y")
-	      .call(d3.axisLeft(y))
-	
-	  acaChart.append("path")
-	      .datum(data)
-	      .attr("class", "line_dem")
-	      .attr("stroke", "purple")
-	      .attr("d", line_dem);
+	      .call(d3.axisLeft(y));			
+
 	});
-	
-	
-	d3.csv("data/immigration_data_reps.csv", function(d) {
-	  d.date = parseTime(d.date);
-	  d.rep = +d.rep;
-	  return d;
-	}, function(error, data) {
-	  if (error) throw error;
-	
-	  x.domain(d3.extent(data, function(d) { return d.date; }));
-	
-	  acaChart.append("g")
-	      .attr("class", "axis axis--x")
-	      .attr("transform", "translate(0," + height + ")")
-	      .call(d3.axisBottom(x));
-	
-	  acaChart.append("g")
-	      .attr("class", "axis axis--y")
-	      .call(d3.axisLeft(y))
-	
-	  acaChart.append("path")
-	      .datum(data)
-	      .attr("class", "line_rep")
-	      .attr("stroke", "green")
-	      .attr("d", line_rep);
-	});
-	
+}
+
+function circleColor(party) {
+	console.log(party)
+	if ( party == 'Republican') {
+		return 'red';	
+	} else if (party == 'Democrat') {
+		return 'blue';
+	} else {
+		return 'green';
+	}	
 }
 
 /* 	Size chart		*/

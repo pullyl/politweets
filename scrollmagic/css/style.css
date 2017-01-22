@@ -151,7 +151,7 @@ body {
   transition: all 300ms ease;
 }
 #scene-1 { 
-	background-color: #095ec6 !important; 
+	background-color: rgba(0, 0, 0, 0.37) !important; 
 	width: 100%;
 }
 #scene-2 { 
