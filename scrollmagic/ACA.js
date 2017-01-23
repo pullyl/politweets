@@ -11,7 +11,7 @@ function drawACAChart() {
 	[width, height, acaChart] = resizeACAChart(d3);
 
 	//Setup the ranges
-	var x = d3.scaleTime().range([0, width]);
+	var x = d3.scaleLinear().range([0, width]);
 	var y = d3.scaleLinear().range([height, 0]);	
 	
 	// Get the data
@@ -51,8 +51,7 @@ function drawACAChart() {
          .style("opacity", 0);
          })
      .on("click", function(d){
-	    console.log("we just clicked on: " + d.twitter)
-        var url = "healthcare_twitter_details.html";
+        var url = "healthcare_twitter_details.php?twitter=" + d.twitter + "&party=" + d.party + "&aca=" + d.sumOfACA + "&oc=" + d.sumOfObamaCare;
         location.href = url;
 	});
 	
@@ -60,10 +59,15 @@ function drawACAChart() {
 	  acaChart.append("g")
 	      .attr("transform", "translate(0," + height + ")")
 	      .call(d3.axisBottom(x));
+	  acaChart.append("text") .attr("class", "x label") .attr("text-anchor", "end") .attr("x", width) .attr("y", height + 28) .text("Tweets mentioning Affordable Care Act (# tweets)")
 	
 	  // Add the Y Axis
-	  acaChart.append("g")
-	      .call(d3.axisLeft(y));			
+	  acaChart.append("g").call(d3.axisLeft(y));
+	  acaChart.append("text") .attr("class", "y label") .attr("text-anchor", "end") 
+	  	.attr("y", -40) .text("Tweets mentioning Obama Care (# tweets)").attr("dy", ".75em")
+	  	.attr("transform", "rotate(-90)")
+	      
+	  			
 
 	});
 	
