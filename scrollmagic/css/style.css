@@ -151,7 +151,7 @@ body {
   transition: all 300ms ease;
 }
 #scene-1 { 
-	background-color: #095ec6 !important; 
+	background-color: rgba(0, 0, 0, 0.37) !important; 
 	width: 100%;
 }
 #scene-2 { 
@@ -172,4 +172,17 @@ body {
 svg{
 	width: 100%;
 	height: 100%;
+}
+
+div.aca-tooltip {
+  position: absolute;
+  text-align: center;
+  width: 100px;
+  height: 50px;
+  padding: 2px;
+  font: 12px sans-serif;
+  background: lightsteelblue;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
 }

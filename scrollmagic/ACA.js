@@ -10,74 +10,82 @@ $(window).resize(function () {
 function drawACAChart() {
 	[width, height, acaChart] = resizeACAChart(d3);
 
-	var parseTime = d3.timeParse("%b-%y");
+	//Setup the ranges
+	var x = d3.scaleLinear().range([0, width]);
+	var y = d3.scaleLinear().range([height, 0]);	
 	
-	var x = d3.scaleTime().rangeRound([0, width]);
-	var y = d3.scaleLinear().rangeRound([height, 0]);
-	
-	console.log(width);
-	console.log(height);
-	
-	var line_dem = d3.line()
-	    .x(function(d) { return x(d.date); })
-	    .y(function(d) { return y(d.dem); });
-	
-	var line_rep = d3.line()
-	    .x(function(d) { return x(d.date); })
-	    .y(function(d) { return y(d.rep); });
-	
-	d3.csv("data/immigration_data_dems.csv", function(d) {
-	  d.date = parseTime(d.date);
-	  d.dem = +d.dem;
-	  return d;
-	}, function(error, data) {
+	// Get the data
+	d3.csv("data/acaobamacare.csv", function(error, data) {
 	  if (error) throw error;
 	
-	  x.domain(d3.extent(data, function(d) { return d.date; }));
-	  y.domain(d3.extent(data, function(d) { return d.dem; }));
-	
-	  acaChart.append("g")
-	      .attr("class", "axis axis--x")
-	      .attr("transform", "translate(0," + height + ")")
-	      .call(d3.axisBottom(x));
-	
-	  acaChart.append("g")
-	      .attr("class", "axis axis--y")
-	      .call(d3.axisLeft(y))
-	
-	  acaChart.append("path")
-	      .datum(data)
-	      .attr("class", "line_dem")
-	      .attr("stroke", "purple")
-	      .attr("d", line_dem);
+	  // format the data
+	  data.forEach(function(d) {
+	      d.sumOfACA = +d.sumOfACA;
+		  d.sumOfObamaCare = +d.sumOfObamaCare;
+	  });
+	  
+		
+	  // Scale the range of the data
+	  x.domain(d3.extent(data, function(d) { return d.sumOfACA; }));
+	  y.domain([0, d3.max(data, function(d) { return d.sumOfObamaCare; })]);
+	  	
+	  // Add the scatterplot
+	  acaChart.selectAll("dot")
+	      .data(data)
+	    .enter().append("circle")
+	      .attr("r", 5)
+	      .style('fill', function(d) { return circleColor(d.party); })
+	      .attr("cx", function(d) { return x(d.sumOfACA); })
+	      .attr("cy", function(d) { return y(d.sumOfObamaCare); })
+	      .on("mouseover", function(d) {
+       div.transition()
+         .duration(200)
+         .style("opacity", .9);
+       div.html(d.twitter + "<br>" + d.sumOfACA + " ACA" + "<br>" + d.sumOfObamaCare + " OC")
+         .style("left", (d3.event.pageX) + "px")
+         .style("top", (d3.event.pageY - 28) + "px");
+       })
+     .on("mouseout", function(d) {
+       div.transition()
+         .duration(500)
+         .style("opacity", 0);
+         })
+     .on("click", function(d){
+        var url = "healthcare_twitter_details.php?twitter=" + d.twitter + "&party=" + d.party + "&aca=" + d.sumOfACA + "&oc=" + d.sumOfObamaCare;
+        location.href = url;
 	});
 	
-	
-	d3.csv("data/immigration_data_reps.csv", function(d) {
-	  d.date = parseTime(d.date);
-	  d.rep = +d.rep;
-	  return d;
-	}, function(error, data) {
-	  if (error) throw error;
-	
-	  x.domain(d3.extent(data, function(d) { return d.date; }));
-	
+	  // Add the X Axis
 	  acaChart.append("g")
-	      .attr("class", "axis axis--x")
 	      .attr("transform", "translate(0," + height + ")")
 	      .call(d3.axisBottom(x));
+	  acaChart.append("text") .attr("class", "x label") .attr("text-anchor", "end") .attr("x", width) .attr("y", height + 28) .text("Tweets mentioning Affordable Care Act (# tweets)")
 	
-	  acaChart.append("g")
-	      .attr("class", "axis axis--y")
-	      .call(d3.axisLeft(y))
-	
-	  acaChart.append("path")
-	      .datum(data)
-	      .attr("class", "line_rep")
-	      .attr("stroke", "green")
-	      .attr("d", line_rep);
+	  // Add the Y Axis
+	  acaChart.append("g").call(d3.axisLeft(y));
+	  acaChart.append("text") .attr("class", "y label") .attr("text-anchor", "end") 
+	  	.attr("y", -40) .text("Tweets mentioning Obama Care (# tweets)").attr("dy", ".75em")
+	  	.attr("transform", "rotate(-90)")
+	      
+	  			
+
 	});
 	
+	// Define 'div' for tooltips
+	var div = d3.select("body")
+	.append("div")  // declare the tooltip div 
+	.attr("class", "aca-tooltip")              // apply the 'tooltip' class
+	.style("opacity", 0);  
+}
+
+function circleColor(party) {
+	if ( party == 'Republican') {
+		return 'red';	
+	} else if (party == 'Democrat') {
+		return 'blue';
+	} else {
+		return 'green';
+	}	
 }
 
 /* 	Size chart		*/
