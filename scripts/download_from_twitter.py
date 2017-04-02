@@ -1,48 +1,47 @@
-
-# coding: utf-8
-
-# In[2]:
-
 import pandas as pd
 import requests
 from requests_oauthlib import OAuth1
 import cnfg
 import tweepy
 import csv
-import os.path, ConfigParser
+import os.path, ConfigParser, sys
 
-
-# In[3]:
-config = ConfigParser.ConfigParser()
-config.read("config.ini")
-consumer_key =  config.get('twitter', 'consumer_key')
-consumer_secret = config.get('twitter', 'consumer_secret')
-access_token = config.get('twitter', 'access_token')
-access_token_secret = config.get('twitter', 'access_token_secret')
-
-
-# In[4]:
-
-usernames = set()
-
-
-# In[5]:
-
-df = pd.read_csv('configuration/CongressTwitterHandles.csv')
 output_path = '../raw_data'
 
+def main():
 
-# In[6]:
+    config = ConfigParser.ConfigParser()
+    config.read("config.ini")
+    consumer_key =  config.get('twitter', 'consumer_key')
+    consumer_secret = config.get('twitter', 'consumer_secret')
+    access_token = config.get('twitter', 'access_token')
+    access_token_secret = config.get('twitter', 'access_token_secret')
 
-usernames.update(set(df['twitter']))
-cleaned = [u for u in list(usernames) if str(u) != 'nan']
-usernames=set(cleaned)
-len(usernames)
+    df = pd.read_csv('configuration/CongressTwitterHandles.csv')
 
+    usernames = set()
+    usernames.update(set(df['twitter']))
+    cleaned = [u for u in list(usernames) if str(u) != 'nan']
+    usernames=set(cleaned)
+    len(usernames)
 
-# In[7]:
+    summary = []
+    for u in usernames:
+        file_name = '%s/%s_tweets.csv' % (output_path, u)
+        if False and os.path.isfile(file_name):
+            print "already collected tweets for %s at %s" % (u, file_name)
+        else:
+            try:
+                print "getting tweets for %s..." %u
+                numtweets = get_all_tweets(u, consumer_key, consumer_secret, access_token, access_token_secret)
+                summary.append([u, numtweets])
+            except:
+                print "%s tweets are protected or the API has timed out" %u
+                summary.append([u, sys.exc_info()[0]])
+        print summary
+        print
 
-def get_all_tweets(screen_name):
+def get_all_tweets(screen_name, consumer_key, consumer_secret, access_token, access_token_secret):
     #Twitter only allows access to a users most recent 3240 tweets with this method
 
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
@@ -70,32 +69,17 @@ def get_all_tweets(screen_name):
         
     outtweets = [[tweet.id_str, tweet.created_at, screen_name, tweet.retweet_count, tweet.favorite_count, tweet.source.encode("utf-8"), tweet.text.encode("utf-8")] for tweet in alltweets]
 
+    print 'hihihi'
+
     with open('%s/%s_tweets.csv' % (output_path, screen_name), 'wb') as f:
         writer = csv.writer(f)
         writer.writerow(["id","created_at","user", "retweets", "favorite_count", "source", "text"])
         writer.writerows(outtweets)
 
+    print 'hihihi'
     print 'collected %d tweets from %s' % (len(outtweets), screen_name)
     return len(outtweets)
 
 
-# In[16]:
-
-summary = []
-for u in usernames:
-    file_name = '%s/%s_tweets.csv' % (output_path, u)
-    if False and os.path.isfile(file_name):
-        print "already collected tweets for %s at %s" % (u, file_name)
-    else:
-        try:
-            print "getting tweets for %s..." %u
-            numtweets = get_all_tweets(u)
-            summary.append([u, numtweets])
-        except:
-            print "%s tweets are protected or the API has timed out" %u
-            summary.append([u, sys.exc_info()[0]])
-    print summary
-    print
-
-
+main()
 
