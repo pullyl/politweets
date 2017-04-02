@@ -28,7 +28,7 @@ def main():
     summary = []
     for u in usernames:
         file_name = '%s/%s_tweets.csv' % (output_path, u)
-        if False and os.path.isfile(file_name):
+        if os.path.isfile(file_name):
             print "already collected tweets for %s at %s" % (u, file_name)
         else:
             try:
@@ -38,8 +38,14 @@ def main():
             except:
                 print "%s tweets are protected or the API has timed out" %u
                 summary.append([u, sys.exc_info()[0]])
-        print summary
+        print_table(summary)
         print
+
+def print_table(table):
+    print '----------------------------------------'
+    for item in table:
+        print '|     ', item[0], ' | ', item[1], '|'
+    print '----------------------------------------',
 
 def get_all_tweets(screen_name, consumer_key, consumer_secret, access_token, access_token_secret):
     #Twitter only allows access to a users most recent 3240 tweets with this method
@@ -59,7 +65,6 @@ def get_all_tweets(screen_name, consumer_key, consumer_secret, access_token, acc
     
     #keep grabbing tweets until there are no tweets left to grab
     while len(new_tweets) > 0:
-        print "getting tweets before %s" % (oldest)
         #all subsiquent requests use the max_id param to prevent duplicates
         new_tweets = api.user_timeline(screen_name = screen_name,count=200,max_id=oldest)
         alltweets.extend(new_tweets)
@@ -69,14 +74,11 @@ def get_all_tweets(screen_name, consumer_key, consumer_secret, access_token, acc
         
     outtweets = [[tweet.id_str, tweet.created_at, screen_name, tweet.retweet_count, tweet.favorite_count, tweet.source.encode("utf-8"), tweet.text.encode("utf-8")] for tweet in alltweets]
 
-    print 'hihihi'
-
     with open('%s/%s_tweets.csv' % (output_path, screen_name), 'wb') as f:
         writer = csv.writer(f)
         writer.writerow(["id","created_at","user", "retweets", "favorite_count", "source", "text"])
         writer.writerows(outtweets)
 
-    print 'hihihi'
     print 'collected %d tweets from %s' % (len(outtweets), screen_name)
     return len(outtweets)
 
