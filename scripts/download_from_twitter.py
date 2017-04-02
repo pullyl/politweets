@@ -29,6 +29,7 @@ usernames = set()
 # In[5]:
 
 df = pd.read_csv('configuration/CongressTwitterHandles.csv')
+output_path = '../raw_data'
 
 
 # In[6]:
@@ -69,23 +70,31 @@ def get_all_tweets(screen_name):
         
     outtweets = [[tweet.id_str, tweet.created_at, screen_name, tweet.retweet_count, tweet.favorite_count, tweet.source.encode("utf-8"), tweet.text.encode("utf-8")] for tweet in alltweets]
 
-    with open('politweets_/%s_tweets.csv' % screen_name, 'wb') as f:
+    with open('%s/%s_tweets.csv' % (output_path, screen_name), 'wb') as f:
         writer = csv.writer(f)
         writer.writerow(["id","created_at","user", "retweets", "favorite_count", "source", "text"])
         writer.writerows(outtweets)
 
+    print 'collected %d tweets from %s' % (len(outtweets), screen_name)
+    return len(outtweets)
+
 
 # In[16]:
 
+summary = []
 for u in usernames:
-    if os.path.isfile('politweets_/%s_tweets.csv' % u):
-        print "already collected tweets for %s!" %u
+    file_name = '%s/%s_tweets.csv' % (output_path, u)
+    if False and os.path.isfile(file_name):
+        print "already collected tweets for %s at %s" % (u, file_name)
     else:
         try:
             print "getting tweets for %s..." %u
-            get_all_tweets(u)
+            numtweets = get_all_tweets(u)
+            summary.append([u, numtweets])
         except:
             print "%s tweets are protected or the API has timed out" %u
+            summary.append([u, sys.exc_info()[0]])
+    print summary
     print
 
 
