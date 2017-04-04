@@ -2,3 +2,13 @@
 manipulated_data/combinedtweets.csv
 
 *.ini
+
+.idea/misc.xml
+
+.idea/modules.xml
+
+.idea/politweets.iml
+
+.idea/vcs.xml
+
+.idea/workspace.xml
