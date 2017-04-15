@@ -1,299 +1,319 @@
-id,created_at,coordinates,retweets,favorite_count,source,text
-719523062962601984,2016-04-11 13:50:40,,4,25,Twitter Web Client,Thank you to the Oklahoma Association of Electric Cooperatives for electrifying Oklahoma! https://t.co/0oVY9t55f8
-707592884271370241,2016-03-09 15:44:24,,2,0,Twitter Web Client,RT @DoveScience: Thank you so much @RepRussell for visiting @DSA_OKC and recognizing our five #CongressionalAward winners! https://t.co/NQZ…
-707212099584450561,2016-03-08 14:31:18,,3,0,Twitter Web Client,RT @mitchelltalks: Meet @RepRussell 2-nite at his Village Town Hall 6p tonight at Village City Hall chamber 2304 Manchester Dr. s of Hefner…
-700443317566365696,2016-02-18 22:14:35,,4,4,Twitter Web Client,"Watch @OKCFOX tonight for my comments on #WasteWatch4, and my concerns on the Middle East and Iran sanctions relief. https://t.co/ydwQwpu8xG"
-699624116144443394,2016-02-16 15:59:22,,16,10,Twitter Web Client,No joke - the US spent $1M on BAGS OF AIR. My #WasteWatch4 reveals 10 new spending scandals: https://t.co/q3XVkuYpMl https://t.co/5PG5Ba7xc2
-695271345370894336,2016-02-04 15:43:00,,37,0,Twitter Web Client,"RT @FinancialCmte: #OperationChokePoint is a clear abuse of power &amp; another example of @POTUS overreach. #EndChokepoint #HR766
+id,created_at,user,retweets,favorite_count,source,text
+851494732832362496,2017-04-10 17:58:58,RepRussell,0,0,Twitter Web Client,"Listen to my interview on tax reform with @NVPublicRadio, which aired today.
+https://t.co/Wj6vcqEIv1"
+850443949273739265,2017-04-07 20:23:32,RepRussell,1,1,Twitter Web Client,"Last night I discussed President Trump's airstrike in Syria on Fox 25 KOKH.
+https://t.co/Nm97QVA2kP"
+850380625446043648,2017-04-07 16:11:55,RepRussell,0,2,Twitter Web Client,"In a recent Armed Services Committee hearing, I spoke about security in the Middle East.
+https://t.co/UqRR4W5QLd https://t.co/LlgwPVsc0C"
+850378621466411008,2017-04-07 16:03:57,RepRussell,0,0,Twitter Web Client,"Yesterday, I spoke on the Floor to honor the centennial of America's entry into WWI. Watch:
+https://t.co/wFc9dqbjk6… https://t.co/rJcUAltI1S"
+848948561966485506,2017-04-03 17:21:24,RepRussell,0,2,Twitter Web Client,I visited the High Noon Club last Friday to discuss our nation's most pressing issues. Watch here: https://t.co/gqUN0k4c1T
+847531254899777536,2017-03-30 19:29:32,RepRussell,4,7,Twitter Web Client,My op-ed on tax reform was published in today's Wall Street Journal. Read it here: https://t.co/jeOxArSCr8 https://t.co/ya26FoDlvv
+847157803085156352,2017-03-29 18:45:34,RepRussell,4,9,Twitter Web Client,Today is National Vietnam War Veterans Day. Thank you to our Vietnam veterans! https://t.co/iDc3nfDKZA
+845331552150196225,2017-03-24 17:48:42,RepRussell,1,3,Twitter Web Client,Spoke with BBC about the AHCA yesterday. https://t.co/9xSpQA2Qgc
+845021409998974980,2017-03-23 21:16:18,RepRussell,0,0,Twitter Web Client,I discussed the American Health Care Act on C-SPAN today. https://t.co/muRjukbiUh
+845017986016653312,2017-03-23 21:02:42,RepRussell,0,5,Twitter Web Client,Read my op-ed that was in The Oklahoman yesterday. https://t.co/rwCEp3eGeO
+844618786875543552,2017-03-22 18:36:25,RepRussell,3,2,Twitter Web Client,"@Starbucks announced today that it will be creating 70,000 new U.S. jobs and 3,400 new stores across America. #Americanjobs and #investment"
+844236633830514688,2017-03-21 17:17:53,RepRussell,2,5,Twitter Web Client,"Last Friday, I introduced H.R. 1623, a bill that would save $16.6 billion in taxpayer dollars.  https://t.co/7xY4b5f4hd"
+842482237266415616,2017-03-16 21:06:32,RepRussell,1,4,Twitter Web Client,Talked healthcare on MSNBC over the weekend. https://t.co/FESDd3GyNq
+839904436432551938,2017-03-09 18:23:16,RepRussell,0,0,Twitter Web Client,"Spoke with @_davemorris at NewsOK recently. Watch my interview here:
+https://t.co/hH7Pe1T2LI"
+839903202053079040,2017-03-09 18:18:22,RepRussell,0,1,Twitter Web Client,I was saddened to hear about the passing of renowned Oklahoma journalist and political commentator Mike McCarville. https://t.co/SBeU4oG4jO
+719523062962601984,2016-04-11 13:50:40,RepRussell,5,29,Twitter Web Client,Thank you to the Oklahoma Association of Electric Cooperatives for electrifying Oklahoma! https://t.co/0oVY9t55f8
+707592884271370241,2016-03-09 15:44:24,RepRussell,2,0,Twitter Web Client,RT @DoveScience: Thank you so much @RepRussell for visiting @DSA_OKC and recognizing our five #CongressionalAward winners! https://t.co/NQZ…
+707212099584450561,2016-03-08 14:31:18,RepRussell,3,0,Twitter Web Client,RT @mitchelltalks: Meet @RepRussell 2-nite at his Village Town Hall 6p tonight at Village City Hall chamber 2304 Manchester Dr. s of Hefner…
+700443317566365696,2016-02-18 22:14:35,RepRussell,4,5,Twitter Web Client,"Watch @OKCFOX tonight for my comments on #WasteWatch4, and my concerns on the Middle East and Iran sanctions relief. https://t.co/ydwQwpu8xG"
+699624116144443394,2016-02-16 15:59:22,RepRussell,18,13,Twitter Web Client,No joke - the US spent $1M on BAGS OF AIR. My #WasteWatch4 reveals 10 new spending scandals: https://t.co/q3XVkuYpMl https://t.co/5PG5Ba7xc2
+695271345370894336,2016-02-04 15:43:00,RepRussell,38,0,Twitter Web Client,"RT @FinancialCmte: #OperationChokePoint is a clear abuse of power &amp; another example of @POTUS overreach. #EndChokepoint #HR766
 https://t.co…"
-694542237263228928,2016-02-02 15:25:47,,3,0,Twitter for iPhone,RT @RepStefanik: Today the House will vote on impt @RepRussell bill that prevents sanctions relief for Iranian groups that continue to supp…
-691414960019079168,2016-01-25 00:19:06,,1,3,Twitter Web Client,Looking forward to joining @mitchelltalks tomorrow on KOKC at 7:35am.  Hope you can tune in.
-690999035151290368,2016-01-23 20:46:22,,3,8,Twitter Web Client,Coming up next on @FoxNews  to talk about my trip to refugee camps on Syrian border.
-689835682387329024,2016-01-20 15:43:37,,1,3,Twitter Web Client,@bconrady22 Looking forward to having you here! Call my DC office and we'll set it up! 202-225-2132
-689504091324551169,2016-01-19 17:46:00,,3,5,Twitter Web Client,Congrats to the Sequoyah MS team for advancing to the National Finals!! https://t.co/85F4NTwb9h
-687033212267294721,2016-01-12 22:07:36,,3,0,Twitter Web Client,RT @CraigCaplan: House is scheduled to debate &amp; vote tomorrow morning on @RepRussell (R-OK) Iran terror financing sanctions bill. https://t…
-686993756378296321,2016-01-12 19:30:49,,6,10,Twitter Web Client,Thanks to Norman Rossignol for his service to our nation during WWII and the Korean War! https://t.co/39yOdRwlBd
-686938980336664577,2016-01-12 15:53:10,,2,2,Twitter Web Client,Hoping to hear more details from #POTUS tonight in his last #SOTU. https://t.co/6JcoO40XcK
-685587663433428992,2016-01-08 22:23:31,,45,0,Twitter Web Client,RT @SpeakerRyan: He's failing to act on Iran—again. https://t.co/fiZ0gUBEH3
-685239201277829120,2016-01-07 23:18:51,,6,0,Twitter Web Client,RT @HouseForeign: VIDEO: Chairman @RepEdRoyce speaks in favor of @RepRussell's bill to enhance sanctions against #Iran https://t.co/BGyUZTy…
-685217155479134208,2016-01-07 21:51:15,,9,0,Twitter Web Client,RT @GOPLeader: Joint statement with Chairman @RepEdRoyce on the House's response to aggressors like #Iran and #NorthKorea. → https://t.co/s…
-685148141176381440,2016-01-07 17:17:00,,4,4,Twitter Web Client,I wrote Iran Terror Finance Transparency Act b/c @POTUS should justify easing sanctions on Iran's terror financiers. It passed in Committee!
-684872479454707712,2016-01-06 23:01:38,,3,7,Twitter Web Client,Congress passed a bill to defund Planned Parenthood and gut Obamacare. The People have spoken &amp; @POTUS should sign. https://t.co/YYd0p8muhR
-684511610388484101,2016-01-05 23:07:40,,0,3,Twitter Web Client,"Going to be on @FoxBusiness tomorrow at 7:30 am Central to talk POTUS' executive action, protecting the 2nd Amendment, and the Middle East."
-684464707806310401,2016-01-05 20:01:17,,4,6,Twitter Web Client,The right to bear arms is fundamental to freedom &amp; we will stop any Executive who doesn't uphold the Constitution https://t.co/MwYSOrvavg
-677958487905853441,2015-12-18 21:07:54,,1,4,Twitter Web Client,Did you know the #omnibus protects life by banning embryo gene editing and defending anti-abortion health providers? #powerofthepurse
-677937977931210752,2015-12-18 19:46:24,,1,4,Twitter Web Client,Did you know the #omnibus Congress passed abolishes the 40-yr oil and gas export ban? We're taking back the #powerofthepurse.
-672895497825329152,2015-12-04 21:49:23,,2,5,Twitter Web Client,"I'm discussing terrorism, women in combat &amp; refugee resettlement with @kforkevinogle on @kfor's Flashpoint Sunday at 9:30am. Don't miss it!"
-667824869959032832,2015-11-20 22:00:31,,0,3,Twitter Web Client,Turn on @foxandfriends tomorrow at 8:45 am Central to hear my thoughts on fighting ISIS and Syrian refugee resettlement!
-667384914657075200,2015-11-19 16:52:17,,25,32,Twitter Web Client,America must lead in the fight against ISIS and shouldn't lose who we are in the process. #RefugeeCrisis https://t.co/im65uhx6gS
-667105395232632834,2015-11-18 22:21:35,,1,9,Twitter Web Client,Tune into @CSPAN tonight at 8:15 pm Central to hear my floor speech about the Syrian refugee program. https://t.co/JQvI2FXWZn
-666392675608825856,2015-11-16 23:09:29,,10,11,Twitter Web Client,"How do we defeat ISIS once and for all? Tune into the ""Tipping Point with Liz Wheeler"" on @OANN at 10pm EDT to hear my strategy."
-663761466558980097,2015-11-09 16:54:00,,2,0,Twitter Web Client,Don't forget to stop by tonight's town hall meeting at @OTripleC at 5:15 pm! Park in lot D and enter College Union Room 1. See  you there!
-662227031380348928,2015-11-05 11:16:42,,8,10,Mobile Web (M5),Coming up on @foxandfriends with @kilmeade to talk about govt waste. https://t.co/IsAEorzhGA
-662034782260469760,2015-11-04 22:32:46,,13,23,Twitter Web Client,We can't afford our gov's unaccountable spending. Tune into @foxandfriends to hear my thoughts tomorrow am with @SteveDoocy at 5:15 Central.
-659438997194846208,2015-10-28 18:38:03,,4,3,Twitter Web Client,Tune into @FoxBusiness in 3 minutes to hear my thoughts on impeaching the IRS Commissioner John Koskinen!
-659036787566841856,2015-10-27 15:59:49,,3,2,Twitter Web Client,Why is the US paying to study “notoriously toxic” online gamers? Read more in Waste Watch 3! https://t.co/YKnSyLwy38 https://t.co/PkTCNgnRCB
-658764316464824320,2015-10-26 21:57:06,,3,4,Twitter Web Client,The Middle East is more stable today because Saddam is gone. Watch my interview with @jaketapper on @TheLeadCNN here https://t.co/kDInphR1BZ
-658763516405510144,2015-10-26 21:53:56,,14,0,Twitter Web Client,RT @TheLeadCNN: Army vet who helped capture Saddam: #Trump is wrong https://t.co/6LaoCrj65y - @RepRussell on #TheLead https://t.co/3F3Kmafe…
-658703056301871109,2015-10-26 17:53:41,,13,16,Twitter Web Client,Trump says the Middle East would be better off w/ Saddam in power. I disagree. Watch @CNN's @jaketapper at 3:15 Central to hear my thoughts!
-658672954834886657,2015-10-26 15:54:04,,1,2,Twitter Web Client,Shout out to @HHSGov for addressing one of my top-dollar concerns about gov waste in #WasteWatch No. 3. Read more--&gt; https://t.co/bilericuBT
-657254953417854977,2015-10-22 17:59:26,,1,3,Twitter Web Client,I'm speaking at the @HASCRepublicans press conference on the #NDAA. Watch LIVE at 3pm: https://t.co/yk6WnS3ooK https://t.co/itkVQ0Lgi9
-656909524624908288,2015-10-21 19:06:50,,2,5,Twitter Web Client,$140k for nature walks—in a video game? Waste Watch No. 3 finds $823 million in gov waste! https://t.co/y2egqiAmAG https://t.co/1T9s7kWGqT
-654006992265191424,2015-10-13 18:53:12,,8,11,Twitter Web Client,"548 days ago, Boko Haram abducted 300 Nigerian girls. 219 are still missing. #JoinRepWilson to #BringBackOurGirls http://t.co/nJAHR4WoV1"
-654001163046682628,2015-10-13 18:30:02,,1,0,Twitter Web Client,RT @edmondsun: Oklahoma Baha'is grateful to congressman Russell http://t.co/Gomm7g0qN1
-652277329058758658,2015-10-09 00:20:08,,1,2,Twitter Web Client,Catch our conversation on 2nd Amendment and TPP! Call 405-415-2080 now to hear my thoughts on pressing issues. http://t.co/S1gltf6oY0
-652261791905521664,2015-10-08 23:18:24,,1,1,Twitter Web Client,Don't forget to call 405-415-2080 at 6:30 p.m. CDT to join our OK5 telephone town hall meeting. Looking forward to talking with you all!
-652237750440226816,2015-10-08 21:42:52,,1,2,Twitter Web Client,"Join my telephone town hall tonight at 6:30 CDT! Call 405-415-2080 to discuss Iran, 2nd Amndt, PP funding, oil exports, and foreign affairs."
-651871084904611840,2015-10-07 21:25:52,,1,0,Twitter Web Client,RT @ChosenOKC: Just met with @RepRussell SO encouraged that this man-fellow adoptive parent-is our voice in DC. #CCAIAngels http://t.co/RiM…
-650038729860640769,2015-10-02 20:04:44,,1,0,Twitter Web Client,"RT @frankgaffney: @RepRussell, Member @GOPoversight, examines Russia’s growing involvement in Iraq and Syria  http://t.co/LGqdtzOD77"
-649584751108575232,2015-10-01 14:00:48,,9,5,Twitter Web Client,"Recap from the PP hearing this week: http://t.co/rYGu47r4cR, http://t.co/WoUSZc6H9x, https://t.co/Yi1pBHLQN4 http://t.co/cO8Vc8bRjg"
-648969370119602176,2015-09-29 21:15:29,,6,12,Twitter Web Client,I personally questioned the President of Planned Parenthood about the abuse of tax dollars. Watch my closing remarks https://t.co/brdS2i55pe
-648548652642926592,2015-09-28 17:23:42,,31,0,Twitter Web Client,RT @GOPoversight: Tune in tomorrow as we examine the use of taxpayer funding by #PlannedParenthood https://t.co/ugv6DldE6G
-647421949493268480,2015-09-25 14:46:35,,0,5,Twitter Web Client,History will judge @SpeakerBoehner kindly.
-644960238848880640,2015-09-18 19:44:38,,2,0,Twitter Web Client,RT @CommCAwareness: Fun day yesterday taping with @RepRussell. #CCA #USConstitutionandYou coming soon to schools in OK-5 thanks to @c_p_n h…
-644940348960174080,2015-09-18 18:25:36,,3,3,Twitter Web Client,Is shutting down the government necessary to defund Planned Parenthood? Read my thoughts here --&gt; https://t.co/296PNKjTj4
-644606520160841728,2015-09-17 20:19:05,,12,18,Twitter Web Client,You never know who you'll bump into in the halls of Congress! It was great meeting @MissUSA from Tulsa today! http://t.co/wC6ieoe49D
-642420414887690241,2015-09-11 19:32:17,,2,4,Twitter Web Client,"Evil did not and will never overcome our United States. Today we remember the victims, families &amp; heroes of 9/11/01. http://t.co/sD6Xtvu6vs"
-641625794775789568,2015-09-09 14:54:44,,1,1,Twitter Web Client,History makes it clear - we cannot trust Iran. Watch my speech to learn how &amp; why Iran will repeat its bad behavior. http://t.co/bbKJDNOAA4
-641320980779036672,2015-09-08 18:43:31,,12,0,Twitter Web Client,RT @jasoninthehouse: EPA’s toxic environment: Sexual harassment running rampant via @gopoversight https://t.co/JXfCJiWSNb
-639851720764456961,2015-09-04 17:25:12,,242,0,Twitter Web Client,RT @HouseBenghazi: This Democrat has attended only one hour of one #Benghazi interview. The Committee has held more than 45. http://t.co/Ol…
-634016320732930048,2015-08-19 14:57:24,,3,1,Twitter for iPhone,Turn on @FoxBusiness at 11am Central to watch me on Cavuto!
-633994086354165761,2015-08-19 13:29:03,,23,0,Twitter Web Client,RT @GOPoversight: The Obama administration is not doing enough to protect against cyberthreats. http://t.co/LmszUrigl1 http://t.co/exnr70Ap…
-633672897874296833,2015-08-18 16:12:46,,6,0,Twitter Web Client,RT @GOPoversight: What the House is Doing About #PlannedParenthood http://t.co/VcGSmfxbSw via @GOPLeader
-632212030204866560,2015-08-14 15:27:48,,7,0,Twitter Web Client,RT @HouseCommerce: For over 2500 days @TigerWoods and the @StateDept have had major problems #TimeToBuild http://t.co/L09DJL6rW8
-631910897494175749,2015-08-13 19:31:12,,2,1,Twitter Web Client,"OK5, tune into 105.7 or 91.7 FM at 5pm CDT to hear about my work awarding Purple Hearts to the six service member victims of the OKC bombing"
-630840938693271552,2015-08-10 20:39:34,,1,0,Twitter for iPhone,RT @okcchamber: Miss our Chairman's Event? Check out the full video here. Thanks to @RepRussell for speaking to our membership. https://t.c…
-626775253189005312,2015-07-30 15:23:59,,8,6,Twitter Web Client,".@GOPoversight demands change bc you deserve better. POTUS, remove IRS Commissioner Koskinen. https://t.co/xRNoOEffa6 http://t.co/E0SKIDwll6"
-626462437387169792,2015-07-29 18:40:58,,3,6,Twitter Web Client,Tune in at 3 CT to @FoxNews @TeamCavuto to hear why I'm asking the President to remove IRS Commissioner Koskinen #IRSfail
-626446614211756032,2015-07-29 17:38:06,,2,3,Twitter Web Client,Grateful for 240 years of faithful chaplains and religious freedom. Thanks for all you do for our service members! http://t.co/nmAVfArwfp
-626145009302142977,2015-07-28 21:39:38,,229,0,Twitter Web Client,"RT @USNavy: As LS2 Randall Smith is laid to rest, we #HonorTheFallen in #Chattanooga. Read more: http://t.co/dWPXW5qCf7 http://t.co/xT2yRXb…"
-625831730814054400,2015-07-28 00:54:46,,0,5,Twitter for iPhone,I'm calling for @POTUS to remove IRS Commissioner for hiding 24000 emails  #TallTales https://t.co/qk1Vovzi5W http://t.co/COrg4FC1BQ
-625758968460234753,2015-07-27 20:05:38,,9,1,Twitter Web Client,IRS scandal has been laden with cover-ups and confusion since 2010. @GOPoversight is bringing accountability https://t.co/qsHdoRosOh
-624678102984224768,2015-07-24 20:30:40,,2,0,Twitter Web Client,Excited to be hosting Susan Jones MP in Oklahoma this weekend. We're off to a great start in DC! http://t.co/NxBjaCWHH4
-624325397723766786,2015-07-23 21:09:08,,2,0,Twitter Web Client,RT @TheOKieBlaze: .@RepRussell to Host MP @susanelanjones for the Weekend http://t.co/YsVPivVYzB http://t.co/YkJubQQ7Nv
-624319054203891713,2015-07-23 20:43:56,,0,0,Twitter Web Client,"Thank you to the Retired Officers Association for naming me ""Minute Man of the Year!"" What an honor! http://t.co/jlOtrZJU7h"
-623184378059980801,2015-07-20 17:35:08,,2,0,Twitter Web Client,RT @USNavyStrength: Thank you @RepRussell for touring @aircraftcarrier supplier @HEBCOINC today with @NavyLeagueUS! #ShowOurStrengthTour ht…
-623184358082539524,2015-07-20 17:35:03,,2,0,Twitter Web Client,RT @ACIBC: Today @RepRussell toured supplier @HEBCOINC w/ the @NavyLeagueUS. Thank you for supporting a strong #industrialbase! http://t.co…
-623184336850944000,2015-07-20 17:34:58,,2,0,Twitter Web Client,"RT @ACIBC: Proud to participate in the @NavyLeagueUS &amp; @USNavyStrength's #ShowOurStrengthTour, w/ @HEBCOINC &amp; @RepRussell today! http://t.c…"
-622072660537835520,2015-07-17 15:57:34,,1,2,Twitter Web Client,I believe in the power of prayer. It blessed me to lift up Oklahoma with the delegation at the OK Prayer Breakfast: https://t.co/2HMrbeNmCN
-621736053293101056,2015-07-16 17:40:01,,1,2,Twitter Web Client,"It was an honor to join @RepJBridenstine, @RepFrankLucas, @TomColeOK04, @RepMullin, @jiminhofe &amp; @SenatorLankford  in prayer for our nation."
-621401751669854208,2015-07-15 19:31:37,,4,0,Twitter Web Client,RT @WORLD_mag: Steve Russell’s journey from #Iraq to #Congress http://t.co/M3QkXX3BrZ @WarrenColeSmith @RepRussell http://t.co/j9g6hT1xrq
-621381186905051136,2015-07-15 18:09:54,,3,2,Twitter Web Client,The difference between guilt and innocence should be the law - not an expensive lawyer. Watch @GOPoversight hearing: https://t.co/Hx6l7itCny
-621351781931610112,2015-07-15 16:13:03,,1,0,Twitter Web Client,"@FixCrimJustice Thanks for your support! We'll keep working for safety, justice &amp; effective reforms."
-621310706311368704,2015-07-15 13:29:50,,19,0,Twitter Web Client,RT @ConcernedVets: RT: WATCH @RepRussell restore your faith in America in less than 3 minutes:  &gt;&gt;http://t.co/SNA8YQk1Cj #DefendFreedom htt…
-621310596051509248,2015-07-15 13:29:24,,1,0,Twitter Web Client,RT @TheOKieBlaze: @RepRussell Says Congress Must Soberly and Deliberately Review the Nuclear Agreement with Iran http://t.co/DhSnNUFY5u htt…
-621102830645022720,2015-07-14 23:43:49,,0,0,Twitter Web Client,"We're talking about trade agreements and Country of Origin labeling. If you live in #OK5, dial (405) 415-2085 to be part of the conversation"
-621093589460910080,2015-07-14 23:07:05,,1,0,Twitter Web Client,We're live on the air! Ask me a question &amp; listen to my thoughts about what's happening on Capitol Hill and in #OK5. Call 405-415-2085 now!
-621089242173808640,2015-07-14 22:49:49,,1,1,Twitter Web Client,"If you live in #OK5, call me with a question during my Tele-Town Hall meeting between 6-7pm tonight! Dial (405) 415-2085 to contact me!"
-621040861091115010,2015-07-14 19:37:34,,1,0,Twitter Web Client,"Congress can respond to the #IranDeal one of three ways: ratify, ratify with changes or reject. Read my thoughts: https://t.co/3f4RDhrLyq"
-620996412214505473,2015-07-14 16:40:56,,0,2,Twitter Web Client,The #IranDeal is over 150 pages &amp; I'm reading it word-for-word. We have to know what's in the deal to know its impact on the US.
-620653378176159744,2015-07-13 17:57:51,,3,0,Twitter Web Client,"RT @STOPOklahoma: Thank you @TomColeOK04, @RepFrankLucas, @RepJBridenstine &amp; @RepRussell for your support to reform asset forfeiture  https…"
-619616329834889216,2015-07-10 21:16:59,,3,1,Twitter Web Client,"Honored to join #NDAA Conference to make our military more agile, efficient, ready &amp; lethal https://t.co/0WGVSP3XZ5 http://t.co/vB1xH4vwRs"
-619586427525988352,2015-07-10 19:18:10,,2,2,Twitter Web Client,I look forward to new leadership for @USOPM &amp; introducing reforms for security clearances with @RepTedLieu. https://t.co/FwN1b9izJa
-619528071130017792,2015-07-10 15:26:17,,2,0,Twitter Web Client,"I'm calling out more government waste, fraud &amp; abuse in my #WasteWatch No. 2. Watch my conversation with @OANN here: https://t.co/rc2ZwPvepP"
-619514636237467648,2015-07-10 14:32:53,,1,2,Twitter Web Client,I'm proud to honor the 6 service members killed in the OKC bombing w/ #PurpleHearts. Read why they are so deserving: http://t.co/007vksWI3O
-619255475939446784,2015-07-09 21:23:05,,3,0,Twitter Web Client,RT @gregotto: @RepTedLieu and @RepRussell call for legislation to move security clearance system out of OPM http://t.co/PwAfdVWiQS
-619233973684826112,2015-07-09 19:57:38,,1,0,Twitter Web Client,.@RepTedLieu &amp; I think @USOPM can't be trusted to secure data. We're drafting a bill to move security clearances out https://t.co/dQhjXpMYZp
-619229256258875392,2015-07-09 19:38:54,,2,0,Twitter Web Client,"RT @RepTedLieu: In response to OPM hack, @RepRussell &amp; I are working on legislation to move security clearance system out of OPM: http://t.…"
-619200806533918724,2015-07-09 17:45:51,,2,0,Twitter Web Client,Kabul Embassy construction is 3 yrs behind &amp; temporary facilities aren't secure. State needs a strategic plan NOW. https://t.co/aCEo6ynSAl
-619192928750145536,2015-07-09 17:14:32,,1,0,Twitter for iPhone,"RT @GOPoversight: @RepRussell: I see no desire to streamline infrastructure... we've got 5,500 people &amp; we’re guarding them w/ gurkhas http…"
-619138225853104128,2015-07-09 13:37:10,,2,0,Twitter Web Client,RT @PrayforCongress: .@RepRussell welcoming Guest Chaplain Shane Hall to the @HouseFloor: http://t.co/7E5S5OCluh
-618856254027526144,2015-07-08 18:56:43,,3,1,Twitter Web Client,"Another example of why lying to Congress is a bad idea. The subpoena Hillary ""never received"" http://t.co/iBWKgjdARJ http://t.co/EJgjPt5kzQ"
-618810529314963456,2015-07-08 15:55:01,,0,0,Twitter Web Client,Couldn't be prouder of Jordan's art representing OK5 in the Capitol halls! http://t.co/nxaVjiKcaw
-618803253631959040,2015-07-08 15:26:07,,2,1,Twitter Web Client,We demand honesty from those who testify before Congress. Thanks to @jasoninthehouse &amp; @RepCummings  https://t.co/a4tglbmlAe
-618781959100174336,2015-07-08 14:01:30,,2,0,Twitter Web Client,RT @TheOKieBlaze: . @RepRussell l’s Statement on Reported Army Troop Cuts http://t.co/ahWBID5ODw http://t.co/RocVbUbZpf
-618488551991312384,2015-07-07 18:35:36,,0,0,Twitter Web Client,"@bpilgreen86 After Waste Watch No. 1, I helped get rid of some excess military property &amp; storage through the NDAA. Let's get the word out!"
-618470967946399744,2015-07-07 17:25:44,,1,0,Twitter Web Client,RT @CCAInstitute: @RepRussell of Okla has joined the Congressional Coalition on Adoption (CCA). Let's welcome him! #caucus4children http://…
-618417409716830208,2015-07-07 13:52:54,,9,3,Twitter Web Client,"You won't believe where your taxes are going! Waste Watch spoiler: Communist mime troupes &amp; vertical panel ""art"" https://t.co/sSFeBuC9sn"
-618070982373326848,2015-07-06 14:56:20,,1,0,Twitter Web Client,"RT @BookTV: .@RepRussell shared his summer reading list with BookTV http://t.co/YjmrlitFv6 @JKynge What are you reading this summer, tell u…"
-617350082439041024,2015-07-04 15:11:44,,2,4,Twitter Web Client,"Let us praise our military who have fought for our freedom both to gain it, and to keep it since our country’s infancy.  Happy #July4th"
-616660322108198912,2015-07-02 17:30:52,,2,1,Twitter Web Client,"Earlier today, reading to the great students of @FreedomSchoolOK. Thanks to @rfbo @sodexoUSA @USDA http://t.co/zt6MvEDtdh"
-616308005156585472,2015-07-01 18:10:53,,1,0,Twitter Web Client,Congratulations to Col. David Gaedecke for assuming command of the 552d Air Control Wing today Tinker AFB. http://t.co/YoN8O6cwnd
-614514885171384320,2015-06-26 19:25:40,,0,0,Twitter Web Client,Find me on @foxandfriends at 8:45am EDT Sat. to discuss TIGTA’s statement that the IRS testimony to Congress may not have been true.
-614151938800795648,2015-06-25 19:23:27,,7,2,Twitter Web Client,.@GOPoversight &amp; I probed IRS on vanishing emails. I will not accept double standards for agencies and citizens http://t.co/0Kd0GuIer3
-614093068875243520,2015-06-25 15:29:31,,4,0,Twitter Web Client,"I answered your questions on fracking, trade, &amp; highway funding on @OKCFOX. Watch our convo: https://t.co/ZVjKYS5Phb http://t.co/ytGwxtzsH2"
-613823720164093952,2015-06-24 21:39:13,,2,0,Twitter Web Client,I voted to stop EPA from another powergrab that would cost states several billions of dollars #RatepayerProtectionAct http://t.co/Kydp9fzc37
-613818273193422850,2015-06-24 21:17:35,,1,0,Twitter Web Client,"Check out my interview with @OKCFOX tonight! We're talking about trade, race relations &amp; government reform. http://t.co/qp4UAAodOa"
-613785539981012992,2015-06-24 19:07:30,,2,3,Twitter Web Client,.@williamdp @renaedozier So great to have you here today! Thanks for stopping by and sharing your thoughts on #EdReform!
-613341879384559616,2015-06-23 13:44:34,,5,2,Twitter Web Client,I'm grateful faith motivated @bgcodr to assist 500 families impacted by recent storms &amp; floods in OK #FaithItForward http://t.co/CEIysYzI51
-611973059445161988,2015-06-19 19:05:21,,5,0,Twitter for iPhone,"RT @HouseGOP: ""Don’t sweat the little stuff, and everything is the little stuff."" Wise advice from @RepRussell. Read more here: http://t.co…"
-611935610224410624,2015-06-19 16:36:33,,2,0,Twitter Web Client,RT @HouseGOP: What's @RepRussell's morning routine? Answer (and other insights) here: http://t.co/WxkNNckWtO
-611887170832441344,2015-06-19 13:24:04,,2,0,Twitter Web Client,My heart goes out to those affected by Oklahoma's extreme weather &amp; the families who have lost loved ones. Join me in lifting them up today
-611625854985183232,2015-06-18 20:05:41,,0,1,Twitter Web Client,"@POTUS needs a better ISIS strategy, and I gave him a bunch of ideas from @HouseFloor   http://t.co/56XghM5o3n - Retweet if you agree."
-611294105595969536,2015-06-17 22:07:26,,1,0,Twitter Web Client,BREAKING NEWS: TPA is coming back to the floor - without TAA. We need to pivot back to America so I'm voting no. https://t.co/9qn9g2fGVv
-611263928371425280,2015-06-17 20:07:31,,7,7,Twitter Web Client,The President is out of line with his unconstitutional immigration policy. Listen to my comments at @GOPoversight: https://t.co/ThQU7f7nrS
-610921279928070144,2015-06-16 21:25:58,,5,0,Twitter Web Client,I'm worried about OPM's negligence that led to the data breach. Watch my comments at the @GOPoversight hearing: https://t.co/hZhUxZF05F
-610829106180149248,2015-06-16 15:19:42,,2,1,Twitter Web Client,I joined @TeamCavuto on @FoxBusiness yesterday to talk about alternatives to #TPA and #TPP Time to Pivot to America. http://t.co/7vwiqcxw3X
-610529311381192704,2015-06-15 19:28:25,,2,1,Twitter Web Client,It is time to Pivot to America. My speech this morning from the @HouseFloor https://t.co/mO5svRZOjD
-610505332348088320,2015-06-15 17:53:08,,1,2,Twitter Web Client,It is time to Pivot to America. We must hold firm against #TPA/#FastTrack http://t.co/6wVJbVTXSA
-610501399768637440,2015-06-15 17:37:30,,3,0,Twitter Web Client,"RT @CraigCaplan: ""It starts by putting the breaks on fast-track""-@RepRussell on House floor. Voted against both TPA &amp; TAA last Friday"
-610500975800004608,2015-06-15 17:35:49,,1,3,Twitter Web Client,Happy 800th birthday to the document that inspired American liberty and democracy! #MagnaCarta800th http://t.co/YkEkVQIbxg
-609457273639931904,2015-06-12 20:28:31,,8,1,Twitter Web Client,"Today, we won the battle against TAA, but the TPA war will continue next week. Read my statement here: https://t.co/cicP6DhekC"
-609376103044632576,2015-06-12 15:05:59,,5,2,Twitter Web Client,"Anti-China rhetoric could lead us on a path to a Cold War II. For this, and other reasons, I will vote NO on #FastTrack / #TPA / #TAA"
-609105100095799296,2015-06-11 21:09:07,,5,0,Twitter Web Client,"Look forward to talking w/@AlisynCamerota on @CNN's @NewDay tomorrow morning at 7:15am EDT talking about TPA, as well as Iraq &amp; ISIS."
-609033052069720064,2015-06-11 16:22:49,,4,1,Twitter Web Client,When it comes to TPA we need a 'Right Track' not a 'Fast Track.'  Here are my comments from the @HouseFloor  http://t.co/7rnoYGlvE5
-608986630037381120,2015-06-11 13:18:21,,1,0,Twitter Web Client,RT @OwenCanfield: Interesting take from @RepRussell via @TheOklahoman  http://t.co/MGdcJNVSSl
-608411036908179457,2015-06-09 23:11:09,,10,6,Twitter Web Client,"I stand w/@SenatorSessions in asking @POTUS about secret TPP details, and w/@Rep_Hunter asking for TPP transparency. http://t.co/u3bZQzVINe"
-608340646085181442,2015-06-09 18:31:27,,4,0,Twitter Web Client,"RT @ItsMichelleRod: Had a wonderful meeting with Deputy Chief of Staff/Legislative Director, Alex Hutkin. Thank you! @RepRussell #una2015 h…"
-606915500984156160,2015-06-05 20:08:26,,2,0,Twitter Web Client,"RT @etrebels: I appreciated meeting @RepRussell today @EdmondChamber (picture courtesy to them). 
+694542237263228928,2016-02-02 15:25:47,RepRussell,4,0,Twitter for iPhone,RT @RepStefanik: Today the House will vote on impt @RepRussell bill that prevents sanctions relief for Iranian groups that continue to supp…
+691414960019079168,2016-01-25 00:19:06,RepRussell,1,4,Twitter Web Client,Looking forward to joining @mitchelltalks tomorrow on KOKC at 7:35am.  Hope you can tune in.
+690999035151290368,2016-01-23 20:46:22,RepRussell,3,11,Twitter Web Client,Coming up next on @FoxNews  to talk about my trip to refugee camps on Syrian border.
+689835682387329024,2016-01-20 15:43:37,RepRussell,1,3,Twitter Web Client,@bconrady22 Looking forward to having you here! Call my DC office and we'll set it up! 202-225-2132
+689504091324551169,2016-01-19 17:46:00,RepRussell,3,6,Twitter Web Client,Congrats to the Sequoyah MS team for advancing to the National Finals!! https://t.co/85F4NTwb9h
+687033212267294721,2016-01-12 22:07:36,RepRussell,3,0,Twitter Web Client,RT @CraigCaplan: House is scheduled to debate &amp; vote tomorrow morning on @RepRussell (R-OK) Iran terror financing sanctions bill. https://t…
+686993756378296321,2016-01-12 19:30:49,RepRussell,6,12,Twitter Web Client,Thanks to Norman Rossignol for his service to our nation during WWII and the Korean War! https://t.co/39yOdRwlBd
+686938980336664577,2016-01-12 15:53:10,RepRussell,2,3,Twitter Web Client,Hoping to hear more details from #POTUS tonight in his last #SOTU. https://t.co/6JcoO40XcK
+685587663433428992,2016-01-08 22:23:31,RepRussell,45,0,Twitter Web Client,RT @SpeakerRyan: He's failing to act on Iran—again. https://t.co/fiZ0gUBEH3
+685239201277829120,2016-01-07 23:18:51,RepRussell,6,0,Twitter Web Client,RT @HouseForeign: VIDEO: Chairman @RepEdRoyce speaks in favor of @RepRussell's bill to enhance sanctions against #Iran https://t.co/BGyUZTy…
+685217155479134208,2016-01-07 21:51:15,RepRussell,9,0,Twitter Web Client,RT @GOPLeader: Joint statement with Chairman @RepEdRoyce on the House's response to aggressors like #Iran and #NorthKorea. → https://t.co/s…
+685148141176381440,2016-01-07 17:17:00,RepRussell,4,5,Twitter Web Client,I wrote Iran Terror Finance Transparency Act b/c @POTUS should justify easing sanctions on Iran's terror financiers. It passed in Committee!
+684872479454707712,2016-01-06 23:01:38,RepRussell,3,8,Twitter Web Client,Congress passed a bill to defund Planned Parenthood and gut Obamacare. The People have spoken &amp; @POTUS should sign. https://t.co/YYd0p8muhR
+684511610388484101,2016-01-05 23:07:40,RepRussell,0,4,Twitter Web Client,"Going to be on @FoxBusiness tomorrow at 7:30 am Central to talk POTUS' executive action, protecting the 2nd Amendment, and the Middle East."
+684464707806310401,2016-01-05 20:01:17,RepRussell,4,7,Twitter Web Client,The right to bear arms is fundamental to freedom &amp; we will stop any Executive who doesn't uphold the Constitution https://t.co/MwYSOrvavg
+677958487905853441,2015-12-18 21:07:54,RepRussell,1,5,Twitter Web Client,Did you know the #omnibus protects life by banning embryo gene editing and defending anti-abortion health providers? #powerofthepurse
+677937977931210752,2015-12-18 19:46:24,RepRussell,1,5,Twitter Web Client,Did you know the #omnibus Congress passed abolishes the 40-yr oil and gas export ban? We're taking back the #powerofthepurse.
+672895497825329152,2015-12-04 21:49:23,RepRussell,2,6,Twitter Web Client,"I'm discussing terrorism, women in combat &amp; refugee resettlement with @kforkevinogle on @kfor's Flashpoint Sunday at 9:30am. Don't miss it!"
+667824869959032832,2015-11-20 22:00:31,RepRussell,0,4,Twitter Web Client,Turn on @foxandfriends tomorrow at 8:45 am Central to hear my thoughts on fighting ISIS and Syrian refugee resettlement!
+667384914657075200,2015-11-19 16:52:17,RepRussell,25,32,Twitter Web Client,America must lead in the fight against ISIS and shouldn't lose who we are in the process. #RefugeeCrisis https://t.co/im65uhx6gS
+667105395232632834,2015-11-18 22:21:35,RepRussell,1,9,Twitter Web Client,Tune into @CSPAN tonight at 8:15 pm Central to hear my floor speech about the Syrian refugee program. https://t.co/JQvI2FXWZn
+666392675608825856,2015-11-16 23:09:29,RepRussell,9,11,Twitter Web Client,"How do we defeat ISIS once and for all? Tune into the ""Tipping Point with Liz Wheeler"" on @OANN at 10pm EDT to hear my strategy."
+663761466558980097,2015-11-09 16:54:00,RepRussell,2,0,Twitter Web Client,Don't forget to stop by tonight's town hall meeting at @OTripleC at 5:15 pm! Park in lot D and enter College Union Room 1. See  you there!
+662227031380348928,2015-11-05 11:16:42,RepRussell,8,10,Twitter Lite,Coming up on @foxandfriends with @kilmeade to talk about govt waste. https://t.co/IsAEorzhGA
+662034782260469760,2015-11-04 22:32:46,RepRussell,13,23,Twitter Web Client,We can't afford our gov's unaccountable spending. Tune into @foxandfriends to hear my thoughts tomorrow am with @SteveDoocy at 5:15 Central.
+659438997194846208,2015-10-28 18:38:03,RepRussell,4,3,Twitter Web Client,Tune into @FoxBusiness in 3 minutes to hear my thoughts on impeaching the IRS Commissioner John Koskinen!
+659036787566841856,2015-10-27 15:59:49,RepRussell,3,2,Twitter Web Client,Why is the US paying to study “notoriously toxic” online gamers? Read more in Waste Watch 3! https://t.co/YKnSyLwy38 https://t.co/PkTCNgnRCB
+658764316464824320,2015-10-26 21:57:06,RepRussell,3,4,Twitter Web Client,The Middle East is more stable today because Saddam is gone. Watch my interview with @jaketapper on @TheLeadCNN here https://t.co/kDInphR1BZ
+658763516405510144,2015-10-26 21:53:56,RepRussell,14,0,Twitter Web Client,RT @TheLeadCNN: Army vet who helped capture Saddam: #Trump is wrong https://t.co/6LaoCrj65y - @RepRussell on #TheLead https://t.co/3F3Kmafe…
+658703056301871109,2015-10-26 17:53:41,RepRussell,12,16,Twitter Web Client,Trump says the Middle East would be better off w/ Saddam in power. I disagree. Watch @CNN's @jaketapper at 3:15 Central to hear my thoughts!
+658672954834886657,2015-10-26 15:54:04,RepRussell,1,2,Twitter Web Client,Shout out to @HHSGov for addressing one of my top-dollar concerns about gov waste in #WasteWatch No. 3. Read more--&gt; https://t.co/bilericuBT
+657254953417854977,2015-10-22 17:59:26,RepRussell,1,3,Twitter Web Client,I'm speaking at the @HASCRepublicans press conference on the #NDAA. Watch LIVE at 3pm: https://t.co/yk6WnS3ooK https://t.co/itkVQ0Lgi9
+656909524624908288,2015-10-21 19:06:50,RepRussell,2,5,Twitter Web Client,$140k for nature walks—in a video game? Waste Watch No. 3 finds $823 million in gov waste! https://t.co/y2egqiAmAG https://t.co/1T9s7kWGqT
+654006992265191424,2015-10-13 18:53:12,RepRussell,8,11,Twitter Web Client,"548 days ago, Boko Haram abducted 300 Nigerian girls. 219 are still missing. #JoinRepWilson to #BringBackOurGirls http://t.co/nJAHR4WoV1"
+654001163046682628,2015-10-13 18:30:02,RepRussell,1,0,Twitter Web Client,RT @edmondsun: Oklahoma Baha'is grateful to congressman Russell http://t.co/Gomm7g0qN1
+652277329058758658,2015-10-09 00:20:08,RepRussell,1,2,Twitter Web Client,Catch our conversation on 2nd Amendment and TPP! Call 405-415-2080 now to hear my thoughts on pressing issues. http://t.co/S1gltf6oY0
+652261791905521664,2015-10-08 23:18:24,RepRussell,1,1,Twitter Web Client,Don't forget to call 405-415-2080 at 6:30 p.m. CDT to join our OK5 telephone town hall meeting. Looking forward to talking with you all!
+652237750440226816,2015-10-08 21:42:52,RepRussell,1,2,Twitter Web Client,"Join my telephone town hall tonight at 6:30 CDT! Call 405-415-2080 to discuss Iran, 2nd Amndt, PP funding, oil exports, and foreign affairs."
+651871084904611840,2015-10-07 21:25:52,RepRussell,1,0,Twitter Web Client,RT @ChosenOKC: Just met with @RepRussell SO encouraged that this man-fellow adoptive parent-is our voice in DC. #CCAIAngels http://t.co/RiM…
+650038729860640769,2015-10-02 20:04:44,RepRussell,1,0,Twitter Web Client,"RT @frankgaffney: @RepRussell, Member @GOPoversight, examines Russia’s growing involvement in Iraq and Syria  http://t.co/LGqdtzOD77"
+649584751108575232,2015-10-01 14:00:48,RepRussell,9,5,Twitter Web Client,"Recap from the PP hearing this week: http://t.co/rYGu47r4cR, http://t.co/WoUSZc6H9x, https://t.co/Yi1pBHLQN4 http://t.co/cO8Vc8bRjg"
+648969370119602176,2015-09-29 21:15:29,RepRussell,6,13,Twitter Web Client,I personally questioned the President of Planned Parenthood about the abuse of tax dollars. Watch my closing remarks https://t.co/brdS2i55pe
+648548652642926592,2015-09-28 17:23:42,RepRussell,31,0,Twitter Web Client,RT @GOPoversight: Tune in tomorrow as we examine the use of taxpayer funding by #PlannedParenthood https://t.co/ugv6DldE6G
+647421949493268480,2015-09-25 14:46:35,RepRussell,0,5,Twitter Web Client,History will judge @SpeakerBoehner kindly.
+644960238848880640,2015-09-18 19:44:38,RepRussell,2,0,Twitter Web Client,RT @CommCAwareness: Fun day yesterday taping with @RepRussell. #CCA #USConstitutionandYou coming soon to schools in OK-5 thanks to @c_p_n h…
+644940348960174080,2015-09-18 18:25:36,RepRussell,3,3,Twitter Web Client,Is shutting down the government necessary to defund Planned Parenthood? Read my thoughts here --&gt; https://t.co/296PNKjTj4
+644606520160841728,2015-09-17 20:19:05,RepRussell,12,18,Twitter Web Client,You never know who you'll bump into in the halls of Congress! It was great meeting @MissUSA from Tulsa today! http://t.co/wC6ieoe49D
+642420414887690241,2015-09-11 19:32:17,RepRussell,2,4,Twitter Web Client,"Evil did not and will never overcome our United States. Today we remember the victims, families &amp; heroes of 9/11/01. http://t.co/sD6Xtvu6vs"
+641625794775789568,2015-09-09 14:54:44,RepRussell,1,1,Twitter Web Client,History makes it clear - we cannot trust Iran. Watch my speech to learn how &amp; why Iran will repeat its bad behavior. http://t.co/bbKJDNOAA4
+641320980779036672,2015-09-08 18:43:31,RepRussell,12,0,Twitter Web Client,RT @jasoninthehouse: EPA’s toxic environment: Sexual harassment running rampant via @gopoversight https://t.co/JXfCJiWSNb
+639851720764456961,2015-09-04 17:25:12,RepRussell,241,0,Twitter Web Client,RT @HouseBenghazi: This Democrat has attended only one hour of one #Benghazi interview. The Committee has held more than 45. http://t.co/Ol…
+634016320732930048,2015-08-19 14:57:24,RepRussell,3,1,Twitter for iPhone,Turn on @FoxBusiness at 11am Central to watch me on Cavuto!
+633994086354165761,2015-08-19 13:29:03,RepRussell,23,0,Twitter Web Client,RT @GOPoversight: The Obama administration is not doing enough to protect against cyberthreats. http://t.co/LmszUrigl1 http://t.co/exnr70Ap…
+633672897874296833,2015-08-18 16:12:46,RepRussell,6,0,Twitter Web Client,RT @GOPoversight: What the House is Doing About #PlannedParenthood http://t.co/VcGSmfxbSw via @GOPLeader
+632212030204866560,2015-08-14 15:27:48,RepRussell,7,0,Twitter Web Client,RT @HouseCommerce: For over 2500 days @TigerWoods and the @StateDept have had major problems #TimeToBuild http://t.co/L09DJL6rW8
+631910897494175749,2015-08-13 19:31:12,RepRussell,2,1,Twitter Web Client,"OK5, tune into 105.7 or 91.7 FM at 5pm CDT to hear about my work awarding Purple Hearts to the six service member victims of the OKC bombing"
+630840938693271552,2015-08-10 20:39:34,RepRussell,1,0,Twitter for iPhone,RT @okcchamber: Miss our Chairman's Event? Check out the full video here. Thanks to @RepRussell for speaking to our membership. https://t.c…
+626775253189005312,2015-07-30 15:23:59,RepRussell,8,6,Twitter Web Client,".@GOPoversight demands change bc you deserve better. POTUS, remove IRS Commissioner Koskinen. https://t.co/xRNoOEffa6 http://t.co/E0SKIDwll6"
+626462437387169792,2015-07-29 18:40:58,RepRussell,3,6,Twitter Web Client,Tune in at 3 CT to @FoxNews @TeamCavuto to hear why I'm asking the President to remove IRS Commissioner Koskinen #IRSfail
+626446614211756032,2015-07-29 17:38:06,RepRussell,2,3,Twitter Web Client,Grateful for 240 years of faithful chaplains and religious freedom. Thanks for all you do for our service members! http://t.co/nmAVfArwfp
+626145009302142977,2015-07-28 21:39:38,RepRussell,229,0,Twitter Web Client,"RT @USNavy: As LS2 Randall Smith is laid to rest, we #HonorTheFallen in #Chattanooga. Read more: http://t.co/dWPXW5qCf7 http://t.co/xT2yRXb…"
+625831730814054400,2015-07-28 00:54:46,RepRussell,0,5,Twitter for iPhone,I'm calling for @POTUS to remove IRS Commissioner for hiding 24000 emails  #TallTales https://t.co/qk1Vovzi5W http://t.co/COrg4FC1BQ
+625758968460234753,2015-07-27 20:05:38,RepRussell,9,1,Twitter Web Client,IRS scandal has been laden with cover-ups and confusion since 2010. @GOPoversight is bringing accountability https://t.co/qsHdoRosOh
+624678102984224768,2015-07-24 20:30:40,RepRussell,2,0,Twitter Web Client,Excited to be hosting Susan Jones MP in Oklahoma this weekend. We're off to a great start in DC! http://t.co/NxBjaCWHH4
+624325397723766786,2015-07-23 21:09:08,RepRussell,2,0,Twitter Web Client,RT @TheOKieBlaze: .@RepRussell to Host MP @susanelanjones for the Weekend http://t.co/YsVPivVYzB http://t.co/YkJubQQ7Nv
+624319054203891713,2015-07-23 20:43:56,RepRussell,0,0,Twitter Web Client,"Thank you to the Retired Officers Association for naming me ""Minute Man of the Year!"" What an honor! http://t.co/jlOtrZJU7h"
+623184378059980801,2015-07-20 17:35:08,RepRussell,2,0,Twitter Web Client,RT @USNavyStrength: Thank you @RepRussell for touring @aircraftcarrier supplier @HEBCOINC today with @NavyLeagueUS! #ShowOurStrengthTour ht…
+623184358082539524,2015-07-20 17:35:03,RepRussell,2,0,Twitter Web Client,RT @ACIBC: Today @RepRussell toured supplier @HEBCOINC w/ the @NavyLeagueUS. Thank you for supporting a strong #industrialbase! http://t.co…
+623184336850944000,2015-07-20 17:34:58,RepRussell,2,0,Twitter Web Client,"RT @ACIBC: Proud to participate in the @NavyLeagueUS &amp; @USNavyStrength's #ShowOurStrengthTour, w/ @HEBCOINC &amp; @RepRussell today! http://t.c…"
+622072660537835520,2015-07-17 15:57:34,RepRussell,1,2,Twitter Web Client,I believe in the power of prayer. It blessed me to lift up Oklahoma with the delegation at the OK Prayer Breakfast: https://t.co/2HMrbeNmCN
+621736053293101056,2015-07-16 17:40:01,RepRussell,1,2,Twitter Web Client,"It was an honor to join @RepJBridenstine, @RepFrankLucas, @TomColeOK04, @RepMullin, @jiminhofe &amp; @SenatorLankford  in prayer for our nation."
+621401751669854208,2015-07-15 19:31:37,RepRussell,4,0,Twitter Web Client,RT @WORLD_mag: Steve Russell’s journey from #Iraq to #Congress http://t.co/M3QkXX3BrZ @WarrenColeSmith @RepRussell http://t.co/j9g6hT1xrq
+621381186905051136,2015-07-15 18:09:54,RepRussell,3,2,Twitter Web Client,The difference between guilt and innocence should be the law - not an expensive lawyer. Watch @GOPoversight hearing: https://t.co/Hx6l7itCny
+621351781931610112,2015-07-15 16:13:03,RepRussell,1,0,Twitter Web Client,"@FixCrimJustice Thanks for your support! We'll keep working for safety, justice &amp; effective reforms."
+621310706311368704,2015-07-15 13:29:50,RepRussell,18,0,Twitter Web Client,RT @ConcernedVets: RT: WATCH @RepRussell restore your faith in America in less than 3 minutes:  &gt;&gt;http://t.co/SNA8YQk1Cj #DefendFreedom htt…
+621310596051509248,2015-07-15 13:29:24,RepRussell,1,0,Twitter Web Client,RT @TheOKieBlaze: @RepRussell Says Congress Must Soberly and Deliberately Review the Nuclear Agreement with Iran http://t.co/DhSnNUFY5u htt…
+621102830645022720,2015-07-14 23:43:49,RepRussell,0,0,Twitter Web Client,"We're talking about trade agreements and Country of Origin labeling. If you live in #OK5, dial (405) 415-2085 to be part of the conversation"
+621093589460910080,2015-07-14 23:07:05,RepRussell,1,0,Twitter Web Client,We're live on the air! Ask me a question &amp; listen to my thoughts about what's happening on Capitol Hill and in #OK5. Call 405-415-2085 now!
+621089242173808640,2015-07-14 22:49:49,RepRussell,1,1,Twitter Web Client,"If you live in #OK5, call me with a question during my Tele-Town Hall meeting between 6-7pm tonight! Dial (405) 415-2085 to contact me!"
+621040861091115010,2015-07-14 19:37:34,RepRussell,1,0,Twitter Web Client,"Congress can respond to the #IranDeal one of three ways: ratify, ratify with changes or reject. Read my thoughts: https://t.co/3f4RDhrLyq"
+620996412214505473,2015-07-14 16:40:56,RepRussell,0,2,Twitter Web Client,The #IranDeal is over 150 pages &amp; I'm reading it word-for-word. We have to know what's in the deal to know its impact on the US.
+620653378176159744,2015-07-13 17:57:51,RepRussell,3,0,Twitter Web Client,"RT @STOPOklahoma: Thank you @TomColeOK04, @RepFrankLucas, @RepJBridenstine &amp; @RepRussell for your support to reform asset forfeiture  https…"
+619616329834889216,2015-07-10 21:16:59,RepRussell,3,1,Twitter Web Client,"Honored to join #NDAA Conference to make our military more agile, efficient, ready &amp; lethal https://t.co/0WGVSP3XZ5 http://t.co/vB1xH4vwRs"
+619586427525988352,2015-07-10 19:18:10,RepRussell,2,2,Twitter Web Client,I look forward to new leadership for @USOPM &amp; introducing reforms for security clearances with @RepTedLieu. https://t.co/FwN1b9izJa
+619528071130017792,2015-07-10 15:26:17,RepRussell,2,0,Twitter Web Client,"I'm calling out more government waste, fraud &amp; abuse in my #WasteWatch No. 2. Watch my conversation with @OANN here: https://t.co/rc2ZwPvepP"
+619514636237467648,2015-07-10 14:32:53,RepRussell,1,2,Twitter Web Client,I'm proud to honor the 6 service members killed in the OKC bombing w/ #PurpleHearts. Read why they are so deserving: http://t.co/007vksWI3O
+619255475939446784,2015-07-09 21:23:05,RepRussell,3,0,Twitter Web Client,RT @gregotto: @RepTedLieu and @RepRussell call for legislation to move security clearance system out of OPM http://t.co/PwAfdVWiQS
+619233973684826112,2015-07-09 19:57:38,RepRussell,1,0,Twitter Web Client,.@RepTedLieu &amp; I think @USOPM can't be trusted to secure data. We're drafting a bill to move security clearances out https://t.co/dQhjXpMYZp
+619229256258875392,2015-07-09 19:38:54,RepRussell,2,0,Twitter Web Client,"RT @RepTedLieu: In response to OPM hack, @RepRussell &amp; I are working on legislation to move security clearance system out of OPM: http://t.…"
+619200806533918724,2015-07-09 17:45:51,RepRussell,2,0,Twitter Web Client,Kabul Embassy construction is 3 yrs behind &amp; temporary facilities aren't secure. State needs a strategic plan NOW. https://t.co/aCEo6ynSAl
+619192928750145536,2015-07-09 17:14:32,RepRussell,1,0,Twitter for iPhone,"RT @GOPoversight: @RepRussell: I see no desire to streamline infrastructure... we've got 5,500 people &amp; we’re guarding them w/ gurkhas http…"
+619138225853104128,2015-07-09 13:37:10,RepRussell,2,0,Twitter Web Client,RT @PrayforCongress: .@RepRussell welcoming Guest Chaplain Shane Hall to the @HouseFloor: http://t.co/7E5S5OCluh
+618856254027526144,2015-07-08 18:56:43,RepRussell,3,1,Twitter Web Client,"Another example of why lying to Congress is a bad idea. The subpoena Hillary ""never received"" http://t.co/iBWKgjdARJ http://t.co/EJgjPt5kzQ"
+618810529314963456,2015-07-08 15:55:01,RepRussell,0,0,Twitter Web Client,Couldn't be prouder of Jordan's art representing OK5 in the Capitol halls! http://t.co/nxaVjiKcaw
+618803253631959040,2015-07-08 15:26:07,RepRussell,2,1,Twitter Web Client,We demand honesty from those who testify before Congress. Thanks to @jasoninthehouse &amp; @RepCummings  https://t.co/a4tglbmlAe
+618781959100174336,2015-07-08 14:01:30,RepRussell,2,0,Twitter Web Client,RT @TheOKieBlaze: . @RepRussell l’s Statement on Reported Army Troop Cuts http://t.co/ahWBID5ODw http://t.co/RocVbUbZpf
+618488551991312384,2015-07-07 18:35:36,RepRussell,0,0,Twitter Web Client,"@bpilgreen86 After Waste Watch No. 1, I helped get rid of some excess military property &amp; storage through the NDAA. Let's get the word out!"
+618470967946399744,2015-07-07 17:25:44,RepRussell,1,0,Twitter Web Client,RT @CCAInstitute: @RepRussell of Okla has joined the Congressional Coalition on Adoption (CCA). Let's welcome him! #caucus4children http://…
+618417409716830208,2015-07-07 13:52:54,RepRussell,9,3,Twitter Web Client,"You won't believe where your taxes are going! Waste Watch spoiler: Communist mime troupes &amp; vertical panel ""art"" https://t.co/sSFeBuC9sn"
+618070982373326848,2015-07-06 14:56:20,RepRussell,1,0,Twitter Web Client,"RT @BookTV: .@RepRussell shared his summer reading list with BookTV http://t.co/YjmrlitFv6 @JKynge What are you reading this summer, tell u…"
+617350082439041024,2015-07-04 15:11:44,RepRussell,2,4,Twitter Web Client,"Let us praise our military who have fought for our freedom both to gain it, and to keep it since our country’s infancy.  Happy #July4th"
+616660322108198912,2015-07-02 17:30:52,RepRussell,2,1,Twitter Web Client,"Earlier today, reading to the great students of @FreedomSchoolOK. Thanks to @rfbo @sodexoUSA @USDA http://t.co/zt6MvEDtdh"
+616308005156585472,2015-07-01 18:10:53,RepRussell,1,0,Twitter Web Client,Congratulations to Col. David Gaedecke for assuming command of the 552d Air Control Wing today Tinker AFB. http://t.co/YoN8O6cwnd
+614514885171384320,2015-06-26 19:25:40,RepRussell,0,0,Twitter Web Client,Find me on @foxandfriends at 8:45am EDT Sat. to discuss TIGTA’s statement that the IRS testimony to Congress may not have been true.
+614151938800795648,2015-06-25 19:23:27,RepRussell,7,2,Twitter Web Client,.@GOPoversight &amp; I probed IRS on vanishing emails. I will not accept double standards for agencies and citizens http://t.co/0Kd0GuIer3
+614093068875243520,2015-06-25 15:29:31,RepRussell,4,0,Twitter Web Client,"I answered your questions on fracking, trade, &amp; highway funding on @OKCFOX. Watch our convo: https://t.co/ZVjKYS5Phb http://t.co/ytGwxtzsH2"
+613823720164093952,2015-06-24 21:39:13,RepRussell,2,0,Twitter Web Client,I voted to stop EPA from another powergrab that would cost states several billions of dollars #RatepayerProtectionAct http://t.co/Kydp9fzc37
+613818273193422850,2015-06-24 21:17:35,RepRussell,1,0,Twitter Web Client,"Check out my interview with @OKCFOX tonight! We're talking about trade, race relations &amp; government reform. http://t.co/qp4UAAodOa"
+613785539981012992,2015-06-24 19:07:30,RepRussell,2,3,Twitter Web Client,.@williamdp @renaedozier So great to have you here today! Thanks for stopping by and sharing your thoughts on #EdReform!
+613341879384559616,2015-06-23 13:44:34,RepRussell,5,2,Twitter Web Client,I'm grateful faith motivated @bgcodr to assist 500 families impacted by recent storms &amp; floods in OK #FaithItForward http://t.co/CEIysYzI51
+611973059445161988,2015-06-19 19:05:21,RepRussell,5,0,Twitter for iPhone,"RT @HouseGOP: ""Don’t sweat the little stuff, and everything is the little stuff."" Wise advice from @RepRussell. Read more here: http://t.co…"
+611935610224410624,2015-06-19 16:36:33,RepRussell,2,0,Twitter Web Client,RT @HouseGOP: What's @RepRussell's morning routine? Answer (and other insights) here: http://t.co/WxkNNckWtO
+611887170832441344,2015-06-19 13:24:04,RepRussell,2,0,Twitter Web Client,My heart goes out to those affected by Oklahoma's extreme weather &amp; the families who have lost loved ones. Join me in lifting them up today
+611625854985183232,2015-06-18 20:05:41,RepRussell,0,1,Twitter Web Client,"@POTUS needs a better ISIS strategy, and I gave him a bunch of ideas from @HouseFloor   http://t.co/56XghM5o3n - Retweet if you agree."
+611294105595969536,2015-06-17 22:07:26,RepRussell,1,0,Twitter Web Client,BREAKING NEWS: TPA is coming back to the floor - without TAA. We need to pivot back to America so I'm voting no. https://t.co/9qn9g2fGVv
+611263928371425280,2015-06-17 20:07:31,RepRussell,7,7,Twitter Web Client,The President is out of line with his unconstitutional immigration policy. Listen to my comments at @GOPoversight: https://t.co/ThQU7f7nrS
+610921279928070144,2015-06-16 21:25:58,RepRussell,5,0,Twitter Web Client,I'm worried about OPM's negligence that led to the data breach. Watch my comments at the @GOPoversight hearing: https://t.co/hZhUxZF05F
+610829106180149248,2015-06-16 15:19:42,RepRussell,2,1,Twitter Web Client,I joined @TeamCavuto on @FoxBusiness yesterday to talk about alternatives to #TPA and #TPP Time to Pivot to America. http://t.co/7vwiqcxw3X
+610529311381192704,2015-06-15 19:28:25,RepRussell,2,1,Twitter Web Client,It is time to Pivot to America. My speech this morning from the @HouseFloor https://t.co/mO5svRZOjD
+610505332348088320,2015-06-15 17:53:08,RepRussell,1,2,Twitter Web Client,It is time to Pivot to America. We must hold firm against #TPA/#FastTrack http://t.co/6wVJbVTXSA
+610501399768637440,2015-06-15 17:37:30,RepRussell,3,0,Twitter Web Client,"RT @CraigCaplan: ""It starts by putting the breaks on fast-track""-@RepRussell on House floor. Voted against both TPA &amp; TAA last Friday"
+610500975800004608,2015-06-15 17:35:49,RepRussell,1,3,Twitter Web Client,Happy 800th birthday to the document that inspired American liberty and democracy! #MagnaCarta800th http://t.co/YkEkVQIbxg
+609457273639931904,2015-06-12 20:28:31,RepRussell,8,1,Twitter Web Client,"Today, we won the battle against TAA, but the TPA war will continue next week. Read my statement here: https://t.co/cicP6DhekC"
+609376103044632576,2015-06-12 15:05:59,RepRussell,5,2,Twitter Web Client,"Anti-China rhetoric could lead us on a path to a Cold War II. For this, and other reasons, I will vote NO on #FastTrack / #TPA / #TAA"
+609105100095799296,2015-06-11 21:09:07,RepRussell,5,0,Twitter Web Client,"Look forward to talking w/@AlisynCamerota on @CNN's @NewDay tomorrow morning at 7:15am EDT talking about TPA, as well as Iraq &amp; ISIS."
+609033052069720064,2015-06-11 16:22:49,RepRussell,4,1,Twitter Web Client,When it comes to TPA we need a 'Right Track' not a 'Fast Track.'  Here are my comments from the @HouseFloor  http://t.co/7rnoYGlvE5
+608986630037381120,2015-06-11 13:18:21,RepRussell,1,0,Twitter Web Client,RT @OwenCanfield: Interesting take from @RepRussell via @TheOklahoman  http://t.co/MGdcJNVSSl
+608411036908179457,2015-06-09 23:11:09,RepRussell,9,6,Twitter Web Client,"I stand w/@SenatorSessions in asking @POTUS about secret TPP details, and w/@Rep_Hunter asking for TPP transparency. http://t.co/u3bZQzVINe"
+608340646085181442,2015-06-09 18:31:27,RepRussell,4,0,Twitter Web Client,"RT @ItsMichelleRod: Had a wonderful meeting with Deputy Chief of Staff/Legislative Director, Alex Hutkin. Thank you! @RepRussell #una2015 h…"
+606915500984156160,2015-06-05 20:08:26,RepRussell,2,0,Twitter Web Client,"RT @etrebels: I appreciated meeting @RepRussell today @EdmondChamber (picture courtesy to them). 
 
 Representing @ArmstrongAud http://t.co/o…"
-606865585037799424,2015-06-05 16:50:05,,0,0,Twitter Web Client,@Team_Tinker &amp; I welcomed LTG Lee Levy II as Commander of the Air Force Sustainment Center today. Congrats! http://t.co/fsi4cpSpzo
-606851928593711104,2015-06-05 15:55:49,,1,1,Twitter Web Client,Wondering what concerns me most about our nation's security? Listen to my discussion with @frankgaffney here: http://t.co/AzkcDKH1Gm
-606834841959727104,2015-06-05 14:47:55,,3,0,Twitter Web Client,RT @TomiLahren: @RepRussell got 'On Point.' From the Saddam Hussein manhunt to our lackluster ISIS strategy https://t.co/kclQRLPamH http://…
-606834773840023552,2015-06-05 14:47:39,,4,0,Twitter Web Client,RT @frankgaffney: On today's @RadioGaffney: @RepRussell gives a must hear rundown on threats to the US electrical grid http://t.co/5srueS04…
-606574561262501889,2015-06-04 21:33:39,,2,0,Twitter Web Client,TPA rhetoric could damage U.S.-China relations. Listen to my discussion with @RadioAmericaNet here: http://t.co/eTSd5ZxOHA
-606561798951567362,2015-06-04 20:42:56,,12,25,Twitter Web Client,Great to meet @nationalffa's Oklahomans this morning. I'm proud to report that our state's future is in great hands! http://t.co/Uxn03QAYl3
-606219440754204672,2015-06-03 22:02:32,,4,1,Twitter Web Client,"Will be on @OANN with @TomiLahren tonight at 9 PM Central. Talking about TPA, China, my time in Iraq, and how to defeat ISIS."
-605844667809202176,2015-06-02 21:13:19,,0,1,Twitter Web Client,Proud to see the Senate pass #USAFreedomAct today.  I look forward to @POTUS signing it soon.
-605769615801606144,2015-06-02 16:15:05,,0,0,Twitter Web Client,China is not our enemy - let's not make them one. See how China fits in with TPA rhetoric from the @HouseFloor http://t.co/HuC3ahnpuf
-605492342091595776,2015-06-01 21:53:18,,2,2,Twitter Web Client,Looking forward to joining @hughhewitt tonight at 7:30 Eastern to talk about TPA and why its not right for the USA right now.
-603919579266580480,2015-05-28 13:43:42,,0,1,Twitter Web Client,Archbishop Paul Coakley sat down with me talk about issues concerning the church. Thanks for making time to meet! http://t.co/E2sBZlD1CD
-603268744492756992,2015-05-26 18:37:31,,1,0,Twitter Web Client,Tell me what's on your mind at tonight's town hall meeting at @OTripleC. Looking forward to seeing you soon! https://t.co/S2hYP7ndRr
-601394540214353920,2015-05-21 14:30:06,,3,0,Twitter Web Client,"RT @TomColeOK04: Pleased to announce the latest episode of Cole on Congress, featuring @RepRussell. https://t.co/KEJgec1Iul http://t.co/orK…"
-601390100564566016,2015-05-21 14:12:27,,0,1,Twitter Web Client,No one is more deserving of a smart home from @GarySiniseFound than my friend and staff member Rusty https://t.co/5P1NqPeq4i
-601141251950440448,2015-05-20 21:43:37,,0,0,Twitter Web Client,"If you've interacted with my offices in DC or Del City, share your experience with me: https://t.co/vAw0zcZoDO. Help me serve you better!"
-601049583276400640,2015-05-20 15:39:22,,0,1,Twitter Web Client,I had the privilege of administering the @usairforce oath of office for my scheduler Savannah Jolly. Congratulations! http://t.co/GEVax3fFuh
-600768889467834368,2015-05-19 21:03:59,,0,0,Twitter Web Client,I'm commenting on the fall of Ramadi to ISIS tonight on @newsmax's Prime. Check it out at 7:30 pm CDT on Dish (223) or Direct TV (349).
-600701338993950721,2015-05-19 16:35:34,,1,1,Twitter Web Client,Thanks to Belinda Rogers and Lauren Brookey from @MarchofDimes for stopping by to discuss life issues today! http://t.co/kjV3RdpwYR
-600657881822793728,2015-05-19 13:42:53,,3,1,Twitter Web Client,"Honored to be mentioned in @thehill as a ""rising champion."" Working hard for Oklahoma! Read the article here: https://t.co/sglYPGQwtF"
-600329356662198272,2015-05-18 15:57:26,,0,1,Twitter Web Client,"Congrats to #OK5 graduates! I'm proud to see so many future leaders launching into life and pursuing their passions. Best of luck, grads!"
-600311056775413760,2015-05-18 14:44:43,,0,0,Twitter Web Client,I exposed 10 ways the government is wasting your money in my #WasteWatch report. Listen to my chat w/ @FedNewsRadio: http://t.co/G2cFDYHWEm
-599268610637492225,2015-05-15 17:42:25,,0,6,Twitter Web Client,"We passed the #NDAA to support troops &amp; veterans with more resources, advanced technology &amp; retirement reform. http://t.co/WdLyZR5wlq"
-599217882225061889,2015-05-15 14:20:50,,2,4,Twitter Web Client,I took your questions this morning on @cspan's Washington Journal. Listen to my answers here:  http://t.co/U9U2V2xYUh http://t.co/21xn0mBo9K
-599185340251922432,2015-05-15 12:11:32,,1,2,Twitter for iPhone,Call in with your questions to @cspan's Washington Journal at 7:20 CDT. Looking forward to hearing from you!
-598944147542843394,2015-05-14 20:13:07,,1,3,Twitter Web Client,I'm taking calls tomorrow morning on @cspan's Washington Journal at 7:20 a.m. Central. Be sure to call in and tell me what's on your mind!
-598922127216087040,2015-05-14 18:45:37,,4,0,Twitter Web Client,RT @TomColeOK04: Enjoyed visiting w/ @RepRussell today during Cole on Congress. Stay tuned for a link to watch the show! http://t.co/8n6Ysi…
-598537688296329217,2015-05-13 17:17:59,,5,0,Twitter Web Client,RT @weo60: Thx Shane &amp; @RepRussell for meeting  with Oklahoma community pharmacists. http://t.co/C3gZNxn8Dg
-598495284969234433,2015-05-13 14:29:30,,1,0,Twitter Web Client,Life–however small–is a sacred gift from God. RT if you support the Pain-Capable Unborn Child Protection Act http://t.co/asQ9jDFo1q
-598239293090504704,2015-05-12 21:32:16,,1,0,Twitter Web Client,RT @usna91okc: @RepRussell Thank you for talking with us about ALS and finding a cure and supporting the effort. #ALS http://t.co/3sFcae2u7r
-598239249943658496,2015-05-12 21:32:06,,3,0,Twitter Web Client,RT @YoureTheCureOK: Met with @RepRussell today to discuss child nutrition and heart/stroke research funding! #YoureTheCureOK #OKCHeart http…
-597840252607307776,2015-05-11 19:06:38,,4,1,Twitter Web Client,Thank you to the police officers who risk their lives to protect our cities. RT to show your appreciation during #NationalPoliceWeek!
-596668398626537472,2015-05-08 13:30:06,,0,0,Twitter Web Client,May we always thank our heroes and remember the sacrifices made in the name of freedom. Happy #VEDay! http://t.co/o4kFUaaMcp
-596349730483019778,2015-05-07 16:23:50,,2,2,Twitter Web Client,Today I'm praying for God's wisdom &amp; guidance in this great nation. RT if you'll join me on this #NationalDayofPrayer http://t.co/vr5PuMAcBS
-595650959944056832,2015-05-05 18:07:10,,0,2,Twitter Web Client,"It's a day for chips, salsa &amp; remembering the 1862 Mexican victory at the Battle of Puebla. Happy #CincoDeMayo, OK5! http://t.co/spluFPWKoU"
-594161400588664832,2015-05-01 15:28:11,,2,3,Twitter Web Client,"Thanks to @nationaljournal for naming me in their ""Freshman Power Ranking."" What an honor! Check it out here: http://t.co/oHj4RTepGn"
-593782352129748992,2015-04-30 14:21:59,,1,3,Twitter Web Client,Last night I helped @HASCRepublicans pass the #NDAA with my amendment to honor servicemen/women killed in OKC bombing http://t.co/REfQGmDWLM
-593417227463958529,2015-04-29 14:11:06,,2,2,Twitter Web Client,Gyrocopters don't belong in no-fly zones. I'm helping @GOPoversight secure the air &amp; ensure this doesn't happen again http://t.co/H5kjkUoVmt
-592796035161915393,2015-04-27 21:02:43,,1,0,Twitter Web Client,Our hearts go out to those affected by the tragic earthquake in Nepal. We're praying for rescues &amp; resources in the coming days.
-591361256621219842,2015-04-23 22:01:25,,0,2,iOS,My legislative assistant Harvey Sparks celebrated #GOPKidsAtWork Day. Tabitha was calling the shots today! http://t.co/H1N9isDBDq
-590882640292622337,2015-04-22 14:19:34,,1,1,Twitter Web Client,Looks like OKC will be getting watered on #EarthDay! How are you celebrating today? http://t.co/EcJZwGG3vi
-590239816090050560,2015-04-20 19:45:12,,2,1,Twitter Web Client,I'm watching physical assessments at @FortBenning today. Proud of these soldiers for their dedication &amp; service http://t.co/0j7zeiTDe6
-589806450064527360,2015-04-19 15:03:10,,3,2,Twitter for iPhone,"Today, we vow to never forget those we lost, pray for families &amp; survivors, and stand together against terror. http://t.co/i8KIg45Grn"
-589085355929919488,2015-04-17 15:17:48,,5,6,Twitter Web Client,We remember the victims &amp; survivors of OKC's terror attack &amp; honor US resilience against evil http://t.co/Uf0PzpnEoK http://t.co/kvZjEOzeDs
-588779249332531200,2015-04-16 19:01:26,,5,6,Twitter Web Client,@TomColeOK04 @RepFrankLucas @RepJBridenstine @RepMullin We remember those we lost 20 years ago in OKC. https://t.co/oKc7wXM1Bf
-588756546273861633,2015-04-16 17:31:13,,3,1,Twitter Web Client,#DailyThoughtsIn4Words: Death Tax Repeal Passed http://t.co/QkKF4WoXiK http://t.co/Rs3YxnBSbd
-588754011668480000,2015-04-16 17:21:09,,1,0,Twitter Web Client,"Thanks for stopping by, @H_ylimE!"
-588720864465707009,2015-04-16 15:09:26,,42,0,Twitter Web Client,RT @SteveScalise: The #deathtax is immoral and an attack on the #AmericanDream. More on why I support a #DeathTaxRepeal in @USAToday: http:…
-588720352919945216,2015-04-16 15:07:24,,71,0,Twitter Web Client,RT @RepHartzler: Today the House votes to repeal the #DeathTax It kills jobs &amp; hurts economy. It's time to repeal. #DeathTaxRepeal http://t…
-588364109571354624,2015-04-15 15:31:49,,2,1,Twitter Web Client,Listen to my interview with @Newsmax_Media on the President's bad Iran deal &amp; the gov waste I exposed in #WasteWatch: http://t.co/xpudtlyxh0
-588334234592501760,2015-04-15 13:33:06,,1,0,Twitter Web Client,I'm with @jasoninthehouse: No one who dodges their taxes should be working for the American people. Read his article: http://t.co/jd01bIXIpC
-588326821915164672,2015-04-15 13:03:39,,1,0,Twitter Web Client,RT @TheForum_NMX: Watch @RepRussell on @TheForum_NMX abt the billions in wasteful government spending and ways to stop it at 9:03AM ET http…
-588085135267987456,2015-04-14 21:03:16,,2,1,Twitter Web Client,"Listen to my interview with @frankgaffney about ISIS, Iran &amp; the bad deals the President is seeking for both. http://t.co/twpLyDNyJf"
-588061646867824642,2015-04-14 19:29:56,,2,0,Twitter Web Client,"It's OK's #TaxFreedomDay! 4 months into the year, you can start keeping your own money. RT if you think that's absurd http://t.co/dqCPOSUcgr"
-587977359170654208,2015-04-14 13:55:01,,6,4,Twitter Web Client,We demand that all Americans share the tax burden. I'm holding the IRS accountable for letting so many off the hook http://t.co/ii0p6FTbX0
-587616236881768448,2015-04-13 14:00:02,,12,4,Twitter Web Client,"You're paying your taxes, but is the White House? It's time to reform the tax code so everyone pays their share http://t.co/q6KQaFKRyv"
-586621398967267328,2015-04-10 20:06:55,,8,0,Twitter Web Client,RT @kingsthings: .@RepRussell joined me on #PoliticKING to explain why the proposed #IranDeal is bad for the U.S. &amp; the world. VIDEO: http:…
-586620315071082496,2015-04-10 20:02:36,,3,5,Twitter Web Client,Check out my conversation with @kingsthings on Larry King's PoliticKING: http://t.co/RywYxqAvuh http://t.co/05ETVGvV88
-586609836747583488,2015-04-10 19:20:58,,10,0,Twitter Web Client,RT @okcchamber: #OKC is a great place for millennials - but don't take our word for it. Let USA Today fill you in: http://t.co/Iu4o5Dh02H
-586549428150005760,2015-04-10 15:20:55,,1,2,Twitter Web Client,"It was a long time coming, but I am very happy to see the #FortHood victims receive their duly earned #PurpleHeart medals."
-586263691311640576,2015-04-09 20:25:30,,1,2,Twitter for iPhone,I embraced my inner child at the Jasmine Moran Children's Museum in Seminole today! http://t.co/mS0p9PiLGQ
-585828385810685952,2015-04-08 15:35:45,,1,0,Twitter Web Client,"RT @rdcarrington: @RepRussell Glad you are keeping this ""watch"" for us!"
-585535003884400640,2015-04-07 20:09:58,,10,0,Twitter Web Client,"RT @GOPoversight: .@RepRussell follows Coburn's footsteps, identifies $117M in first Waste Watch http://t.co/zJDHwHwmDl via @dcexaminer &amp; @…"
-585529546943963136,2015-04-07 19:48:17,,11,0,Twitter Web Client,RT @thehill: Lawmakers who served in Iraq press Obama on his anti-ISIS strategy: http://t.co/Isi1SoldSE http://t.co/94LK4Y2aGQ
-585496236045766656,2015-04-07 17:35:55,,2,0,Twitter Web Client,RT @sarahcwestwood: Here are 10 different ways to blow $117 million on nothing http://t.co/ZOHn3sfU54 @RepRussell
-585495958919761920,2015-04-07 17:34:49,,9,0,Twitter Web Client,RT @TIMEPolitics: Two veterans and congressmen from different parties: ISIS defeat must be political http://t.co/JrIAZPaQXG via @sethmoulto…
-585470905708589056,2015-04-07 15:55:16,,5,2,Twitter Web Client,Military force alone won't stabilize Iraq. Read the @TIME article I wrote w/ @sethmoulton about a political strategy: http://t.co/lxqBKR3hf0
-585467539251142659,2015-04-07 15:41:53,,2,0,Twitter Web Client,RT @sarahcwestwood: .@RepRussell is my new favorite freshman because he used a Lord of the Rings reference in a report https://t.co/IUYLkGz…
-585467175982497794,2015-04-07 15:40:26,,1,0,Twitter Web Client,RT @cspanradio: 11:30amET: A conversation w/@RepRussell
-585451932732563456,2015-04-07 14:39:52,,1,1,Twitter Web Client,Agency parties? Anti-USA movies? Check out my first #WasteWatch to see the ridiculous places your tax dollars went: http://t.co/qxfZgFmkNk
-585149762766241792,2015-04-06 18:39:09,,3,3,Twitter for iPhone,"I sat down with @kgounews to discuss Medicare, Iran &amp; the Army. Listen to the interview: http://t.co/XhdWPxH8DX http://t.co/dLhrGvFiO9"
-583735086929031168,2015-04-02 20:57:44,,2,0,Twitter Web Client,RT @mywirelessorg: Thank you @RepRussell for your leadership on the Permanent Internet Tax Freedom Act! #PITFA #ITFA
-583637836739510272,2015-04-02 14:31:18,,5,6,Twitter Web Client,"Today I'm with John Baldridge and students at @MountStMary. Thank you, Principal DeNegri! http://t.co/5vOUPy9pbZ"
-583620349775982592,2015-04-02 13:21:49,,0,1,Twitter Web Client,"Today and everyday, we support those in our lives with autism #WorldAutismAwarenessDay http://t.co/s6owGQSoYo"
-583379228789440512,2015-04-01 21:23:41,,0,1,Twitter Web Client,Tune in to @mainstreetradio at 5:20 Central to listen to my interview with @AlanNathan. We'll be talking about the Iran negotiation updates
-583329543462604800,2015-04-01 18:06:15,,1,0,Twitter Web Client,Will I see you at tomorrow's town hall meetings in Edmond and Del City? RT if I'll see you there! For more info: http://t.co/qk5TXdD3Dm
-582942801421307904,2015-03-31 16:29:29,,0,0,Twitter Web Client,"Help me serve you better, #OK5! Tell me how #Obamacare has impacted your family here: http://t.co/O3avN3b66Z"
-582647911542059008,2015-03-30 20:57:41,,26,0,Twitter Web Client,RT @HouseGOP: From the @EPA chief herself: #KeystoneXL wouldn't be a 'disaster' for climate. http://t.co/v8PT93J8z7
-582541174940008449,2015-03-30 13:53:33,,14,0,Twitter Web Client,RT @jasoninthehouse: Oversight success. Resignation is in everyone's best interest http://t.co/AAU3PMiqXP @GOPoversight
-582538340546830336,2015-03-30 13:42:18,,0,1,Twitter Web Client,Missed my interview with @ShannonBream over the weekend? Watch my response to the Bergdahl charges and ISIS stragety: http://t.co/acwLZm4sjy
-581537090669670400,2015-03-27 19:23:41,,1,0,Twitter Web Client,"Visit me at my town hall meetings on April 2 or April 9 in Edmond, Del City, and Shawnee! Click for more details: http://t.co/K3JwuxBueP"
-581194579912843265,2015-03-26 20:42:40,,1,0,Twitter Web Client,RT @CanCGDallas: Thanks @RepRussell for a great mtg w Consul General @SaraWilshaw. Canada &amp; Oklahoma are strong #FriendsPartnersAllies http…
-581082370373214210,2015-03-26 13:16:47,,0,0,Twitter Web Client,We're staying busy this week at the Capitol! Read my thoughts on the Bergdahl case and balanced budget here: http://t.co/e3R8cGwj6d
-580801781426438146,2015-03-25 18:41:50,,0,0,Twitter Web Client,It's always an honor to talk to representatives of our servicemen and women. http://t.co/0pV5DzQ0di http://t.co/ZmghKJHGyS
-580489246001201153,2015-03-24 21:59:55,,1,3,Twitter Web Client,I'm honored to accept an appointment to the House Armed Services Committee. Click here to read my full statement: https://t.co/fEbfIZJaKY
-580477911444144128,2015-03-24 21:14:53,,3,0,Twitter Web Client,"RT @GovMaryFallin: There are over 60,000 jobs available in Oklahoma. Find out how you can get one at our Elk City jobs fair on Thursday. ht…"
-580424128743780354,2015-03-24 17:41:10,,2,0,Twitter Web Client,RT @interatica: Thanks to @RepRussell for the time to discuss importance of #LEADSAct #patentreform with me and fellow #ACTFlyIn members.
-580370624935280640,2015-03-24 14:08:34,,3,4,Twitter for iPhone,We enjoyed getting to know @OK4theArts this morning! Glad to have you stop by the office and meet Harvey! http://t.co/eexP2LpdCq
-580370005851840513,2015-03-24 14:06:06,,3,0,Twitter for iPhone,RT @OK4theArts: Thanks to Harvey Sparks from @RepRussell office for meeting about supporting the arts sector #AAD15 http://t.co/ww3S5E10Gm
-580116547114500097,2015-03-23 21:18:57,,2,0,Twitter Web Client,RT @PeterHyDaniels: Filming in @USRepRussell's office. First of several #114th freshman profiles airing on @cspan during Easter recess http…
-580016013393203200,2015-03-23 14:39:28,,0,1,Twitter Web Client,Come visit me this spring to see the Cherry Blossom Festival. Call my office to schedule a visit and tour today! http://t.co/zRQzPOvzZP
-578939741787316224,2015-03-20 15:22:45,,11,0,Twitter Web Client,RT @SenatorLankford: Joint Op-Ed via @CNBC w/@Randy_Forbes “What sustainability &amp; #religiousfreedom have in common” http://t.co/1yTVcoZ4g0 …
-578939695893233664,2015-03-20 15:22:34,,38,0,Twitter Web Client,RT @JohnBoozman: All Americans have the fundamental right to exercise their faith. #FreetoBelieve
-578937126584258560,2015-03-20 15:12:21,,0,0,Twitter Web Client,I support a budget that balances AND provides a strong national defense. We shouldn't have to choose. #BetterBudget http://t.co/pqCeJSMvfY
-578233764595265536,2015-03-18 16:37:27,,0,2,Twitter Web Client,Congratulations to Israeli Prime Minister @netanyahu on his re-election! We look forward to standing beside you in the years to come!
-577982744409554944,2015-03-17 23:59:59,,1,0,Twitter for iPhone,"#HouseGOPbudget repeals Obamacare, champions vets &amp; empowers states to educate. Tell your story about these issues https://t.co/AurxAJXRSE"
-577841261308153856,2015-03-17 14:37:47,,0,1,Twitter Web Client,"Stay tuned, @DanielRubin109. We'll keep you updated!"
-577837139460796416,2015-03-17 14:21:24,,5,0,Twitter Web Client,RT @RepTedLieu: Has #NSA searched every email Americans send overseas?  My letter w/ @USRepRussell asks Admiral Rogers to explain.  http://…
-577832752764051458,2015-03-17 14:03:58,,0,0,Twitter Web Client,I'm fighting for a budget that balances AND allows the military to protect our nation. #housegop #betterbudget  https://t.co/FPXEO6cafy
-577593862811693056,2015-03-16 22:14:42,,0,2,Twitter Web Client,We must take national security seriously. Listen to my thoughts from a recent OETA interview: http://t.co/r5a1hhEJQW http://t.co/ynBM7jGZRI
-577527409563549696,2015-03-16 17:50:39,,1,0,Twitter Web Client,Tell me your story about how Obamacare has affected you. I want to make policy personal again https://t.co/AurxAJXRSE http://t.co/bul4oEcIwG
-576022737312997377,2015-03-12 14:11:37,,1,0,Twitter Web Client,RT @Oklahoma_NMSS: Thx Caleb Krautter @USRepRussell for mtg w/ #MSactivist yesterday! #msresearch #neurodata #cures2015 #complexrehab http:…
-576022696628203520,2015-03-12 14:11:27,,1,0,Twitter Web Client,RT @SpoaSteph: . @USRepRussell has an excellent piece on why Trade Promotion Authority #TPA is a bad idea &amp; wrong for America: http://t.co/…
-575714958996074497,2015-03-11 17:48:37,,1,1,Twitter Web Client,"Right track, not fast track. Read why I am skeptical about the Transpacific Partnership's Trade Promotion Authority http://t.co/ybpykqBeiV"
-575650355154980865,2015-03-11 13:31:54,,1,0,Twitter Web Client,RT @crgkoko: @USRepRussell great interview in @nytimes today- keep being yourself
-575375930174107651,2015-03-10 19:21:26,,38,0,Twitter Web Client,RT @SpeakerBoehner: Good news for 2nd Amendment supporters. MT @FoxNews: ATF decides to shelve proposed ban on popular type of bullet. http…
-575306243851579393,2015-03-10 14:44:31,,1,0,Twitter Web Client,RT @MagicMemMayhem: Thank you @USRepRussell &amp; Mr. Jemison for a fantastic meeting this morning. So appreciate your time &amp; looking... http:/…
-574950463570845697,2015-03-09 15:10:47,,0,1,Twitter Web Client,My thoughts on combat and Congress may surprise you. Read them here: http://t.co/XwkWrwoGVN
-573220881876590593,2015-03-04 20:38:02,,0,2,Twitter Web Client,Celebrating #WomensHistoryMonth with my #WCW. I love having Cindy in DC with me! http://t.co/73PoMM8dmL
-573178746057986048,2015-03-04 17:50:36,,2,1,Twitter Web Client,Prime Minister @netanyahu reminded us yesterday that American &amp; Israeli ideals are special and worth protecting http://t.co/LOBtn4Bxvt
-572803058608050176,2015-03-03 16:57:45,,860,0,Twitter Web Client,"RT @FoxNews: Netanyahu to Holocaust survivor Elie Wiesel: ""Your life &amp; work inspires to give meaning to the words 'never again.'"" http://t.…"
-572778034937405440,2015-03-03 15:18:19,,1,3,Twitter Web Client,I'm excited to welcome Prime Minister Netanyahu to Congress and strengthen U.S.-Israeli ties. Watch with me at http://t.co/tTdUV4FM2w
-571074292714217472,2015-02-26 22:28:16,,1,2,Twitter Web Client,#TBT when I attended Del City Elementary. I had so much fun reading to students and learning more about OK5 schools http://t.co/4jukQfUNKs
-571053205636972544,2015-02-26 21:04:28,,147,0,Twitter Web Client,RT @GOPoversight: TONIGHT - Searching for the truth from the #IRS. https://t.co/WSKWpSpBKn
-570968937833172992,2015-02-26 15:29:37,,1,2,Twitter Web Client,"Parents, not federal agencies, know what's best for their students. We're keeping the control local with #HR5 http://t.co/4WDA1uQhdb"
-570602160712519681,2015-02-25 15:12:11,,1,0,Twitter Web Client,"12 million families use #529plans to help afford college. Obama wants to tax 529s, but I'm voting to expand, strengthen &amp; modernize them"
-570334905336332288,2015-02-24 21:30:12,,1,1,Twitter Web Client,"Congress listened to America and unified to pass #KeystoneXL. But #ObamaSaysNo to energy, jobs &amp; security http://t.co/tyyJ2qNhse"
-570301148428689409,2015-02-24 19:16:04,,0,1,Twitter Web Client,I'm thinking of #OK5 students this week by voting for the #StudentSuccessAct and supporting 529 college savings accounts #edreform
-569944999116320769,2015-02-23 19:40:51,,18,5,Twitter Web Client,I believe ISIS must be treated with severity and lethality. Listen to my comments on the President's lackluster plan http://t.co/pGBwf4Z8vG
-568806443064946688,2015-02-20 16:16:38,,1,1,Twitter Web Client,"#StudentSuccessAct empowers OK5 families, schools &amp; communities. I'm proud to support #edreform moving in the right direction"
-568805467138494464,2015-02-20 16:12:45,,29,0,Twitter Web Client,RT @EdWorkforce: Problem: #K12 education system is broken. Solution: #StudentSuccessAct http://t.co/XLjo5Ogw22 http://t.co/K7M7XLrPIU
-568139662876913664,2015-02-18 20:07:05,,2,3,Twitter Web Client,A special thank you to Major General John G. Rossi for visiting me last Friday to present the Official Army Seal. http://t.co/qVsVbFjWVP
-567354205091135488,2015-02-16 16:05:58,,2,1,Twitter for iPhone,"Happy Presidents' Day, OK5! ""Liberty, when it begins to take root, is a plant of rapid growth."" -George Washington http://t.co/eZ4Ew67IYI"
-565891331638431744,2015-02-12 15:13:01,,1,1,Twitter Web Client,"Great news, OK5! The House and Senate passed #KeystoneXL yesterday. Now we're waiting on the President #TimeToBuild"
-565551754184777728,2015-02-11 16:43:40,,3,2,Twitter Web Client,"Six years later, America is ready for economic growth and energy independence #TimeToBuild #KeystoneXL http://t.co/zjU9skodfH"
-565512709295591425,2015-02-11 14:08:31,,18,0,Twitter Web Client,"RT @GOPoversight: The Government has wasted billions on failed IT systems, according to @USGAO
+606865585037799424,2015-06-05 16:50:05,RepRussell,0,0,Twitter Web Client,@Team_Tinker &amp; I welcomed LTG Lee Levy II as Commander of the Air Force Sustainment Center today. Congrats! http://t.co/fsi4cpSpzo
+606851928593711104,2015-06-05 15:55:49,RepRussell,1,1,Twitter Web Client,Wondering what concerns me most about our nation's security? Listen to my discussion with @frankgaffney here: http://t.co/AzkcDKH1Gm
+606834841959727104,2015-06-05 14:47:55,RepRussell,2,0,Twitter Web Client,RT @TomiLahren: @RepRussell got 'On Point.' From the Saddam Hussein manhunt to our lackluster ISIS strategy https://t.co/kclQRLPamH http://…
+606834773840023552,2015-06-05 14:47:39,RepRussell,4,0,Twitter Web Client,RT @frankgaffney: On today's @RadioGaffney: @RepRussell gives a must hear rundown on threats to the US electrical grid http://t.co/5srueS04…
+606574561262501889,2015-06-04 21:33:39,RepRussell,2,0,Twitter Web Client,TPA rhetoric could damage U.S.-China relations. Listen to my discussion with @RadioAmericaNet here: http://t.co/eTSd5ZxOHA
+606561798951567362,2015-06-04 20:42:56,RepRussell,12,25,Twitter Web Client,Great to meet @nationalffa's Oklahomans this morning. I'm proud to report that our state's future is in great hands! http://t.co/Uxn03QAYl3
+606219440754204672,2015-06-03 22:02:32,RepRussell,3,1,Twitter Web Client,"Will be on @OANN with @TomiLahren tonight at 9 PM Central. Talking about TPA, China, my time in Iraq, and how to defeat ISIS."
+605844667809202176,2015-06-02 21:13:19,RepRussell,0,1,Twitter Web Client,Proud to see the Senate pass #USAFreedomAct today.  I look forward to @POTUS signing it soon.
+605769615801606144,2015-06-02 16:15:05,RepRussell,0,0,Twitter Web Client,China is not our enemy - let's not make them one. See how China fits in with TPA rhetoric from the @HouseFloor http://t.co/HuC3ahnpuf
+605492342091595776,2015-06-01 21:53:18,RepRussell,2,2,Twitter Web Client,Looking forward to joining @hughhewitt tonight at 7:30 Eastern to talk about TPA and why its not right for the USA right now.
+603919579266580480,2015-05-28 13:43:42,RepRussell,0,1,Twitter Web Client,Archbishop Paul Coakley sat down with me talk about issues concerning the church. Thanks for making time to meet! http://t.co/E2sBZlD1CD
+603268744492756992,2015-05-26 18:37:31,RepRussell,1,0,Twitter Web Client,Tell me what's on your mind at tonight's town hall meeting at @OTripleC. Looking forward to seeing you soon! https://t.co/S2hYP7ndRr
+601394540214353920,2015-05-21 14:30:06,RepRussell,3,0,Twitter Web Client,"RT @TomColeOK04: Pleased to announce the latest episode of Cole on Congress, featuring @RepRussell. https://t.co/KEJgec1Iul http://t.co/orK…"
+601390100564566016,2015-05-21 14:12:27,RepRussell,0,1,Twitter Web Client,No one is more deserving of a smart home from @GarySiniseFound than my friend and staff member Rusty https://t.co/5P1NqPeq4i
+601141251950440448,2015-05-20 21:43:37,RepRussell,0,0,Twitter Web Client,"If you've interacted with my offices in DC or Del City, share your experience with me: https://t.co/vAw0zcZoDO. Help me serve you better!"
+601049583276400640,2015-05-20 15:39:22,RepRussell,0,1,Twitter Web Client,I had the privilege of administering the @usairforce oath of office for my scheduler Savannah Jolly. Congratulations! http://t.co/GEVax3fFuh
+600768889467834368,2015-05-19 21:03:59,RepRussell,0,0,Twitter Web Client,I'm commenting on the fall of Ramadi to ISIS tonight on @newsmax's Prime. Check it out at 7:30 pm CDT on Dish (223) or Direct TV (349).
+600701338993950721,2015-05-19 16:35:34,RepRussell,1,1,Twitter Web Client,Thanks to Belinda Rogers and Lauren Brookey from @MarchofDimes for stopping by to discuss life issues today! http://t.co/kjV3RdpwYR
+600657881822793728,2015-05-19 13:42:53,RepRussell,3,1,Twitter Web Client,"Honored to be mentioned in @thehill as a ""rising champion."" Working hard for Oklahoma! Read the article here: https://t.co/sglYPGQwtF"
+600329356662198272,2015-05-18 15:57:26,RepRussell,0,1,Twitter Web Client,"Congrats to #OK5 graduates! I'm proud to see so many future leaders launching into life and pursuing their passions. Best of luck, grads!"
+600311056775413760,2015-05-18 14:44:43,RepRussell,0,0,Twitter Web Client,I exposed 10 ways the government is wasting your money in my #WasteWatch report. Listen to my chat w/ @FedNewsRadio: http://t.co/G2cFDYHWEm
+599268610637492225,2015-05-15 17:42:25,RepRussell,0,6,Twitter Web Client,"We passed the #NDAA to support troops &amp; veterans with more resources, advanced technology &amp; retirement reform. http://t.co/WdLyZR5wlq"
+599217882225061889,2015-05-15 14:20:50,RepRussell,2,4,Twitter Web Client,I took your questions this morning on @cspan's Washington Journal. Listen to my answers here:  http://t.co/U9U2V2xYUh http://t.co/21xn0mBo9K
+599185340251922432,2015-05-15 12:11:32,RepRussell,1,2,Twitter for iPhone,Call in with your questions to @cspan's Washington Journal at 7:20 CDT. Looking forward to hearing from you!
+598944147542843394,2015-05-14 20:13:07,RepRussell,1,3,Twitter Web Client,I'm taking calls tomorrow morning on @cspan's Washington Journal at 7:20 a.m. Central. Be sure to call in and tell me what's on your mind!
+598922127216087040,2015-05-14 18:45:37,RepRussell,4,0,Twitter Web Client,RT @TomColeOK04: Enjoyed visiting w/ @RepRussell today during Cole on Congress. Stay tuned for a link to watch the show! http://t.co/8n6Ysi…
+598537688296329217,2015-05-13 17:17:59,RepRussell,5,0,Twitter Web Client,RT @weo60: Thx Shane &amp; @RepRussell for meeting  with Oklahoma community pharmacists. http://t.co/C3gZNxn8Dg
+598495284969234433,2015-05-13 14:29:30,RepRussell,1,0,Twitter Web Client,Life–however small–is a sacred gift from God. RT if you support the Pain-Capable Unborn Child Protection Act http://t.co/asQ9jDFo1q
+598239293090504704,2015-05-12 21:32:16,RepRussell,1,0,Twitter Web Client,RT @usna91okc: @RepRussell Thank you for talking with us about ALS and finding a cure and supporting the effort. #ALS http://t.co/3sFcae2u7r
+598239249943658496,2015-05-12 21:32:06,RepRussell,3,0,Twitter Web Client,RT @YoureTheCureOK: Met with @RepRussell today to discuss child nutrition and heart/stroke research funding! #YoureTheCureOK #OKCHeart http…
+597840252607307776,2015-05-11 19:06:38,RepRussell,4,1,Twitter Web Client,Thank you to the police officers who risk their lives to protect our cities. RT to show your appreciation during #NationalPoliceWeek!
+596668398626537472,2015-05-08 13:30:06,RepRussell,0,0,Twitter Web Client,May we always thank our heroes and remember the sacrifices made in the name of freedom. Happy #VEDay! http://t.co/o4kFUaaMcp
+596349730483019778,2015-05-07 16:23:50,RepRussell,2,2,Twitter Web Client,Today I'm praying for God's wisdom &amp; guidance in this great nation. RT if you'll join me on this #NationalDayofPrayer http://t.co/vr5PuMAcBS
+595650959944056832,2015-05-05 18:07:10,RepRussell,0,2,Twitter Web Client,"It's a day for chips, salsa &amp; remembering the 1862 Mexican victory at the Battle of Puebla. Happy #CincoDeMayo, OK5! http://t.co/spluFPWKoU"
+594161400588664832,2015-05-01 15:28:11,RepRussell,2,3,Twitter Web Client,"Thanks to @nationaljournal for naming me in their ""Freshman Power Ranking."" What an honor! Check it out here: http://t.co/oHj4RTepGn"
+593782352129748992,2015-04-30 14:21:59,RepRussell,1,3,Twitter Web Client,Last night I helped @HASCRepublicans pass the #NDAA with my amendment to honor servicemen/women killed in OKC bombing http://t.co/REfQGmDWLM
+593417227463958529,2015-04-29 14:11:06,RepRussell,2,2,Twitter Web Client,Gyrocopters don't belong in no-fly zones. I'm helping @GOPoversight secure the air &amp; ensure this doesn't happen again http://t.co/H5kjkUoVmt
+592796035161915393,2015-04-27 21:02:43,RepRussell,1,0,Twitter Web Client,Our hearts go out to those affected by the tragic earthquake in Nepal. We're praying for rescues &amp; resources in the coming days.
+591361256621219842,2015-04-23 22:01:25,RepRussell,0,2,iOS,My legislative assistant Harvey Sparks celebrated #GOPKidsAtWork Day. Tabitha was calling the shots today! http://t.co/H1N9isDBDq
+590882640292622337,2015-04-22 14:19:34,RepRussell,1,1,Twitter Web Client,Looks like OKC will be getting watered on #EarthDay! How are you celebrating today? http://t.co/EcJZwGG3vi
+590239816090050560,2015-04-20 19:45:12,RepRussell,2,1,Twitter Web Client,I'm watching physical assessments at @FortBenning today. Proud of these soldiers for their dedication &amp; service http://t.co/0j7zeiTDe6
+589806450064527360,2015-04-19 15:03:10,RepRussell,3,2,Twitter for iPhone,"Today, we vow to never forget those we lost, pray for families &amp; survivors, and stand together against terror. http://t.co/i8KIg45Grn"
+589085355929919488,2015-04-17 15:17:48,RepRussell,5,6,Twitter Web Client,We remember the victims &amp; survivors of OKC's terror attack &amp; honor US resilience against evil http://t.co/Uf0PzpnEoK http://t.co/kvZjEOzeDs
+588779249332531200,2015-04-16 19:01:26,RepRussell,5,6,Twitter Web Client,@TomColeOK04 @RepFrankLucas @RepJBridenstine @RepMullin We remember those we lost 20 years ago in OKC. https://t.co/oKc7wXM1Bf
+588756546273861633,2015-04-16 17:31:13,RepRussell,3,1,Twitter Web Client,#DailyThoughtsIn4Words: Death Tax Repeal Passed http://t.co/QkKF4WoXiK http://t.co/Rs3YxnBSbd
+588754011668480000,2015-04-16 17:21:09,RepRussell,1,0,Twitter Web Client,"Thanks for stopping by, @H_ylimE!"
+588720864465707009,2015-04-16 15:09:26,RepRussell,42,0,Twitter Web Client,RT @SteveScalise: The #deathtax is immoral and an attack on the #AmericanDream. More on why I support a #DeathTaxRepeal in @USAToday: http:…
+588720352919945216,2015-04-16 15:07:24,RepRussell,70,0,Twitter Web Client,RT @RepHartzler: Today the House votes to repeal the #DeathTax It kills jobs &amp; hurts economy. It's time to repeal. #DeathTaxRepeal http://t…
+588364109571354624,2015-04-15 15:31:49,RepRussell,2,1,Twitter Web Client,Listen to my interview with @Newsmax_Media on the President's bad Iran deal &amp; the gov waste I exposed in #WasteWatch: http://t.co/xpudtlyxh0
+588334234592501760,2015-04-15 13:33:06,RepRussell,1,0,Twitter Web Client,I'm with @jasoninthehouse: No one who dodges their taxes should be working for the American people. Read his article: http://t.co/jd01bIXIpC
+588326821915164672,2015-04-15 13:03:39,RepRussell,1,0,Twitter Web Client,RT @TheForum_NMX: Watch @RepRussell on @TheForum_NMX abt the billions in wasteful government spending and ways to stop it at 9:03AM ET http…
+588085135267987456,2015-04-14 21:03:16,RepRussell,2,1,Twitter Web Client,"Listen to my interview with @frankgaffney about ISIS, Iran &amp; the bad deals the President is seeking for both. http://t.co/twpLyDNyJf"
+588061646867824642,2015-04-14 19:29:56,RepRussell,2,0,Twitter Web Client,"It's OK's #TaxFreedomDay! 4 months into the year, you can start keeping your own money. RT if you think that's absurd http://t.co/dqCPOSUcgr"
+587977359170654208,2015-04-14 13:55:01,RepRussell,6,4,Twitter Web Client,We demand that all Americans share the tax burden. I'm holding the IRS accountable for letting so many off the hook http://t.co/ii0p6FTbX0
+587616236881768448,2015-04-13 14:00:02,RepRussell,12,4,Twitter Web Client,"You're paying your taxes, but is the White House? It's time to reform the tax code so everyone pays their share http://t.co/q6KQaFKRyv"
+586621398967267328,2015-04-10 20:06:55,RepRussell,8,0,Twitter Web Client,RT @kingsthings: .@RepRussell joined me on #PoliticKING to explain why the proposed #IranDeal is bad for the U.S. &amp; the world. VIDEO: http:…
+586620315071082496,2015-04-10 20:02:36,RepRussell,3,5,Twitter Web Client,Check out my conversation with @kingsthings on Larry King's PoliticKING: http://t.co/RywYxqAvuh http://t.co/05ETVGvV88
+586609836747583488,2015-04-10 19:20:58,RepRussell,10,0,Twitter Web Client,RT @okcchamber: #OKC is a great place for millennials - but don't take our word for it. Let USA Today fill you in: http://t.co/Iu4o5Dh02H
+586549428150005760,2015-04-10 15:20:55,RepRussell,1,2,Twitter Web Client,"It was a long time coming, but I am very happy to see the #FortHood victims receive their duly earned #PurpleHeart medals."
+586263691311640576,2015-04-09 20:25:30,RepRussell,1,2,Twitter for iPhone,I embraced my inner child at the Jasmine Moran Children's Museum in Seminole today! http://t.co/mS0p9PiLGQ
+585828385810685952,2015-04-08 15:35:45,RepRussell,1,0,Twitter Web Client,"RT @rdcarrington: @RepRussell Glad you are keeping this ""watch"" for us!"
+585535003884400640,2015-04-07 20:09:58,RepRussell,10,0,Twitter Web Client,"RT @GOPoversight: .@RepRussell follows Coburn's footsteps, identifies $117M in first Waste Watch http://t.co/zJDHwHwmDl via @dcexaminer &amp; @…"
+585529546943963136,2015-04-07 19:48:17,RepRussell,11,0,Twitter Web Client,RT @thehill: Lawmakers who served in Iraq press Obama on his anti-ISIS strategy: http://t.co/Isi1SoldSE http://t.co/94LK4Y2aGQ
+585496236045766656,2015-04-07 17:35:55,RepRussell,2,0,Twitter Web Client,RT @sarahcwestwood: Here are 10 different ways to blow $117 million on nothing http://t.co/ZOHn3sfU54 @RepRussell
+585495958919761920,2015-04-07 17:34:49,RepRussell,9,0,Twitter Web Client,RT @TIMEPolitics: Two veterans and congressmen from different parties: ISIS defeat must be political http://t.co/JrIAZPaQXG via @sethmoulto…
+585470905708589056,2015-04-07 15:55:16,RepRussell,5,2,Twitter Web Client,Military force alone won't stabilize Iraq. Read the @TIME article I wrote w/ @sethmoulton about a political strategy: http://t.co/lxqBKR3hf0
+585467539251142659,2015-04-07 15:41:53,RepRussell,2,0,Twitter Web Client,RT @sarahcwestwood: .@RepRussell is my new favorite freshman because he used a Lord of the Rings reference in a report https://t.co/IUYLkGz…
+585467175982497794,2015-04-07 15:40:26,RepRussell,1,0,Twitter Web Client,RT @cspanradio: 11:30amET: A conversation w/@RepRussell
+585451932732563456,2015-04-07 14:39:52,RepRussell,1,1,Twitter Web Client,Agency parties? Anti-USA movies? Check out my first #WasteWatch to see the ridiculous places your tax dollars went: http://t.co/qxfZgFmkNk
+585149762766241792,2015-04-06 18:39:09,RepRussell,3,3,Twitter for iPhone,"I sat down with @kgounews to discuss Medicare, Iran &amp; the Army. Listen to the interview: http://t.co/XhdWPxH8DX http://t.co/dLhrGvFiO9"
+583735086929031168,2015-04-02 20:57:44,RepRussell,2,0,Twitter Web Client,RT @mywirelessorg: Thank you @RepRussell for your leadership on the Permanent Internet Tax Freedom Act! #PITFA #ITFA
+583637836739510272,2015-04-02 14:31:18,RepRussell,5,6,Twitter Web Client,"Today I'm with John Baldridge and students at @MountStMary. Thank you, Principal DeNegri! http://t.co/5vOUPy9pbZ"
+583620349775982592,2015-04-02 13:21:49,RepRussell,0,1,Twitter Web Client,"Today and everyday, we support those in our lives with autism #WorldAutismAwarenessDay http://t.co/s6owGQSoYo"
+583379228789440512,2015-04-01 21:23:41,RepRussell,0,1,Twitter Web Client,Tune in to @mainstreetradio at 5:20 Central to listen to my interview with @AlanNathan. We'll be talking about the Iran negotiation updates
+583329543462604800,2015-04-01 18:06:15,RepRussell,1,0,Twitter Web Client,Will I see you at tomorrow's town hall meetings in Edmond and Del City? RT if I'll see you there! For more info: http://t.co/qk5TXdD3Dm
+582942801421307904,2015-03-31 16:29:29,RepRussell,0,0,Twitter Web Client,"Help me serve you better, #OK5! Tell me how #Obamacare has impacted your family here: http://t.co/O3avN3b66Z"
+582647911542059008,2015-03-30 20:57:41,RepRussell,26,0,Twitter Web Client,RT @HouseGOP: From the @EPA chief herself: #KeystoneXL wouldn't be a 'disaster' for climate. http://t.co/v8PT93J8z7
+582541174940008449,2015-03-30 13:53:33,RepRussell,14,0,Twitter Web Client,RT @jasoninthehouse: Oversight success. Resignation is in everyone's best interest http://t.co/AAU3PMiqXP @GOPoversight
+582538340546830336,2015-03-30 13:42:18,RepRussell,0,1,Twitter Web Client,Missed my interview with @ShannonBream over the weekend? Watch my response to the Bergdahl charges and ISIS stragety: http://t.co/acwLZm4sjy
+581537090669670400,2015-03-27 19:23:41,RepRussell,1,0,Twitter Web Client,"Visit me at my town hall meetings on April 2 or April 9 in Edmond, Del City, and Shawnee! Click for more details: http://t.co/K3JwuxBueP"
+581194579912843265,2015-03-26 20:42:40,RepRussell,1,0,Twitter Web Client,RT @CanCGDallas: Thanks @RepRussell for a great mtg w Consul General @SaraWilshaw. Canada &amp; Oklahoma are strong #FriendsPartnersAllies http…
+581082370373214210,2015-03-26 13:16:47,RepRussell,0,0,Twitter Web Client,We're staying busy this week at the Capitol! Read my thoughts on the Bergdahl case and balanced budget here: http://t.co/e3R8cGwj6d
+580801781426438146,2015-03-25 18:41:50,RepRussell,0,0,Twitter Web Client,It's always an honor to talk to representatives of our servicemen and women. http://t.co/0pV5DzQ0di http://t.co/ZmghKJHGyS
+580489246001201153,2015-03-24 21:59:55,RepRussell,1,3,Twitter Web Client,I'm honored to accept an appointment to the House Armed Services Committee. Click here to read my full statement: https://t.co/fEbfIZJaKY
+580477911444144128,2015-03-24 21:14:53,RepRussell,3,0,Twitter Web Client,"RT @GovMaryFallin: There are over 60,000 jobs available in Oklahoma. Find out how you can get one at our Elk City jobs fair on Thursday. ht…"
+580424128743780354,2015-03-24 17:41:10,RepRussell,2,0,Twitter Web Client,RT @interatica: Thanks to @RepRussell for the time to discuss importance of #LEADSAct #patentreform with me and fellow #ACTFlyIn members.
+580370624935280640,2015-03-24 14:08:34,RepRussell,3,4,Twitter for iPhone,We enjoyed getting to know @OK4theArts this morning! Glad to have you stop by the office and meet Harvey! http://t.co/eexP2LpdCq
+580370005851840513,2015-03-24 14:06:06,RepRussell,3,0,Twitter for iPhone,RT @OK4theArts: Thanks to Harvey Sparks from @RepRussell office for meeting about supporting the arts sector #AAD15 http://t.co/ww3S5E10Gm
+580116547114500097,2015-03-23 21:18:57,RepRussell,2,0,Twitter Web Client,RT @PeterHyDaniels: Filming in @USRepRussell's office. First of several #114th freshman profiles airing on @cspan during Easter recess http…
+580016013393203200,2015-03-23 14:39:28,RepRussell,0,1,Twitter Web Client,Come visit me this spring to see the Cherry Blossom Festival. Call my office to schedule a visit and tour today! http://t.co/zRQzPOvzZP
+578939741787316224,2015-03-20 15:22:45,RepRussell,11,0,Twitter Web Client,RT @SenatorLankford: Joint Op-Ed via @CNBC w/@Randy_Forbes “What sustainability &amp; #religiousfreedom have in common” http://t.co/1yTVcoZ4g0 …
+578939695893233664,2015-03-20 15:22:34,RepRussell,38,0,Twitter Web Client,RT @JohnBoozman: All Americans have the fundamental right to exercise their faith. #FreetoBelieve
+578937126584258560,2015-03-20 15:12:21,RepRussell,0,0,Twitter Web Client,I support a budget that balances AND provides a strong national defense. We shouldn't have to choose. #BetterBudget http://t.co/pqCeJSMvfY
+578233764595265536,2015-03-18 16:37:27,RepRussell,0,2,Twitter Web Client,Congratulations to Israeli Prime Minister @netanyahu on his re-election! We look forward to standing beside you in the years to come!
+577982744409554944,2015-03-17 23:59:59,RepRussell,1,0,Twitter for iPhone,"#HouseGOPbudget repeals Obamacare, champions vets &amp; empowers states to educate. Tell your story about these issues https://t.co/AurxAJXRSE"
+577841261308153856,2015-03-17 14:37:47,RepRussell,0,1,Twitter Web Client,"Stay tuned, @DanielRubin109. We'll keep you updated!"
+577837139460796416,2015-03-17 14:21:24,RepRussell,5,0,Twitter Web Client,RT @RepTedLieu: Has #NSA searched every email Americans send overseas?  My letter w/ @USRepRussell asks Admiral Rogers to explain.  http://…
+577832752764051458,2015-03-17 14:03:58,RepRussell,0,0,Twitter Web Client,I'm fighting for a budget that balances AND allows the military to protect our nation. #housegop #betterbudget  https://t.co/FPXEO6cafy
+577593862811693056,2015-03-16 22:14:42,RepRussell,0,2,Twitter Web Client,We must take national security seriously. Listen to my thoughts from a recent OETA interview: http://t.co/r5a1hhEJQW http://t.co/ynBM7jGZRI
+577527409563549696,2015-03-16 17:50:39,RepRussell,1,0,Twitter Web Client,Tell me your story about how Obamacare has affected you. I want to make policy personal again https://t.co/AurxAJXRSE http://t.co/bul4oEcIwG
+576022737312997377,2015-03-12 14:11:37,RepRussell,1,0,Twitter Web Client,RT @Oklahoma_NMSS: Thx Caleb Krautter @USRepRussell for mtg w/ #MSactivist yesterday! #msresearch #neurodata #cures2015 #complexrehab http:…
+576022696628203520,2015-03-12 14:11:27,RepRussell,1,0,Twitter Web Client,RT @SpoaSteph: . @USRepRussell has an excellent piece on why Trade Promotion Authority #TPA is a bad idea &amp; wrong for America: http://t.co/…
+575714958996074497,2015-03-11 17:48:37,RepRussell,1,1,Twitter Web Client,"Right track, not fast track. Read why I am skeptical about the Transpacific Partnership's Trade Promotion Authority http://t.co/ybpykqBeiV"
+575650355154980865,2015-03-11 13:31:54,RepRussell,1,0,Twitter Web Client,RT @crgkoko: @USRepRussell great interview in @nytimes today- keep being yourself
+575375930174107651,2015-03-10 19:21:26,RepRussell,38,0,Twitter Web Client,RT @SpeakerBoehner: Good news for 2nd Amendment supporters. MT @FoxNews: ATF decides to shelve proposed ban on popular type of bullet. http…
+575306243851579393,2015-03-10 14:44:31,RepRussell,1,0,Twitter Web Client,RT @MagicMemMayhem: Thank you @USRepRussell &amp; Mr. Jemison for a fantastic meeting this morning. So appreciate your time &amp; looking... http:/…
+574950463570845697,2015-03-09 15:10:47,RepRussell,0,1,Twitter Web Client,My thoughts on combat and Congress may surprise you. Read them here: http://t.co/XwkWrwoGVN
+573220881876590593,2015-03-04 20:38:02,RepRussell,0,2,Twitter Web Client,Celebrating #WomensHistoryMonth with my #WCW. I love having Cindy in DC with me! http://t.co/73PoMM8dmL
+573178746057986048,2015-03-04 17:50:36,RepRussell,2,1,Twitter Web Client,Prime Minister @netanyahu reminded us yesterday that American &amp; Israeli ideals are special and worth protecting http://t.co/LOBtn4Bxvt
+572803058608050176,2015-03-03 16:57:45,RepRussell,852,0,Twitter Web Client,"RT @FoxNews: Netanyahu to Holocaust survivor Elie Wiesel: ""Your life &amp; work inspires to give meaning to the words 'never again.'"" http://t.…"
+572778034937405440,2015-03-03 15:18:19,RepRussell,1,3,Twitter Web Client,I'm excited to welcome Prime Minister Netanyahu to Congress and strengthen U.S.-Israeli ties. Watch with me at http://t.co/tTdUV4FM2w
+571074292714217472,2015-02-26 22:28:16,RepRussell,1,2,Twitter Web Client,#TBT when I attended Del City Elementary. I had so much fun reading to students and learning more about OK5 schools http://t.co/4jukQfUNKs
+571053205636972544,2015-02-26 21:04:28,RepRussell,147,0,Twitter Web Client,RT @GOPoversight: TONIGHT - Searching for the truth from the #IRS. https://t.co/WSKWpSpBKn
+570968937833172992,2015-02-26 15:29:37,RepRussell,1,2,Twitter Web Client,"Parents, not federal agencies, know what's best for their students. We're keeping the control local with #HR5 http://t.co/4WDA1uQhdb"
+570602160712519681,2015-02-25 15:12:11,RepRussell,1,0,Twitter Web Client,"12 million families use #529plans to help afford college. Obama wants to tax 529s, but I'm voting to expand, strengthen &amp; modernize them"
+570334905336332288,2015-02-24 21:30:12,RepRussell,1,1,Twitter Web Client,"Congress listened to America and unified to pass #KeystoneXL. But #ObamaSaysNo to energy, jobs &amp; security http://t.co/tyyJ2qNhse"
+570301148428689409,2015-02-24 19:16:04,RepRussell,0,1,Twitter Web Client,I'm thinking of #OK5 students this week by voting for the #StudentSuccessAct and supporting 529 college savings accounts #edreform
+569944999116320769,2015-02-23 19:40:51,RepRussell,18,5,Twitter Web Client,I believe ISIS must be treated with severity and lethality. Listen to my comments on the President's lackluster plan http://t.co/pGBwf4Z8vG
+568806443064946688,2015-02-20 16:16:38,RepRussell,1,1,Twitter Web Client,"#StudentSuccessAct empowers OK5 families, schools &amp; communities. I'm proud to support #edreform moving in the right direction"
+568805467138494464,2015-02-20 16:12:45,RepRussell,29,0,Twitter Web Client,RT @EdWorkforce: Problem: #K12 education system is broken. Solution: #StudentSuccessAct http://t.co/XLjo5Ogw22 http://t.co/K7M7XLrPIU
+568139662876913664,2015-02-18 20:07:05,RepRussell,2,3,Twitter Web Client,A special thank you to Major General John G. Rossi for visiting me last Friday to present the Official Army Seal. http://t.co/qVsVbFjWVP
+567354205091135488,2015-02-16 16:05:58,RepRussell,2,1,Twitter for iPhone,"Happy Presidents' Day, OK5! ""Liberty, when it begins to take root, is a plant of rapid growth."" -George Washington http://t.co/eZ4Ew67IYI"
+565891331638431744,2015-02-12 15:13:01,RepRussell,1,1,Twitter Web Client,"Great news, OK5! The House and Senate passed #KeystoneXL yesterday. Now we're waiting on the President #TimeToBuild"
+565551754184777728,2015-02-11 16:43:40,RepRussell,3,2,Twitter Web Client,"Six years later, America is ready for economic growth and energy independence #TimeToBuild #KeystoneXL http://t.co/zjU9skodfH"
+565512709295591425,2015-02-11 14:08:31,RepRussell,18,0,Twitter Web Client,"RT @GOPoversight: The Government has wasted billions on failed IT systems, according to @USGAO
 
 READ the report: http://t.co/Gj8SZjdOAF htt…"
-565509621503508481,2015-02-11 13:56:15,,7,3,Twitter Web Client,"I'm calling out the 6 federal programs that mismanage your money most. Click this link for more info #EnoughIsEnough
+565509621503508481,2015-02-11 13:56:15,RepRussell,7,3,Twitter Web Client,"I'm calling out the 6 federal programs that mismanage your money most. Click this link for more info #EnoughIsEnough
 https://t.co/0QKI06OzTw"
-565211673917931522,2015-02-10 18:12:18,,3,3,Twitter Web Client,We're building an #OpportunityEconomy — one that starts from the ground and goes to the stars #BringBackNASA http://t.co/niW750cIck
-563738799117991936,2015-02-06 16:39:38,,2,1,Twitter Web Client,"Today we honor Ronald Reagan for the liberty, morality, prosperity &amp; humor he brought our great nation
+565211673917931522,2015-02-10 18:12:18,RepRussell,3,3,Twitter Web Client,We're building an #OpportunityEconomy — one that starts from the ground and goes to the stars #BringBackNASA http://t.co/niW750cIck
+563738799117991936,2015-02-06 16:39:38,RepRussell,2,1,Twitter Web Client,"Today we honor Ronald Reagan for the liberty, morality, prosperity &amp; humor he brought our great nation
 https://t.co/XSA7PhSdVK"
-563370013470752768,2015-02-05 16:14:12,,1,1,Twitter Web Client,"Our #OpportunityEconomy starts on Main Street, not Wall Street. http://t.co/807jutZOEZ"
-563099806961508352,2015-02-04 22:20:30,,5,5,Twitter Web Client,Tax increases without a #balancedbudget? We demand better. http://t.co/gZ37bvgehp
-562731877048786944,2015-02-03 21:58:29,,1,2,Twitter Web Client,Oklahomans pay up to 58% more in premiums under Obamacare than before 2013. That's why I'm voting to repeal Obamacare http://t.co/wEaWViFHsf
-562349526322016259,2015-02-02 20:39:09,,2,0,Twitter Web Client,Congrats to Edmond Memorial HS for advancing to the National Final Science Bowl. Way to make District 5 proud! #DCbound
-562348119636336640,2015-02-02 20:33:34,,1,0,Twitter Web Client,RT @DOE_SC_NSB: Memorial HS (Edmond) will represent OK at the National Finals in April–congrats! @EMHS_Bulldogs @EdmondSchools http://t.co/…
-560091780050612224,2015-01-27 15:07:41,,1,4,Twitter Web Client,Human trafficking is happening right here in the U.S. We must fight for our children and #EndTrafficking http://t.co/ZKGarp5kmU
-559846183250976769,2015-01-26 22:51:46,,88,0,Twitter Web Client,RT @SpeakerBoehner: Every life is precious. That's why we're passing #bipartisan solutions to #EndTrafficking. http://t.co/qL48yIphFz
-558733098985467904,2015-01-23 21:08:46,,8,1,Twitter Web Client,President Obama's community college plan will cost $60 billion dollars over the next 10 years. We can't afford an overreaching President.
-558332278523572224,2015-01-22 18:36:03,,2,3,Twitter Web Client,Life is a gift from God to protect &amp; respect. I'm voting for HR7 to stop federal funding of abortions. http://t.co/0gYVpYJmBL
-557959148214960128,2015-01-21 17:53:21,,3,1,Twitter Web Client,The President's perceptions are outdated. Join me in moving America in a new direction. Read my comments: https://t.co/idi5xCeG6s
-557764547499819008,2015-01-21 05:00:05,,31,0,Twitter for iPhone,"RT @HouseGOP: ✓ Expand #Trade
+563370013470752768,2015-02-05 16:14:12,RepRussell,1,1,Twitter Web Client,"Our #OpportunityEconomy starts on Main Street, not Wall Street. http://t.co/807jutZOEZ"
+563099806961508352,2015-02-04 22:20:30,RepRussell,5,5,Twitter Web Client,Tax increases without a #balancedbudget? We demand better. http://t.co/gZ37bvgehp
+562731877048786944,2015-02-03 21:58:29,RepRussell,1,2,Twitter Web Client,Oklahomans pay up to 58% more in premiums under Obamacare than before 2013. That's why I'm voting to repeal Obamacare http://t.co/wEaWViFHsf
+562349526322016259,2015-02-02 20:39:09,RepRussell,2,0,Twitter Web Client,Congrats to Edmond Memorial HS for advancing to the National Final Science Bowl. Way to make District 5 proud! #DCbound
+562348119636336640,2015-02-02 20:33:34,RepRussell,1,0,Twitter Web Client,RT @DOE_SC_NSB: Memorial HS (Edmond) will represent OK at the National Finals in April–congrats! @EMHS_Bulldogs @EdmondSchools http://t.co/…
+560091780050612224,2015-01-27 15:07:41,RepRussell,1,4,Twitter Web Client,Human trafficking is happening right here in the U.S. We must fight for our children and #EndTrafficking http://t.co/ZKGarp5kmU
+559846183250976769,2015-01-26 22:51:46,RepRussell,88,0,Twitter Web Client,RT @SpeakerBoehner: Every life is precious. That's why we're passing #bipartisan solutions to #EndTrafficking. http://t.co/qL48yIphFz
+558733098985467904,2015-01-23 21:08:46,RepRussell,8,1,Twitter Web Client,President Obama's community college plan will cost $60 billion dollars over the next 10 years. We can't afford an overreaching President.
+558332278523572224,2015-01-22 18:36:03,RepRussell,2,4,Twitter Web Client,Life is a gift from God to protect &amp; respect. I'm voting for HR7 to stop federal funding of abortions. http://t.co/0gYVpYJmBL
+557959148214960128,2015-01-21 17:53:21,RepRussell,3,1,Twitter Web Client,The President's perceptions are outdated. Join me in moving America in a new direction. Read my comments: https://t.co/idi5xCeG6s
+557764547499819008,2015-01-21 05:00:05,RepRussell,31,0,Twitter for iPhone,"RT @HouseGOP: ✓ Expand #Trade
 ✓ Boost #Manufacturing
 ✓ Reform the #TaxCode
 
 The #Republican Address, delivered by @SenJoniErnst → http://t.…"
-557627547140509696,2015-01-20 19:55:42,,0,3,Twitter Web Client,Looking forward to tonight's #SOTU and following Republican Address by @SenJoniErnst. Watch it live here: http://t.co/fX84MCzZIQ
-557555358538137600,2015-01-20 15:08:51,,0,0,Twitter Web Client,"The President's top-down governing is outdated, unfair &amp; ineffective. I believe in free market economies that grow from the bottom-up #SOTU"
-556503164921606144,2015-01-17 17:27:48,,43,26,Twitter for iPhone,We will restore Constitutional government and place the American people first. Watch my Weekly Republican Address at http://t.co/oTmk635JGN
-556445578625040384,2015-01-17 13:38:58,,27,0,Twitter for iPhone,"RT @SpeakerBoehner: ""Our new Congress has a great opportunity: to restore constitutional government."" -@SteveRussellRep http://t.co/UKgpsjj…"
-555376732463984640,2015-01-14 14:51:46,,7,5,Twitter Web Client,Keeping my promise to OK5 &amp; voting to defund the President's unlawful amnesty today. I will not support unconstitutional overreaches.
-555135646340485120,2015-01-13 22:53:46,,1,4,Twitter Web Client,Our hearts go out to those mourning in Paris. We must actively defend our freedoms against brutality and terrorism.
-555114896795656192,2015-01-13 21:31:19,,1,0,Twitter Web Client,RT @jeaninedok: H.R.203 - 114th Congress Clay Hunt SAV Act  thanks for your support of #suicideprevention. .@SteveRussellRep  https://t.co/…
-555004451850039297,2015-01-13 14:12:27,,2,0,Twitter Web Client,RT @DavidD_OKC: @SteveRussellRep Thank you for voting for the #ClayHuntSAVact today.
-554663556135010304,2015-01-12 15:37:51,,0,1,Twitter Web Client,Congratulations to @GovMaryFallin for beginning her second term as governor today. Oklahoma appreciates your leadership!
-553624331025399808,2015-01-09 18:48:21,,0,0,Twitter Web Client,"Moving toward energy independence, free markets, and economic growth by passing the #Keystone XL Pipeline Act in the House #TimeToBuild"
-553211119251492865,2015-01-08 15:26:23,,2,0,Twitter Web Client,Read why I voted for Speaker Boehner's reelection in House Leadership. http://t.co/YVbIFAEZed
-553204230799245312,2015-01-08 14:59:01,,0,1,Twitter Web Client,Proud to represent Oklahoma's Fifth District by helping pass the #HireMoreHeroes Act this week. Let's get veterans the jobs they deserve.
+557627547140509696,2015-01-20 19:55:42,RepRussell,0,3,Twitter Web Client,Looking forward to tonight's #SOTU and following Republican Address by @SenJoniErnst. Watch it live here: http://t.co/fX84MCzZIQ
+557555358538137600,2015-01-20 15:08:51,RepRussell,0,0,Twitter Web Client,"The President's top-down governing is outdated, unfair &amp; ineffective. I believe in free market economies that grow from the bottom-up #SOTU"
+556503164921606144,2015-01-17 17:27:48,RepRussell,43,26,Twitter for iPhone,We will restore Constitutional government and place the American people first. Watch my Weekly Republican Address at http://t.co/oTmk635JGN
+556445578625040384,2015-01-17 13:38:58,RepRussell,27,0,Twitter for iPhone,"RT @SpeakerBoehner: ""Our new Congress has a great opportunity: to restore constitutional government."" -@SteveRussellRep http://t.co/UKgpsjj…"
+555376732463984640,2015-01-14 14:51:46,RepRussell,7,5,Twitter Web Client,Keeping my promise to OK5 &amp; voting to defund the President's unlawful amnesty today. I will not support unconstitutional overreaches.
+555135646340485120,2015-01-13 22:53:46,RepRussell,1,4,Twitter Web Client,Our hearts go out to those mourning in Paris. We must actively defend our freedoms against brutality and terrorism.
+555114896795656192,2015-01-13 21:31:19,RepRussell,1,0,Twitter Web Client,RT @jeaninedok: H.R.203 - 114th Congress Clay Hunt SAV Act  thanks for your support of #suicideprevention. .@SteveRussellRep  https://t.co/…
+555004451850039297,2015-01-13 14:12:27,RepRussell,2,0,Twitter Web Client,RT @DavidD_OKC: @SteveRussellRep Thank you for voting for the #ClayHuntSAVact today.
+554663556135010304,2015-01-12 15:37:51,RepRussell,0,1,Twitter Web Client,Congratulations to @GovMaryFallin for beginning her second term as governor today. Oklahoma appreciates your leadership!
+553624331025399808,2015-01-09 18:48:21,RepRussell,0,0,Twitter Web Client,"Moving toward energy independence, free markets, and economic growth by passing the #Keystone XL Pipeline Act in the House #TimeToBuild"
+553211119251492865,2015-01-08 15:26:23,RepRussell,2,0,Twitter Web Client,Read why I voted for Speaker Boehner's reelection in House Leadership. http://t.co/YVbIFAEZed
+553204230799245312,2015-01-08 14:59:01,RepRussell,0,1,Twitter Web Client,Proud to represent Oklahoma's Fifth District by helping pass the #HireMoreHeroes Act this week. Let's get veterans the jobs they deserve.

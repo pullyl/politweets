@@ -1,72 +1,143 @@
-id,created_at,coordinates,retweets,favorite_count,source,text
-820325359551913984,2017-01-14 17:43:01,,13,29,Twitter for iPhone,"John Lewis epitomizes ""action"". Where was Trump in 1965? Not in Selma!"
-816740933635100674,2017-01-04 20:19:47,,51,113,Twitter Web Client,Guess that poll didn't work as planned https://t.co/6HrOfatrEa
-816348129427595265,2017-01-03 18:18:55,,12,29,Twitter Web Client,"@RepMikeCapuano Unfortunately, we'll see more of this in the days and weeks ahead. I won’t stop fighting and I hope you will stay active too"
-816347868843884546,2017-01-03 18:17:53,,8,17,Twitter Web Client,"@RepMikeCapuano But make no mistake, the effort to gut the OCE is a stark example of House Republicans’ approach to governing."
-816347762618929152,2017-01-03 18:17:28,,7,25,Twitter Web Client,"@RepMikeCapuano As Chair of the Task Force that wrote the measure creating the OCE, I am relieved it is not being dismantled today."
-816347637507125248,2017-01-03 18:16:58,,98,247,Twitter Web Client,"House Republicans have scrapped plans to obliterate the OCE. Thanks to all who spoke out, your voices made a difference today."
-816325765189038081,2017-01-03 16:50:03,,6,15,Twitter Web Client,"@RepMikeCapuano Transparency, accountability and independence of OCE demolished, the real intention of this change. https://t.co/sOgkq57Tcs"
-816325217941417984,2017-01-03 16:47:53,,5,12,Twitter Web Client,@RepMikeCapuano The practical result of the Republican measure to bring OCE under the House Ethics Committee is to render it ineffective.
-816325022306435072,2017-01-03 16:47:06,,4,10,Twitter Web Client,"@RepMikeCapuano The OCE operates independently of the House Ethics Committee, with the authority to choose which matters merit review."
-816324906375847936,2017-01-03 16:46:38,,7,16,Twitter Web Client,@RepMikeCapuano I wrote the law creating the OCE; the point was to bring transparency and accountability to the broken House ethics process
-816324446013259776,2017-01-03 16:44:49,,4,14,Twitter Web Client,"@RepMikeCapuano Not the economy, jobs, transportation, repealing the ACA. Republicans start off crushing the independent House ethics office"
-816324063622758404,2017-01-03 16:43:17,,26,44,Twitter Web Client,"Outrageous – no other word to describe gutting the Office of Congressional Ethics (OCE), the very first act of the new Republican House."
-814868280192143360,2016-12-30 16:18:32,,17,22,Twitter for iPhone,Putin hacks US. Obama reacts w restraint. Then Trump pussyfoots. Any wonder Putin now waits for inaugural? Is this how Trump will MAGA?
-810151222288248836,2016-12-17 15:54:37,,14,24,Twitter for iPhone,Most telling appt so far - Mulvaney as OMB Dir. Decent man but one of the most hard-right Members I know. Prep for dramatic budget cuts!
-808747737760022529,2016-12-13 18:57:41,,16,38,Twitter Web Client,.@realDonaldTrump has no time for intelligence briefings but time to meet with Kanye West?
-806958930006048768,2016-12-08 20:29:36,,5,23,Twitter Web Client,"Thanks @GeorgeTakei for shining a light on mistakes of the past, too many forget. We must stand together to protect our cherished freedoms"
-806930475679772672,2016-12-08 18:36:32,,11,29,Twitter Web Client,Linda McMahon for Small Business Admin! How can a billionaire who spent $100 million to run for Senate relate to real small business owners?
-806603480215470081,2016-12-07 20:57:10,,12,18,Twitter Web Client,God help America! The record of Trump's new EPA Director nominee Scott Pruitt indicates this will be his new symbol… https://t.co/XLuo4wcQbI
-806587693023055874,2016-12-07 19:54:26,,3,7,Twitter Web Client,"Tonight from 7-8 PM I'm hosting a telephone community mtg. Dial 877-229-8493 and use PIN 116139 at that time. To ask a question, press *3."
-804029322424184832,2016-11-30 18:28:23,,4,18,Twitter Web Client,"If chosen, Mitt Romney may end up being the most reasonable Trump appointee to join the Team of Billionaires."
-803985619848482816,2016-11-30 15:34:43,,9,12,Twitter Web Client,"Today from 7-8 PM I'm hosting a telephone community mtg. Dial 877-229-8493 and use PIN 116139 at that time. To ask a question, press *3"
-803272278645600256,2016-11-28 16:20:09,,5,7,Twitter Web Client,On Wed. Nov. 30th from 7:00-8:00 PM I am hosting a telephone community meeting. Dial 877-229-8493 and use PIN 116139 at the scheduled time.
-799755690151530496,2016-11-18 23:26:29,,0,3,TweetDeck,"11/18 – E-UPDATE
+id,created_at,user,retweets,favorite_count,source,text
+851449398584389635,2017-04-10 14:58:50,RepMikeCapuano,4,12,Twitter Web Client,"Looking forward to my community meeting, April 10th, Mildred Ave Community Center from 6:30 – 8:00 PM, 5 Mildred Avenue, Mattapan"
+850408569681956864,2017-04-07 18:02:57,RepMikeCapuano,11,16,Twitter Web Client,My fuller statement on Syria: https://t.co/4RvZLCMIql
+850354329533984769,2017-04-07 14:27:25,RepMikeCapuano,20,65,Twitter Web Client,I filed H.R.1923 w/ @RepWalterJones prohibiting Pres. from using US Forces for offensive combat in Syria unless Cong. passes specific auth.
+850354110352302080,2017-04-07 14:26:33,RepMikeCapuano,24,68,Twitter Web Client,The Constitution gives Congress the sole authority to declare war. A missile strike on a sovereign nation is clearly an act of war.
+849725916175618049,2017-04-05 20:50:20,RepMikeCapuano,27,0,TweetDeck,"RT @FSCDems: #ICYMI: @RepMikeCapuano on the ""bizarro"" #Republican ideas about the #Consumer Bureau | #ConsumersFirst #DefendCFPB https://t.…"
+847906651554369536,2017-03-31 20:21:13,RepMikeCapuano,47,51,TweetDeck,The repeal of the FCC Internet Privacy Act and more in my latest e-Update newsletter: https://t.co/T8g2mLV7yA https://t.co/8Heu5YBh0r
+847488919247638528,2017-03-30 16:41:18,RepMikeCapuano,43,117,Twitter Web Client,"Wonder when someone will buy internet history of Melania Trump?  Or the CEO of an ISP, his wife, children, other relatives?  It will happen!"
+847231621434441728,2017-03-29 23:38:54,RepMikeCapuano,124,112,Twitter for iPhone,"Hey folks, if you hope to stop SJ Res 34 you gotta retweet it! Never give up hope!"
+847174487380512770,2017-03-29 19:51:52,RepMikeCapuano,176,179,Twitter Web Client,started petition w @USRepMikeDoyle asking @POTUS to veto SJ Res 34-don't let internet providers sell our online data https://t.co/AmRWrMXiNt
+847162637091815425,2017-03-29 19:04:46,RepMikeCapuano,34,68,Twitter Web Client,Congratulations to @marty_walsh for receiving the National Council of La Raza Capital Award for Public Service!
+846840905965408257,2017-03-28 21:46:20,RepMikeCapuano,67,240,Twitter Web Client,"I spoke AGAIN on the House floor about Republican efforts to roll back internet privacy protections and more
+https://t.co/FtpgzDs7Q1"
+846797001161363457,2017-03-28 18:51:52,RepMikeCapuano,568,1295,Twitter Web Client,I just spoke on the House floor about Republican efforts to roll back internet privacy protections: https://t.co/td6VirbCil
+846499192071770112,2017-03-27 23:08:29,RepMikeCapuano,324,302,Twitter for iPhone,Need lots more people across US to scream about SJ Res 34 internet privacy. It may pass under the radar. Please pass the word outside Mass.
+846464113228308481,2017-03-27 20:49:05,RepMikeCapuano,68,242,Twitter for iPhone,Thx for all the calls on SJ Res 34 re internet privacy.  I'm voting NO.  No one should have the right to use your private info w/o approval.
+845739322645057536,2017-03-25 20:49:02,RepMikeCapuano,15,35,TweetDeck,"The Trumpcare fail, surveillance, the Intelligence Committee, and more in my latest e-Update. https://t.co/gSzxWRPJ9k"
+845706222644932608,2017-03-25 18:37:30,RepMikeCapuano,7,52,Twitter for iPhone,"During Campaign Trump said he would repeal ACA “immediately” or “on day one” all the time. Now, says “We’re moving on”. WOW that's not good."
+845333083746422785,2017-03-24 17:54:47,RepMikeCapuano,46,184,Twitter for iPhone,"Thousands of calls l, emails and more over last few days. All but 3 oppose Trumpcare. THX to all for your activism and support."
+845027738222235648,2017-03-23 21:41:27,RepMikeCapuano,27,66,Twitter for iPhone,"CBO score on new health bill - still 24 mil kicked off health insur, but now only half the savings and fewer R votes. Good job Mr Speaker."
+845001127389265925,2017-03-23 19:55:42,RepMikeCapuano,21,85,Twitter Web Client,No vote tonight. Seems Trump was right after all. Health Care is complicated especially when so many people would get hurt by your proposal!
+844934616167464961,2017-03-23 15:31:25,RepMikeCapuano,48,277,Twitter Web Client,"Now that the vote is imminent, just to make it official, I will be voting AGAINST the Republican Health Care Bill – Costs More, Covers Less."
+842836414752575489,2017-03-17 20:33:55,RepMikeCapuano,7,10,TweetDeck,"The Trump Budget and it's potential impact on the nation, and more in my latest e-Update. https://t.co/20yDYgvFh8"
+841657976163323905,2017-03-14 14:31:13,RepMikeCapuano,11,5,TweetDeck,RECENT VOTE: HR 985 favors corporations by making class action lawsuits more difficult and expensive for plaintiffs. https://t.co/F1wxtNNZYm
+841464780934283265,2017-03-14 01:43:32,RepMikeCapuano,12,68,Twitter for iPhone,Thanks to all 450+ folks who came to our community meeting tonite. Especially Mayor Curtatone for MC'ing. Thoughtful comments from all.
+841389183939796993,2017-03-13 20:43:08,RepMikeCapuano,16,39,Twitter for iPhone,"Trumpcare - $900 billion in tax cuts for mostly wealthy folks.  Gee, I guess health care really is complicated! https://t.co/c0FeJ7nEkf"
+841388962623156224,2017-03-13 20:42:15,RepMikeCapuano,9,25,Twitter for iPhone,"Trumpcare - “Significantly” higher rates for seniors. Gee, I guess health care really is complicated! https://t.co/c0FeJ7nEkf"
+841388569751097345,2017-03-13 20:40:41,RepMikeCapuano,21,17,Twitter for iPhone,CBO Report on Trumpcare says 14 mil people lose health insurance right away and another 10 mil over next 10 yrs. https://t.co/c0FeJ7nEkf
+841318744211279872,2017-03-13 16:03:14,RepMikeCapuano,19,25,Twitter Web Client,"Hope to see you tonight, March 13th, 7:00 - 8:30 PM at my Somerville community meeting, high school auditorium, 81 Highland Avenue"
+840318825384026112,2017-03-10 21:49:54,RepMikeCapuano,1,9,TweetDeck,"#Privacy, #healthcare, and this week's House legislation in my latest e-Update: https://t.co/YZDZoiix8i https://t.co/KAGB07nfFp"
+839901828561141760,2017-03-09 18:12:55,RepMikeCapuano,3,14,Twitter Web Client,"Our technology is costing us our privacy, my op-ed in The Guardian: https://t.co/ML9xnmr0za"
+839577677677871104,2017-03-08 20:44:51,RepMikeCapuano,5,7,Twitter Web Client,My statement on #Trumpcare https://t.co/fQTre20Lmg
+839576721171103745,2017-03-08 20:41:03,RepMikeCapuano,4,29,Twitter Web Client,"On International Women’s Day, we celebrate all the women and girls who are changing the world every day. #ADayWithoutAWoman"
+839222649775669249,2017-03-07 21:14:06,RepMikeCapuano,5,24,Twitter Web Client,"My statement on threats of violence against Jewish institutions, including 3 in MA https://t.co/2S6SJsJ0aJ"
+838460006446026752,2017-03-05 18:43:38,RepMikeCapuano,5,23,Twitter Web Client,My statement about President Trump's wiretapping accusations: https://t.co/biIh3Vh5RT
+838193074685771776,2017-03-05 01:02:56,RepMikeCapuano,32,94,Twitter for iPhone,"2 images from rallies today – one from FBk page titled March-4-Trump, the other from Boston Globe.  Who do you thin… https://t.co/aOZNd8rZdu"
+838087013102456833,2017-03-04 18:01:29,RepMikeCapuano,64,57,TweetDeck,"House Republicans stood together to keep Trump’s tax returns secret, from the House itself and the American people. https://t.co/GOxRhvOL2x"
+838084661599424512,2017-03-04 17:52:08,RepMikeCapuano,7,17,Twitter Web Client,"my new e-update; Trump and his taxes, community meetings https://t.co/ZQCcvq1Z7V"
+837313750290034688,2017-03-02 14:48:49,RepMikeCapuano,277,695,Twitter Web Client,"AG Sessions should resign and an independent investigation commence, my statement here: https://t.co/hpZN3L8hiX"
+837031778024099844,2017-03-01 20:08:21,RepMikeCapuano,11,24,Twitter Web Client,My statement on President Trump's speech: https://t.co/0DuFjlKASO
+836617828451102720,2017-02-28 16:43:28,RepMikeCapuano,24,83,Twitter Web Client,Anyone think Trump will use tonight’s speech to “reset” his Presidency and chart a more positive course?  Me neither.
+836336188592123904,2017-02-27 22:04:20,RepMikeCapuano,39,115,Twitter for iPhone,No – someone please tell me Trump didn’t really say this to the nation’s Governors … “Nobody knew that healthcare could be so complicated”!!
+835898979376332804,2017-02-26 17:07:01,RepMikeCapuano,5,22,TweetDeck,Congrats Horace Mann School for the Deaf in Allston who won the @CongressionalAC App Challenge! https://t.co/7NoWB6PW4t @BostonSchools
+835489782960640000,2017-02-25 14:01:01,RepMikeCapuano,9,16,TweetDeck,"UPDATED 2/24 - ""Behind The Curtain"" documents actions taken by Trump and the Republican-controlled Congress.… https://t.co/c4Nbu7FQVI"
+835302946573324288,2017-02-25 01:38:36,RepMikeCapuano,10,15,TweetDeck,"Responding to Trump's latest moves, including the WH Press Room, in my latest e-Update:
+https://t.co/GBhFHjifVH https://t.co/5028QOy9uC"
+835227539232677888,2017-02-24 20:38:57,RepMikeCapuano,63,89,Twitter Web Client,"WH blocked @Nytimes, @CNN @Politico from briefing. Nixon never shut out press. Free press protected by Constitution… https://t.co/pwhXoQhmS0"
+834852333242765315,2017-02-23 19:48:01,RepMikeCapuano,8,17,Twitter Web Client,"Statement on Trump ending policy directing states to let transgender pupils use restroom they are comfortable with 
+https://t.co/IkA2Rd3XZ1"
+832802845007151104,2017-02-18 04:04:05,RepMikeCapuano,6,18,TweetDeck,"""Making It Harder to Save for Retirement, Parts 1 &amp; 2"" and much more in my latest update: https://t.co/lVWNwREdYi https://t.co/fvOXS1Gw6Y"
+832700790573654016,2017-02-17 21:18:33,RepMikeCapuano,32,43,Twitter Web Client,"Ovrsight Chair Chaffetz won't review Trump conflicts of interest/Russia BUT he's still on Clinton email, asking AG for grand jury on staff."
+831925463689871360,2017-02-15 17:57:41,RepMikeCapuano,36,98,Twitter Web Client,My statement calling for an independent investigation of Russian communication with Trump officials https://t.co/p375V3BCf4
+831554219899510785,2017-02-14 17:22:30,RepMikeCapuano,69,145,Twitter Web Client,"Gen Flynn at RNC: “If I did 1/10th of what she did, I’d be in jail today”, then led crowd in Lock Her Up chant. When's his Cong hearing?"
+830413581086814208,2017-02-11 13:50:00,RepMikeCapuano,22,43,TweetDeck,"UPDATED 2/10 - My ""Behind The Curtain"" web page documents actions taken by the Trump administration and the Republi… https://t.co/QBZros1s3I"
+830165232353943552,2017-02-10 21:23:09,RepMikeCapuano,5,3,TweetDeck,Legislation on public land use and a couple of votes on education in my new e-Update: https://t.co/Doi42QvHol https://t.co/ixQo9chSMO
+827659570847870976,2017-02-03 23:26:33,RepMikeCapuano,1,21,TweetDeck,My latest e-Update just went out. You can read it here: https://t.co/lb8a0XuiNo Sign up to get it in your inbox.
+826900189663354880,2017-02-01 21:09:02,RepMikeCapuano,10,34,Twitter Web Client,Our new feature: A Look Behind the Curtain https://t.co/OkZ2a9zP3G
+826455641141149697,2017-01-31 15:42:34,RepMikeCapuano,14,63,Twitter for iPhone,Rally on steps of Supreme Court last night https://t.co/DLVoAfDV7b
+826174933050990592,2017-01-30 21:07:08,RepMikeCapuano,33,125,TweetDeck,I spoke today on the House Floor about President Trump's callous and legally questionable executive order https://t.co/eob8BvXplY
+825805126321438720,2017-01-29 20:37:39,RepMikeCapuano,182,723,Twitter for iPhone,Met w Syrian refugee family of 4 who've been here 1 wk - after being vetted for 2 yrs. assured them they are welcome in Mass.
+825372903969521665,2017-01-28 16:00:09,RepMikeCapuano,60,144,Twitter for iPhone,Einstein was one of few refugees allowed from Nazi Germany - millions were refused. US said “Never again.”  Lady Liberty cries today!
+825372313461866496,2017-01-28 15:57:48,RepMikeCapuano,70,137,Twitter for iPhone,No WMD in Iraq and Bush played on fears. Not 1 refugee from any of Trump’s 7 banned countries did terror on US soil. Still playing our fears
+825076280500563969,2017-01-27 20:21:29,RepMikeCapuano,4,13,TweetDeck,I take a look at Week One of the new administration in my latest newsletter: https://t.co/wVdYzdmwGS
+824689814054334464,2017-01-26 18:45:48,RepMikeCapuano,22,18,Twitter Web Client,"This is a “nice” municipal juvenile jail cell.  How long would YOU detain a non-violent minor, without their parent… https://t.co/5cJUlLXCWM"
+824364215733551106,2017-01-25 21:11:59,RepMikeCapuano,243,363,Twitter Web Client,"According to media reports, Trump advisor Bannon, Treas nom Mnuchin and 1st Daughter Tiffany are reg to vote in 2 states! Voter fraud?"
+822507307745550338,2017-01-20 18:13:18,RepMikeCapuano,7,90,TweetDeck,Thank you to everyone who took the time to join me at our office open house in Cambridge this morning. https://t.co/LvqLBEjgbt
+822496149168934912,2017-01-20 17:28:57,RepMikeCapuano,10,0,TweetDeck,RT @BINcA_BPS: .@RepMikeCapuano with #WeAreBinca students for #DiversityAndDemocracyDay celebration #bospoli #mapoli #bpspln @BostonSchools…
+821773486838480896,2017-01-18 17:37:21,RepMikeCapuano,17,48,TweetDeck,Please spread the word to anyone you think might want to stop by.
+821773117005688837,2017-01-18 17:35:53,RepMikeCapuano,30,97,TweetDeck,So many of you have contacted my office to raise concerns about the future of our great country I wanted the opportunity to hear from you
+821772956359655430,2017-01-18 17:35:15,RepMikeCapuano,56,146,TweetDeck,"Instead I am holding an open house at my Cambridge District Office, located at 110 First Street from 8-10 a.m. on Friday the 20th."
+821772811580669954,2017-01-18 17:34:40,RepMikeCapuano,147,616,TweetDeck,"While I have great respect for the Office of the President and I accept the results of the election, I will not attend the Inaugural"
+820446066294325248,2017-01-15 01:42:40,RepMikeCapuano,16,50,Twitter for iPhone,All 4 Trump nominees serving in the House missed the ACA repeal vote! Coincidence?
+820325359551913984,2017-01-14 17:43:01,RepMikeCapuano,29,105,Twitter for iPhone,"John Lewis epitomizes ""action"". Where was Trump in 1965? Not in Selma!"
+816740933635100674,2017-01-04 20:19:47,RepMikeCapuano,63,142,Twitter Web Client,Guess that poll didn't work as planned https://t.co/6HrOfatrEa
+816348129427595265,2017-01-03 18:18:55,RepMikeCapuano,13,32,Twitter Web Client,"@RepMikeCapuano Unfortunately, we'll see more of this in the days and weeks ahead. I won’t stop fighting and I hope you will stay active too"
+816347868843884546,2017-01-03 18:17:53,RepMikeCapuano,9,21,Twitter Web Client,"@RepMikeCapuano But make no mistake, the effort to gut the OCE is a stark example of House Republicans’ approach to governing."
+816347762618929152,2017-01-03 18:17:28,RepMikeCapuano,9,28,Twitter Web Client,"@RepMikeCapuano As Chair of the Task Force that wrote the measure creating the OCE, I am relieved it is not being dismantled today."
+816347637507125248,2017-01-03 18:16:58,RepMikeCapuano,102,253,Twitter Web Client,"House Republicans have scrapped plans to obliterate the OCE. Thanks to all who spoke out, your voices made a difference today."
+816325765189038081,2017-01-03 16:50:03,RepMikeCapuano,6,15,Twitter Web Client,"@RepMikeCapuano Transparency, accountability and independence of OCE demolished, the real intention of this change. https://t.co/sOgkq57Tcs"
+816325217941417984,2017-01-03 16:47:53,RepMikeCapuano,5,12,Twitter Web Client,@RepMikeCapuano The practical result of the Republican measure to bring OCE under the House Ethics Committee is to render it ineffective.
+816325022306435072,2017-01-03 16:47:06,RepMikeCapuano,4,10,Twitter Web Client,"@RepMikeCapuano The OCE operates independently of the House Ethics Committee, with the authority to choose which matters merit review."
+816324906375847936,2017-01-03 16:46:38,RepMikeCapuano,7,16,Twitter Web Client,@RepMikeCapuano I wrote the law creating the OCE; the point was to bring transparency and accountability to the broken House ethics process
+816324446013259776,2017-01-03 16:44:49,RepMikeCapuano,4,13,Twitter Web Client,"@RepMikeCapuano Not the economy, jobs, transportation, repealing the ACA. Republicans start off crushing the independent House ethics office"
+816324063622758404,2017-01-03 16:43:17,RepMikeCapuano,26,48,Twitter Web Client,"Outrageous – no other word to describe gutting the Office of Congressional Ethics (OCE), the very first act of the new Republican House."
+814868280192143360,2016-12-30 16:18:32,RepMikeCapuano,15,23,Twitter for iPhone,Putin hacks US. Obama reacts w restraint. Then Trump pussyfoots. Any wonder Putin now waits for inaugural? Is this how Trump will MAGA?
+810151222288248836,2016-12-17 15:54:37,RepMikeCapuano,14,24,Twitter for iPhone,Most telling appt so far - Mulvaney as OMB Dir. Decent man but one of the most hard-right Members I know. Prep for dramatic budget cuts!
+808747737760022529,2016-12-13 18:57:41,RepMikeCapuano,16,39,Twitter Web Client,.@realDonaldTrump has no time for intelligence briefings but time to meet with Kanye West?
+806958930006048768,2016-12-08 20:29:36,RepMikeCapuano,6,26,Twitter Web Client,"Thanks @GeorgeTakei for shining a light on mistakes of the past, too many forget. We must stand together to protect our cherished freedoms"
+806930475679772672,2016-12-08 18:36:32,RepMikeCapuano,11,29,Twitter Web Client,Linda McMahon for Small Business Admin! How can a billionaire who spent $100 million to run for Senate relate to real small business owners?
+806603480215470081,2016-12-07 20:57:10,RepMikeCapuano,11,18,Twitter Web Client,God help America! The record of Trump's new EPA Director nominee Scott Pruitt indicates this will be his new symbol… https://t.co/XLuo4wcQbI
+806587693023055874,2016-12-07 19:54:26,RepMikeCapuano,3,7,Twitter Web Client,"Tonight from 7-8 PM I'm hosting a telephone community mtg. Dial 877-229-8493 and use PIN 116139 at that time. To ask a question, press *3."
+804029322424184832,2016-11-30 18:28:23,RepMikeCapuano,4,18,Twitter Web Client,"If chosen, Mitt Romney may end up being the most reasonable Trump appointee to join the Team of Billionaires."
+803985619848482816,2016-11-30 15:34:43,RepMikeCapuano,9,12,Twitter Web Client,"Today from 7-8 PM I'm hosting a telephone community mtg. Dial 877-229-8493 and use PIN 116139 at that time. To ask a question, press *3"
+803272278645600256,2016-11-28 16:20:09,RepMikeCapuano,5,7,Twitter Web Client,On Wed. Nov. 30th from 7:00-8:00 PM I am hosting a telephone community meeting. Dial 877-229-8493 and use PIN 116139 at the scheduled time.
+799755690151530496,2016-11-18 23:26:29,RepMikeCapuano,0,3,TweetDeck,"11/18 – E-UPDATE
 A Note About Last Week; Iran; Regulations; Rick Porcello https://t.co/6slRmnhRDY"
-798547345495486464,2016-11-15 15:24:58,,21,47,Twitter Web Client,"Please see my Facebook page for a statement on Stephen Bannon
+798547345495486464,2016-11-15 15:24:58,RepMikeCapuano,21,46,Twitter Web Client,"Please see my Facebook page for a statement on Stephen Bannon
 https://t.co/gstHfBa43C"
-796438831838986242,2016-11-09 19:46:29,,8,9,Twitter Web Client,https://t.co/z9llXSWmIZ
-793536359503949824,2016-11-01 19:33:05,,6,10,Twitter Web Client,An update on the Green Line Extension: https://t.co/9oiv2jipSd
-791726149672067073,2016-10-27 19:39:58,,4,7,Twitter Web Client,"Federal IG for TARP program has convicted 259 financial insiders of criminal activity! Hope DOJ takes note.  Report
+796438831838986242,2016-11-09 19:46:29,RepMikeCapuano,8,9,Twitter Web Client,https://t.co/z9llXSWmIZ
+793536359503949824,2016-11-01 19:33:05,RepMikeCapuano,6,10,Twitter Web Client,An update on the Green Line Extension: https://t.co/9oiv2jipSd
+791726149672067073,2016-10-27 19:39:58,RepMikeCapuano,4,7,Twitter Web Client,"Federal IG for TARP program has convicted 259 financial insiders of criminal activity! Hope DOJ takes note.  Report
 https://t.co/wBU1x9pao1"
-791669311328882688,2016-10-27 15:54:06,,17,38,TweetDeck,"Attorney General should use all tools, including criminal prosecution, to hold large financial institutions like We… https://t.co/T0jyJAtJf0"
-790962571604099072,2016-10-25 17:05:47,,7,12,Twitter Web Client,Raising concerns over possible economic and racial injustice in decisions to redirect Fairmount Line trains: https://t.co/IuPotqygpH
-788750279038697473,2016-10-19 14:34:55,,1,3,Twitter Web Client,https://t.co/X6n5giBzNZ https://t.co/6IhrguAf8p
-787971427538460672,2016-10-17 11:00:02,,0,3,TweetDeck,Read about the conclusion of the district work period in my latest E-Update. https://t.co/7P6nOTVBke https://t.co/cpDRVZi1P1
-785890477904015361,2016-10-11 17:11:05,,11,27,Twitter Web Client,"American immigrants lead again. 6 win 2016 Nobel Prizes in Economics, Chemistry, and Physics.  All are immigrants to our country!"
-785115099446902785,2016-10-09 13:50:01,,2,3,TweetDeck,Check out what I've been up to during a work week in the district in my latest E-Update. https://t.co/0ouP7CcRyt
-784446432979943424,2016-10-07 17:32:58,,3,3,Twitter Web Client,"https://t.co/2YrOtGnQJ3
+791669311328882688,2016-10-27 15:54:06,RepMikeCapuano,17,38,TweetDeck,"Attorney General should use all tools, including criminal prosecution, to hold large financial institutions like We… https://t.co/T0jyJAtJf0"
+790962571604099072,2016-10-25 17:05:47,RepMikeCapuano,7,12,Twitter Web Client,Raising concerns over possible economic and racial injustice in decisions to redirect Fairmount Line trains: https://t.co/IuPotqygpH
+788750279038697473,2016-10-19 14:34:55,RepMikeCapuano,1,3,Twitter Web Client,https://t.co/X6n5giBzNZ https://t.co/6IhrguAf8p
+787971427538460672,2016-10-17 11:00:02,RepMikeCapuano,0,3,TweetDeck,Read about the conclusion of the district work period in my latest E-Update. https://t.co/7P6nOTVBke https://t.co/cpDRVZi1P1
+785890477904015361,2016-10-11 17:11:05,RepMikeCapuano,11,27,Twitter Web Client,"American immigrants lead again. 6 win 2016 Nobel Prizes in Economics, Chemistry, and Physics.  All are immigrants to our country!"
+785115099446902785,2016-10-09 13:50:01,RepMikeCapuano,2,3,TweetDeck,Check out what I've been up to during a work week in the district in my latest E-Update. https://t.co/0ouP7CcRyt
+784446432979943424,2016-10-07 17:32:58,RepMikeCapuano,3,3,Twitter Web Client,"https://t.co/2YrOtGnQJ3
 A sign of progress that Massport and the FAA are taking our airplane noise concerns seriously"
-783744978891706368,2016-10-05 19:05:38,,16,18,Twitter Web Client,“can't tell you how disappointed I am to. .watch you essentially validate everything that the other side [Democrats] has said” Mulvaney R-SC
-783744226458730500,2016-10-05 19:02:39,,16,17,Twitter Web Client,(1/2) The best quote from the Wells Fargo hearing came from Tea Party Republican Mick Mulvaney (R-SC) when he said
-782618649521684480,2016-10-02 16:30:01,,0,0,TweetDeck,Here is my latest E-Update newsletter for September 30: https://t.co/U1ix4g0XV0
-781868729831419905,2016-09-30 14:50:06,,14,29,Twitter Web Client,While I was grilling Wells Fargo another $24M fine announced for illegally repossessing veterans’ cars under Servicemembers Civil Relief Act
-781868606451843072,2016-09-30 14:49:36,,4,22,Twitter Web Client,And the beat goes on.  Wells Fargo was fined again – WHILE I was grilling them at our hearing.
-781529493089447936,2016-09-29 16:22:05,,25,28,Twitter Web Client,"My questioning of Wells Fargo CEO, how are their actions NOT illegal activity subject to criminal investigation? https://t.co/CmqOPPeCWt"
-779429988546281472,2016-09-23 21:19:25,,0,0,TweetDeck,"E-UPDATE: House votes regarding government regulation, the taxation of stock options, and Iran. https://t.co/ASWk9e17WJ"
-777493663995731968,2016-09-18 13:05:09,,1,3,TweetDeck,E-UPDATE: Affordable Care Act; Veterans; Regulatory Action; Guantanamo Bay https://t.co/vzAerHqBWV
-776137422744715265,2016-09-14 19:15:56,,1,3,Twitter Web Client,#Citizenship Day in Boston is Sept. 17. Register in advance for free help w/ your application: https://t.co/UQW7p97Fqv
-774978718213218304,2016-09-11 14:31:39,,1,10,TweetDeck,I honor the lives lost this day and hold those who mourn in my heart.
-774333112876761088,2016-09-09 19:46:15,,2,5,TweetDeck,"E-UPDATE: #September11th; Settlement Agreements; Access to Capital; Investment Advisers
+783744978891706368,2016-10-05 19:05:38,RepMikeCapuano,16,18,Twitter Web Client,“can't tell you how disappointed I am to. .watch you essentially validate everything that the other side [Democrats] has said” Mulvaney R-SC
+783744226458730500,2016-10-05 19:02:39,RepMikeCapuano,16,17,Twitter Web Client,(1/2) The best quote from the Wells Fargo hearing came from Tea Party Republican Mick Mulvaney (R-SC) when he said
+782618649521684480,2016-10-02 16:30:01,RepMikeCapuano,0,0,TweetDeck,Here is my latest E-Update newsletter for September 30: https://t.co/U1ix4g0XV0
+781868729831419905,2016-09-30 14:50:06,RepMikeCapuano,14,29,Twitter Web Client,While I was grilling Wells Fargo another $24M fine announced for illegally repossessing veterans’ cars under Servicemembers Civil Relief Act
+781868606451843072,2016-09-30 14:49:36,RepMikeCapuano,4,22,Twitter Web Client,And the beat goes on.  Wells Fargo was fined again – WHILE I was grilling them at our hearing.
+781529493089447936,2016-09-29 16:22:05,RepMikeCapuano,25,28,Twitter Web Client,"My questioning of Wells Fargo CEO, how are their actions NOT illegal activity subject to criminal investigation? https://t.co/CmqOPPeCWt"
+779429988546281472,2016-09-23 21:19:25,RepMikeCapuano,0,0,TweetDeck,"E-UPDATE: House votes regarding government regulation, the taxation of stock options, and Iran. https://t.co/ASWk9e17WJ"
+777493663995731968,2016-09-18 13:05:09,RepMikeCapuano,1,3,TweetDeck,E-UPDATE: Affordable Care Act; Veterans; Regulatory Action; Guantanamo Bay https://t.co/vzAerHqBWV
+776137422744715265,2016-09-14 19:15:56,RepMikeCapuano,1,3,Twitter Web Client,#Citizenship Day in Boston is Sept. 17. Register in advance for free help w/ your application: https://t.co/UQW7p97Fqv
+774978718213218304,2016-09-11 14:31:39,RepMikeCapuano,1,10,TweetDeck,I honor the lives lost this day and hold those who mourn in my heart.
+774333112876761088,2016-09-09 19:46:15,RepMikeCapuano,2,5,TweetDeck,"E-UPDATE: #September11th; Settlement Agreements; Access to Capital; Investment Advisers
 https://t.co/w1A8HbikNu #finance #banking"
-771806693743333376,2016-09-02 20:27:09,,1,3,TweetDeck,"Read about meeting local orgs, a National Park Service celebration, and a trip to Colorado in my latest E-UPDATE.
+771806693743333376,2016-09-02 20:27:09,RepMikeCapuano,1,3,TweetDeck,"Read about meeting local orgs, a National Park Service celebration, and a trip to Colorado in my latest E-UPDATE.
 https://t.co/YTsxS94nML"
-771433712923844608,2016-09-01 19:45:04,,3,9,Twitter Web Client,"Happy 119th birthday MBTA. U.S. first subway opened between Park/Boylston in 1897. 4 more stops in a yr. Cost $4.2 M, about $115 M in 2016 $"
-768866715769995264,2016-08-25 17:44:44,,11,0,Twitter Web Client,RT @SenMarkey: It was a perfect day to celebrate #NPS100 @NatlParkService with @bostonNHP @RepMikeCapuano @RepStephenLynch @wutrain https:/…
-765558483550896128,2016-08-16 14:39:00,,6,11,TweetDeck,Thanks to all of our AmeriCorps members Boston is #4 in the country in per capita participation! MA is #9. https://t.co/eKgNe9Hrfu
-764173687973117952,2016-08-12 18:56:19,,1,6,TweetDeck,E-UPDATE: District Work Week; J Street; OptiRTC; Wayfair; Greater Boston RE Board; Takeda Pharma; WAND; South Sudan https://t.co/NmzVDvi0oc
-763735089909997568,2016-08-11 13:53:29,,47,66,Twitter for iPhone,Today I'm sending a bipartisan letter to @POTUS asking that we urgently #haltarms to end the ongoing violence in  #SouthSudan @USUN
-760568284026638336,2016-08-02 20:09:44,,54,61,Twitter Web Client,These funds should be used to build reserves or reduce mortgage costs for homeowners. https://t.co/TFZ6QFVmz2
-754755436734218240,2016-07-17 19:11:33,,10,25,Twitter for iPhone,Enough. Stop. Open our minds. Talk. Listen. Pray. #DisarmHate
-753753052440657920,2016-07-15 00:48:26,,6,19,Twitter for iPhone,We stand with Nice.
-753652593398804481,2016-07-14 18:09:15,,9,30,Twitter Web Client,"House Dems staying on floor after votes to highlight Repubs lack of action on guns. I am joining D.C rally tonight, thousands expected"
-753620402786689024,2016-07-14 16:01:20,,7,7,Twitter Web Client,Background check loopholes allowd ovr 6.7K convicted of domestic violence or subj to DV restraining ordr to buy guns https://t.co/JxUe6xzEsx
-752926880274255872,2016-07-12 18:05:31,,5,7,Twitter Web Client,The push for reasonable gun control continues. #disarmhate #lightingtheway https://t.co/5m4LQCE1sG
-752578044997541889,2016-07-11 18:59:22,,7,6,Twitter Web Client,"Back in session today. 23 suspension bills in the House, and not one addressing the issue of gun violence."
-751771707103338496,2016-07-09 13:35:16,,5,7,TweetDeck,E-update - A Somber Week; Votes on Gun Legislation; Affordable Care Act; Fed Employee Regs; Appropriations; and more https://t.co/VBNwg9mkSG
-751149124288995328,2016-07-07 20:21:21,,8,17,Twitter Web Client,".@bbrooks74 There is process to get off nofly list, open to improving it, but problems with list doesnt mean do nothing #askdems #disarmhate"
-751104965335191552,2016-07-07 17:25:53,,6,6,Twitter Web Client,House Dems want to hear from you. Tweet your questions on guns during a @Twitter Town Hall between 3-4PM using #AskDems. #DisarmHate
-751073183353212928,2016-07-07 15:19:35,,6,23,TweetDeck,"I just spoke on the House floor, demanding a vote on No Fly=No Buy and expanded background checks. https://t.co/0UtimngXez #DisarmHate"
-750778771368775680,2016-07-06 19:49:42,,7,14,Twitter Web Client,@HouseDemocrats want real gun reform not votes on meaningless bills that won’t help reduce gun violence #disarmhate https://t.co/TDcfHAECPk
-750715243937067009,2016-07-06 15:37:16,,2,4,Twitter Web Client,.@RepJoeKennedy Thanks for the shout-out!
-750403926604873736,2016-07-05 19:00:12,,142,487,Twitter Web Client,"Welcome to my official Twitter account, which might just come in handy the next time the Speaker shuts the cameras off on the House floor."
+771433712923844608,2016-09-01 19:45:04,RepMikeCapuano,3,9,Twitter Web Client,"Happy 119th birthday MBTA. U.S. first subway opened between Park/Boylston in 1897. 4 more stops in a yr. Cost $4.2 M, about $115 M in 2016 $"
+768866715769995264,2016-08-25 17:44:44,RepMikeCapuano,11,0,Twitter Web Client,RT @SenMarkey: It was a perfect day to celebrate #NPS100 @NatlParkService with @bostonNHP @RepMikeCapuano @RepStephenLynch @wutrain https:/…
+765558483550896128,2016-08-16 14:39:00,RepMikeCapuano,6,11,TweetDeck,Thanks to all of our AmeriCorps members Boston is #4 in the country in per capita participation! MA is #9. https://t.co/eKgNe9Hrfu
+764173687973117952,2016-08-12 18:56:19,RepMikeCapuano,1,6,TweetDeck,E-UPDATE: District Work Week; J Street; OptiRTC; Wayfair; Greater Boston RE Board; Takeda Pharma; WAND; South Sudan https://t.co/NmzVDvi0oc
+763735089909997568,2016-08-11 13:53:29,RepMikeCapuano,47,66,Twitter for iPhone,Today I'm sending a bipartisan letter to @POTUS asking that we urgently #haltarms to end the ongoing violence in  #SouthSudan @USUN
+760568284026638336,2016-08-02 20:09:44,RepMikeCapuano,54,60,Twitter Web Client,These funds should be used to build reserves or reduce mortgage costs for homeowners. https://t.co/TFZ6QFVmz2
+754755436734218240,2016-07-17 19:11:33,RepMikeCapuano,10,25,Twitter for iPhone,Enough. Stop. Open our minds. Talk. Listen. Pray. #DisarmHate
+753753052440657920,2016-07-15 00:48:26,RepMikeCapuano,6,19,Twitter for iPhone,We stand with Nice.
+753652593398804481,2016-07-14 18:09:15,RepMikeCapuano,9,30,Twitter Web Client,"House Dems staying on floor after votes to highlight Repubs lack of action on guns. I am joining D.C rally tonight, thousands expected"
+753620402786689024,2016-07-14 16:01:20,RepMikeCapuano,7,7,Twitter Web Client,Background check loopholes allowd ovr 6.7K convicted of domestic violence or subj to DV restraining ordr to buy guns https://t.co/JxUe6xzEsx
+752926880274255872,2016-07-12 18:05:31,RepMikeCapuano,5,7,Twitter Web Client,The push for reasonable gun control continues. #disarmhate #lightingtheway https://t.co/5m4LQCE1sG
+752578044997541889,2016-07-11 18:59:22,RepMikeCapuano,7,6,Twitter Web Client,"Back in session today. 23 suspension bills in the House, and not one addressing the issue of gun violence."
+751771707103338496,2016-07-09 13:35:16,RepMikeCapuano,5,7,TweetDeck,E-update - A Somber Week; Votes on Gun Legislation; Affordable Care Act; Fed Employee Regs; Appropriations; and more https://t.co/VBNwg9mkSG
+751149124288995328,2016-07-07 20:21:21,RepMikeCapuano,8,17,Twitter Web Client,".@bbrooks74 There is process to get off nofly list, open to improving it, but problems with list doesnt mean do nothing #askdems #disarmhate"
+751104965335191552,2016-07-07 17:25:53,RepMikeCapuano,6,5,Twitter Web Client,House Dems want to hear from you. Tweet your questions on guns during a @Twitter Town Hall between 3-4PM using #AskDems. #DisarmHate
+751073183353212928,2016-07-07 15:19:35,RepMikeCapuano,6,22,TweetDeck,"I just spoke on the House floor, demanding a vote on No Fly=No Buy and expanded background checks. https://t.co/0UtimngXez #DisarmHate"
+750778771368775680,2016-07-06 19:49:42,RepMikeCapuano,7,14,Twitter Web Client,@HouseDemocrats want real gun reform not votes on meaningless bills that won’t help reduce gun violence #disarmhate https://t.co/TDcfHAECPk
+750715243937067009,2016-07-06 15:37:16,RepMikeCapuano,2,4,Twitter Web Client,.@RepJoeKennedy Thanks for the shout-out!
+750403926604873736,2016-07-05 19:00:12,RepMikeCapuano,142,487,Twitter Web Client,"Welcome to my official Twitter account, which might just come in handy the next time the Speaker shuts the cameras off on the House floor."

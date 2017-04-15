@@ -1,21 +1,85 @@
-id,created_at,coordinates,retweets,favorite_count,source,text
-820008034088927232,2017-01-13 20:42:04,,8,0,TweetDeck,"RT @RepBradWenstrup: As the new @HouseVetAffairs health sub chairman, I will continue to fight for those who fought for us #veteransfirst h…"
-819968111478796288,2017-01-13 18:03:26,,1,5,TweetDeck,"Looking forward to working with @RepRodBlum @KYComer @RepBrianFitz Rep. Bacon, Rep. Gonzalez-Colon, and Rep. Marshall on @HouseSmallBiz"
-819963415947051010,2017-01-13 17:44:47,,0,1,TweetDeck,@RepJackBergman Also looking forward to working with you on @HouseVetAffairs!
-819962376967651328,2017-01-13 17:40:39,,2,4,TweetDeck,"Looking forward 2 working w/ @RepWebster @RepDavidRouzer @RepJackBergman @Rep_LizCheney Rep.Johnson, and Rep.Gonzalez-Colon on @NatResources"
-819944681521971200,2017-01-13 16:30:20,,19,0,TweetDeck,RT @NatResources: Welcome our new and returning Committee members to the 115th Congress! → https://t.co/AwfBRQrve6 https://t.co/ZJRnxJg9Ya
-819910013078663168,2017-01-13 14:12:34,,15,0,TweetDeck,RT @HouseSmallBiz: Chairman @RepSteveChabot Announces Republican Members for 115th Congress → https://t.co/TLaZL6HsXl https://t.co/wCpXLRUo…
-819549180276436992,2017-01-12 14:18:45,,37,0,TweetDeck,RT @HouseSmallBiz: The biggest obstacles to #smallbiz success has been government red tape in one form or another. - @RepSteveChabot #Chabo…
-819289462362570753,2017-01-11 21:06:44,,0,1,TweetDeck,.@FFASSoccer 2026 World Cup Champions! American Samoa all the way! https://t.co/yaMu4pkNmg
-819268750075711489,2017-01-11 19:44:25,,29,0,Twitter Web Client,RT @RepComstock: The INSPIRE Women Act will afford opportunities to a future gen. of women leaders. Glad it passed. https://t.co/yq3PMVnbmU…
-819262701092372480,2017-01-11 19:20:23,,0,4,Twitter Web Client,I'm happy with @realDonaldTrump choice for Secretary of @DeptVetAffairs. Dr. David Shulkin has both experience as p… https://t.co/oxJk1yrJp8
-818936637673574401,2017-01-10 21:44:44,,8,0,TweetDeck,RT @SteveScalise: .@RepComstock’s INSPIRE Women Act has passed the House! It will support and encourage young women to pursue aerospace car…
-818876769256308738,2017-01-10 17:46:50,,41,0,TweetDeck,RT @HouseGOP: We're excited to get to work with a new Congress and a new President. https://t.co/MkQEMdAWFl
-817098594650046464,2017-01-05 20:01:00,,2,100,Twitter Web Client,.@SpeakerRyan is not only a great Speaker but a really nice and down to earth guy. https://t.co/f1ONhKb04e
-816682427083001856,2017-01-04 16:27:18,,1,10,Twitter Web Client,Being sworn in to the 115th Congress yesterday by @SpeakerRyan! #BetterWay https://t.co/t8MkqAfO4Z
-816399263156543490,2017-01-03 21:42:06,,1,9,Twitter for Android,I just completed my swearing in for the 115th Congress! I look forward to continuing to represent American Samoa! https://t.co/taHKpuQinb
-816360005230333952,2017-01-03 19:06:07,,10,54,Twitter Web Client,Excited that @SpeakerRyan will continue as the the Speaker of the House. #115thCongress #BetterWay
-816359206735544320,2017-01-03 19:02:56,,794,0,Twitter Web Client,RT @SpeakerRyan: Honored to be elected Speaker of the House for the 115th Congress.
-816342373672304645,2017-01-03 17:56:03,,3,0,Twitter Web Client,RT @elizabethleacy: Spotted on @cspan's coverage of #115congress - @RepJoeWilson greeting besties @RepAmata and Rep. Bordallo. https://t.co…
-809851086328696834,2016-12-16 20:01:59,,0,6,TweetDeck,"Talofa Twitter! I look forward to the new year and new Congress,  and working on behalf of American Samoa!"
-564820451508383746,2015-02-09 16:17:44,,16,31,Twitter Web Client,"Hello everyone, I'm excited to join Twitter to share the work I'm doing in Congress on behalf of the American Samoan people."
+id,created_at,user,retweets,favorite_count,source,text
+848907524711567360,2017-04-03 14:38:20,RepAmata,10,0,Twitter Web Client,RT @RepMcSally: This weekend marked100 years of women serving in Congress. April 2017 Jeannette Rankin was sworn in &amp; paved the way for 300…
+848635974158602240,2017-04-02 20:39:17,RepAmata,0,1,Twitter for Android,I was honored to represent @SpeakerRyan at the USVI #TransferDay! Had a great time w/ @SecretaryZinke and @lisamurkowski!
+848633627906854918,2017-04-02 20:29:58,RepAmata,36,0,Twitter for Android,RT @SecretaryZinke: I enjoyed visiting with veterans &amp; so many more folks in the USVI this weekend for #TransferDay What a warm welcome! ht…
+848630050857648128,2017-04-02 20:15:45,RepAmata,4,0,Twitter for Android,"RT @USVInews: #StThomas Source: Centennial Celebration: Denmark, V.I. Acknowledge Dark Past, Look Toward Future https://t.co/pv85IFJHNk"
+848618458464038913,2017-04-02 19:29:41,RepAmata,1,3,Twitter for Android,Had a great time at the USVI centennial! With my friend Sen. Lisa Murkowski from Alaska! https://t.co/YxJwsmoquE
+848260885390995458,2017-04-01 19:48:49,RepAmata,0,1,Twitter for Android,@NatResources You really had me scared! Good joke though!
+847588478321872897,2017-03-30 23:16:55,RepAmata,24,0,Twitter for Android,"RT @SecretaryZinke: Meeting with @RepAmata, USVI Governor Mapp and Lt. Governor Potter discussing issues important to the islands. https://…"
+847195726178340864,2017-03-29 21:16:15,RepAmata,2,1,TweetDeck,I was able to speak with Commerce Secretary Wilbur Ross today about American Samoan fishing. My press release: https://t.co/K8zEZIuvAa
+847120416590233602,2017-03-29 16:17:00,RepAmata,1,1,TweetDeck,Yesterday @NatResources O&amp;I subcommittee held a hearing on the ESA. Read my PR here: https://t.co/TTW46OZp9v
+847098010412728320,2017-03-29 14:47:58,RepAmata,0,4,Twitter Web Client,Glad to meet @SecretaryRoss today! He's doing a great job at @CommerceGov! https://t.co/u4gDgw2onk
+847096689940992002,2017-03-29 14:42:43,RepAmata,1,2,TweetDeck,Make sure to tune into the @HouseSmallBiz hearing on the Paperwork Reduction Act! Watch here: https://t.co/7ZTc3vlGew
+847074991359315969,2017-03-29 13:16:30,RepAmata,3,0,TweetDeck,"RT @HouseSmallBiz: Today at 11, we examine the Paperwork Reduction Act. Watch live here → https://t.co/KRv7fkL8Jk https://t.co/D8PQAxK3Na"
+847069642451566592,2017-03-29 12:55:15,RepAmata,0,0,TweetDeck,I'm proud that we are discussing these bills which will improve the quality of care for Veterans at the VA https://t.co/dSQmUrI9dQ
+847030619192332288,2017-03-29 10:20:11,RepAmata,0,0,Twitter for Android,Great meeting with StarKist Pres. and CEO Andrew Choe. American Samoa is the home of Charlie the Tuna. https://t.co/D5CFoQiFDI
+846771558601428994,2017-03-28 17:10:46,RepAmata,1,0,TweetDeck,"RT @NatResources: ESA Consultation Delays Block Critical Infrastructure Projects, Imperil Species Recovery Efforts → https://t.co/0oNWzPSPqC"
+846724256478220288,2017-03-28 14:02:48,RepAmata,8,0,Twitter for Android,RT @NatResources: LIVE Oversight Hearing on ESA Consultation Impediments to Economic and Infrastructure Development → https://t.co/tEDOShLt…
+846721503303491584,2017-03-28 13:51:52,RepAmata,2,3,Twitter for Android,I look forward to participating in this hearing! https://t.co/YWxIA1rpip
+844938580782927873,2017-03-23 15:47:10,RepAmata,11,9,TweetDeck,I support Sonny Perdue to lead the @USDA. He'll be great for American Samoan farmers! https://t.co/frhgu9aqpq
+844935087372320769,2017-03-23 15:33:17,RepAmata,1,0,TweetDeck,Today @HouseSmallBiz Agriculture Subcommittee held a hearing on the Future on Americas small farms.Farming is important to the people of AS!
+844931595287060480,2017-03-23 15:19:25,RepAmata,3,0,Twitter for Android,RT @b3nkauf: @RepAmata and @tafaimamao honor @SenatorHarkin with traditional items from #AmericanSamoa at the @b3nkauf AUCDNews #Jobs4All g…
+844658800921645056,2017-03-22 21:15:25,RepAmata,0,1,TweetDeck,I had a busy day with @HouseVetAffairs! A hearing with the Senate and then a hearing with the Health subcommittee! https://t.co/OFHBWV8mwm
+844615200292716551,2017-03-22 18:22:10,RepAmata,4,0,Twitter for Android,RT @RepBradWenstrup: Today @HouseVetAffairs Health Subcommittee: Healthy Hiring: Enabling VA To Recruit And Retain Quality Providers https:…
+844614773807427584,2017-03-22 18:20:28,RepAmata,1,1,Twitter for Android,.@HouseVetAffairs Health Subcommittee hearing on ways to improve @DeptVetAffairs hiring and retaining skilled employees
+844598852493725698,2017-03-22 17:17:12,RepAmata,7,0,Twitter for Android,RT @congressdotgov: Recently presented to the President - HR1362 by @RepAmata https://t.co/JadbdjW2f7
+842384899961196544,2017-03-16 14:39:45,RepAmata,0,3,TweetDeck,Talofa! Yesterday @NatResources held a hearing on the Marine Monuments. Read my PR here: https://t.co/ptN3TeLg5F
+842022980226060288,2017-03-15 14:41:37,RepAmata,2,0,TweetDeck,"RT @NatResources: American Tunabout Association Brian Hallman: ""I woke up one morning &amp; found out the monument was already announced by [Ob…"
+840580254255194112,2017-03-11 15:08:44,RepAmata,0,5,Twitter for Android,"Rest in Peace Faleomavaega Eni, my dear friend. Manuia lau Malaga. https://t.co/zGXwWN3kw7"
+840198670037454849,2017-03-10 13:52:27,RepAmata,3,4,TweetDeck,Busy day yesterday! Testified before @HouseAppropsGOP and had a @NatResources hearing on infrastructure! My PR:https://t.co/WCr7tWgFg7
+839854734940991488,2017-03-09 15:05:47,RepAmata,1,6,TweetDeck,"Great meeting today with the new Secretary of @DHSgov, John Kelly. A real superstar. https://t.co/7InQ1RlfXT"
+839520856762167296,2017-03-08 16:59:04,RepAmata,7,0,Twitter for Android,RT @RepJenniffer: At @HouseVetAffairs mark up hearing @DrPhilRoe RepJackBergman @RepJimBanks @RepArrington @RepRutherfordFL @RepAmata https…
+839493695095324673,2017-03-08 15:11:08,RepAmata,1,5,TweetDeck,"Yesterday, my bill #HR1362, to change the name of the VA clinic in AS after Faleomavaega Eni passed the house. My PR https://t.co/EbRGLO3urz"
+839481402303344640,2017-03-08 14:22:17,RepAmata,27,0,Twitter for Android,RT @NatResources: Today and everyday we're thankful for these leaders. #InternationalWomensDay https://t.co/jvSJwQ5kJO
+839224322401140736,2017-03-07 21:20:45,RepAmata,7,6,Twitter Web Client,These restrictions are preventing Samoan fishermen from fishing in waters that Samoans have fished in for over a mi… https://t.co/Ou40ZDaPhT
+836998763994628106,2017-03-01 17:57:10,RepAmata,0,0,TweetDeck,"Talofa, today @HouseVetAffairs &amp; @VAChair are holding hearings about VSOs. Read my pr here: https://t.co/ngq7TvqbNO"
+836981331338887169,2017-03-01 16:47:54,RepAmata,2,7,TweetDeck,Congratulations @RyanZinke! He'll work hard for the territories! https://t.co/R7trMbFkyD
+836978584690515969,2017-03-01 16:36:59,RepAmata,2,3,TweetDeck,Congratulations to @RyanZinke on his confirmation as @Interior Secretary! He'll do a great job!
+836960818071748608,2017-03-01 15:26:23,RepAmata,10,0,TweetDeck,RT @westerncaucus: The Senate will vote this morning to confirm our next Secretary of the Interior @RyanZinke. Western Caucus strongly supp…
+836960641390940161,2017-03-01 15:25:41,RepAmata,102,0,TweetDeck,RT @replouiegohmert: RT to show support for Ryan Zinke as our next Secretary of the @Interior! @westerncaucus https://t.co/DJ7issMaCt
+836940339969724416,2017-03-01 14:05:01,RepAmata,1,1,TweetDeck,"Yesterday, I testified before the Interior Appropriations Subcommittee. Read my PR here:https://t.co/veQFS0AvB8"
+833659895484444672,2017-02-20 12:49:42,RepAmata,43,0,Twitter for Android,"RT @Jenniffer2012: Arriving to Pago Pago, American Samoa 🇦🇸with @NatResources   Received by Lieutenant Governor Mauga https://t.co/zh4CSReS…"
+832596490287722496,2017-02-17 14:24:06,RepAmata,4,5,TweetDeck,Yesterday I gave testimony to the MilCon/ VA Appropriations Subcommittee about AS Veterans issues. Read my PR here: https://t.co/rhQJrTQL7D
+832240949157883908,2017-02-16 14:51:19,RepAmata,0,3,TweetDeck,"Yesterday, @HouseSmallBiz held a hearing on the tax code and small businesses. Read my press release here: https://t.co/QH89nUQ1oO"
+831932937247526913,2017-02-15 18:27:23,RepAmata,2,6,Twitter Web Client,Today I participated in the @HouseSmallBiz hearing on the tax code. I asked questions on how the tax code should wo… https://t.co/OQoJxNcCYX
+831602959368724481,2017-02-14 20:36:10,RepAmata,16,0,TweetDeck,RT @DrPhilRoe: Congratulations Secretary Shulkin! Time to get to work for our heroes. https://t.co/CTtV1GeWMO
+831548966240133124,2017-02-14 17:01:37,RepAmata,18,0,TweetDeck,RT @DrPhilRoe: I congratulate incoming Secretary Shulkin on his confirmation &amp; look forward to meeting w/ him this week. Statement: https:/…
+831547715104423936,2017-02-14 16:56:39,RepAmata,19,0,TweetDeck,RT @HouseSmallBiz: Congrats @Linda_McMahon on being confirmed to be our next @SBAgov Administrator! Chairman @RepSteveChabot statement: htt…
+830149644088963072,2017-02-10 20:21:13,RepAmata,0,3,TweetDeck,This Congress I joined five caucuses. Read my PR here: https://t.co/ztfT1s4lJY
+829330381115650048,2017-02-08 14:05:45,RepAmata,1,2,TweetDeck,"Yesterday, @HouseSmallBiz held a hearing on the hurdles that small businesses face when providing health care  https://t.co/Upj9lBpJEj"
+827240891521835010,2017-02-02 19:42:52,RepAmata,0,1,TweetDeck,"Yesterday, my colleagues on @HouseVetAffairs Subcommittee on Health had round table with VSO's. Read my PR here: https://t.co/p8TkRSxZuf"
+826875329650237445,2017-02-01 19:30:15,RepAmata,1,3,TweetDeck,Yesterday Chairman Bishop named me to two Natural Resources subcommittees! Read my press release here: https://t.co/FfEH06I1DL
+826873892300025857,2017-02-01 19:24:33,RepAmata,4,10,Twitter for Android,Had a great meeting with @MaungakiekieSAM today! https://t.co/WdU3DUWrT6
+826542628791545856,2017-01-31 21:28:13,RepAmata,2,3,TweetDeck,Today the House passed my bill HR276 Read my press release here: https://t.co/8VwSrn7MWM
+826538498492608512,2017-01-31 21:11:49,RepAmata,1,0,TweetDeck,RT @RepCloakroom: H.R. 276 was passed by voice vote
+826458874370723841,2017-01-31 15:55:25,RepAmata,3,0,TweetDeck,RT @HouseSmallBiz: Hearing Alert: Reimagining the Health Care Marketplace for America’s #SmallBiz → https://t.co/iYh6jUbkDE https://t.co/6s…
+826447078222069760,2017-01-31 15:08:32,RepAmata,6,9,TweetDeck,https://t.co/xscskSysEG
+826444959133859841,2017-01-31 15:00:07,RepAmata,5,9,TweetDeck,I'm excited that @EnergyGOP has voted for @RyanZinke to be the next Secretary of the Interior! He will do a fantastic job!
+826443663077154820,2017-01-31 14:54:58,RepAmata,7,0,TweetDeck,"RT @westerncaucus: ""It's never been about red or blue to me. I'm more concerned about red, white and blue and what's good for America"" - @R…"
+822523909618749442,2017-01-20 19:19:16,RepAmata,3,11,Twitter for Android,I was excited to be at the Inauguration of @POTUS @realDonaldTrump today! #Inauguration #InaugurationDay2017 https://t.co/m34KpsNMHF
+822508119209156616,2017-01-20 18:16:31,RepAmata,16795,0,Twitter for Android,"RT @realDonaldTrump: TO ALL AMERICANS🇺🇸
+https://t.co/D7Es6ie4fY"
+822489287946076160,2017-01-20 17:01:42,RepAmata,4487,0,Twitter for Android,"RT @GOP: The 45th President of the United States of America, @realDonaldTrump! #InaugurationDay https://t.co/bkVrVs90Oq"
+822489222179389441,2017-01-20 17:01:26,RepAmata,0,3,Twitter for Android,Congratulations to our 45th President @realDonaldTrump !
+822482941905252352,2017-01-20 16:36:29,RepAmata,71642,0,Twitter for Android,RT @realDonaldTrump: It all begins today! I will see you at 11:00 A.M. for the swearing-in. THE MOVEMENT CONTINUES - THE WORK BEGINS!
+821453611565772800,2017-01-17 20:26:17,RepAmata,25,77,TweetDeck,Excited to be attending @RepRyanZinke Secretary of Interior hearing @EnergyGOP #Zinkehearing
+820008034088927232,2017-01-13 20:42:04,RepAmata,12,0,TweetDeck,"RT @RepBradWenstrup: As the new @HouseVetAffairs health sub chairman, I will continue to fight for those who fought for us #veteransfirst h…"
+819968111478796288,2017-01-13 18:03:26,RepAmata,1,6,TweetDeck,"Looking forward to working with @RepRodBlum @KYComer @RepBrianFitz Rep. Bacon, Rep. Gonzalez-Colon, and Rep. Marshall on @HouseSmallBiz"
+819963415947051010,2017-01-13 17:44:47,RepAmata,0,1,TweetDeck,@RepJackBergman Also looking forward to working with you on @HouseVetAffairs!
+819962376967651328,2017-01-13 17:40:39,RepAmata,2,4,TweetDeck,"Looking forward 2 working w/ @RepWebster @RepDavidRouzer @RepJackBergman @Rep_LizCheney Rep.Johnson, and Rep.Gonzalez-Colon on @NatResources"
+819944681521971200,2017-01-13 16:30:20,RepAmata,25,0,TweetDeck,RT @NatResources: Welcome our new and returning Committee members to the 115th Congress! → https://t.co/AwfBRQrve6 https://t.co/ZJRnxJg9Ya
+819910013078663168,2017-01-13 14:12:34,RepAmata,23,0,TweetDeck,RT @HouseSmallBiz: Chairman @RepSteveChabot Announces Republican Members for 115th Congress → https://t.co/TLaZL6HsXl https://t.co/wCpXLRUo…
+819549180276436992,2017-01-12 14:18:45,RepAmata,37,0,TweetDeck,RT @HouseSmallBiz: The biggest obstacles to #smallbiz success has been government red tape in one form or another. - @RepSteveChabot #Chabo…
+819289462362570753,2017-01-11 21:06:44,RepAmata,0,1,TweetDeck,.@FFASSoccer 2026 World Cup Champions! American Samoa all the way! https://t.co/yaMu4pkNmg
+819268750075711489,2017-01-11 19:44:25,RepAmata,28,0,Twitter Web Client,RT @RepComstock: The INSPIRE Women Act will afford opportunities to a future gen. of women leaders. Glad it passed. https://t.co/yq3PMVnbmU…
+819262701092372480,2017-01-11 19:20:23,RepAmata,1,6,Twitter Web Client,I'm happy with @realDonaldTrump choice for Secretary of @DeptVetAffairs. Dr. David Shulkin has both experience as p… https://t.co/oxJk1yrJp8
+818936637673574401,2017-01-10 21:44:44,RepAmata,8,0,TweetDeck,RT @SteveScalise: .@RepComstock’s INSPIRE Women Act has passed the House! It will support and encourage young women to pursue aerospace car…
+818876769256308738,2017-01-10 17:46:50,RepAmata,43,0,TweetDeck,RT @HouseGOP: We're excited to get to work with a new Congress and a new President. https://t.co/MkQEMdAWFl
+817098594650046464,2017-01-05 20:01:00,RepAmata,2,106,Twitter Web Client,.@SpeakerRyan is not only a great Speaker but a really nice and down to earth guy. https://t.co/f1ONhKb04e
+816682427083001856,2017-01-04 16:27:18,RepAmata,1,12,Twitter Web Client,Being sworn in to the 115th Congress yesterday by @SpeakerRyan! #BetterWay https://t.co/t8MkqAfO4Z
+816399263156543490,2017-01-03 21:42:06,RepAmata,1,10,Twitter for Android,I just completed my swearing in for the 115th Congress! I look forward to continuing to represent American Samoa! https://t.co/taHKpuQinb
+816360005230333952,2017-01-03 19:06:07,RepAmata,10,53,Twitter Web Client,Excited that @SpeakerRyan will continue as the the Speaker of the House. #115thCongress #BetterWay
+816359206735544320,2017-01-03 19:02:56,RepAmata,784,0,Twitter Web Client,RT @SpeakerRyan: Honored to be elected Speaker of the House for the 115th Congress.
+816342373672304645,2017-01-03 17:56:03,RepAmata,3,0,Twitter Web Client,RT @elizabethleacy: Spotted on @cspan's coverage of #115congress - @RepJoeWilson greeting besties @RepAmata and Rep. Bordallo. https://t.co…
+809851086328696834,2016-12-16 20:01:59,RepAmata,0,6,TweetDeck,"Talofa Twitter! I look forward to the new year and new Congress,  and working on behalf of American Samoa!"
+564820451508383746,2015-02-09 16:17:44,RepAmata,16,31,Twitter Web Client,"Hello everyone, I'm excited to join Twitter to share the work I'm doing in Congress on behalf of the American Samoan people."

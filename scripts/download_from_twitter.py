@@ -1,12 +1,13 @@
 import pandas as pd
-import requests
-from requests_oauthlib import OAuth1
-import cnfg
 import tweepy
 import csv
-import os.path, ConfigParser, sys
+import os.path, ConfigParser, sys, yaml
 
 output_path = '../raw_data'
+input_path = '../raw_data/legislators-social-media.yaml'
+
+twitter = 'twitter'
+social = 'social'
 
 def main():
 
@@ -17,13 +18,15 @@ def main():
     access_token = config.get('twitter', 'access_token')
     access_token_secret = config.get('twitter', 'access_token_secret')
 
-    df = pd.read_csv('configuration/CongressTwitterHandles.csv')
+    with open(input_path, 'r') as stream:
+        data_loaded = yaml.load(stream)
 
-    usernames = set()
-    usernames.update(set(df['twitter']))
-    cleaned = [u for u in list(usernames) if str(u) != 'nan']
-    usernames=set(cleaned)
-    len(usernames)
+    print len(data_loaded)
+
+    usernames = []
+    for data in data_loaded:
+        if twitter in data[social].keys():
+            usernames.append(data[social][twitter])
 
     summary = []
     for u in usernames:
