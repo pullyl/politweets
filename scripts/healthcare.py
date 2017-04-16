@@ -2,18 +2,18 @@
 from os import listdir
 from os.path import isfile, join
 import pandas as pd
-import yaml
+import yaml, re
 
-healthcare_terms = ['ACA ', 'Affordable Care Act', 'Obama Care', 'ObamaCare', 'Trump Care', 'TrumpCare', ' health ', 'health care',
-                    'medicare', 'medicaid', 'medical', 'health insurance', 'american health care act', 'acha', 'healthcare']
+generic_terms = [' health ', 'health care',
+                    'medicare', 'medicaid', 'medical', 'health insurance', 'healthcare']
 r_leaning = ['Obama Care', 'ObamaCare', 'american health care act', 'acha']
-d_leaning = ['ACA', 'Affordable Care Act', 'Trump Care', 'TrumpCare']
+d_leaning = ['#?ACA[^re]', 'Affordable Care Act', 'Trump Care', 'TrumpCare']
+healthcare_terms = generic_terms + r_leaning + d_leaning
 path_to_folder = "../raw_data"
 file_suffix = "_tweets.csv"
 output_file = "../manipulated_data/healthcare_output.csv"
 social_yaml = '../raw_data/legislators-social-media.yaml'
 legislators_yaml = '../raw_data/legislators-current.yaml'
-
 
 twitter = 'twitter'
 social = 'social'
@@ -37,7 +37,9 @@ def is_d_leaning(input):
 
 def contains_term(terms, input):
     for term in terms:
-        if not input.lower().find(term.lower()) == -1:
+        if not re.search(term, input, flags=re.IGNORECASE) == None:
+            #print(input)
+            #print '          %s' % term
             return 1
 
     return 0
@@ -45,13 +47,12 @@ def contains_term(terms, input):
 def healthcare_count(input):
     count = 0
     for term in healthcare_terms:
-        if not input.lower().find(term.lower()) == -1:
+        if not re.search(term, input, flags=re.IGNORECASE) == None:
             count += 1
-
     return count
 
 def contains_word(input, args):
-    if not input.lower().find(args.lower()) == -1:
+    if not re.search(args, input, flags=re.IGNORECASE) == None:
         return 1
 
     return 0
@@ -89,7 +90,7 @@ def main():
         if file_suffix not in file:
             continue
 
-        #if 'PeteSessions' not in file:
+        #if 'WhipHoyer' not in file:
         #    continue
 
         num_files += 1
@@ -102,7 +103,6 @@ def main():
         df = pd.read_csv(file_name, encoding='utf8', quotechar='"')
         df = df.rename(columns={'user': 'twitter'})
         df['text'] = df['text'].apply(simplify_text)
-        df['healthcare'] = df['text'].apply(is_healthcare)
         df['healthcare_count'] = df['text'].apply(healthcare_count)
         df['r_leaning'] = df['text'].apply(is_r_leaning)
         df['d_leaning'] = df['text'].apply(is_d_leaning)
@@ -116,7 +116,9 @@ def main():
 
 
         #remove rows without healthcare
-        df = df.ix[~(df['healthcare'] == 0)]
+        print 'before transformation len is: %d' % len(df.index)
+        df = df.ix[~(df['healthcare_count'] == 0)]
+        print 'after transformation len is: %d' % len(df.index)
 
         row_count += len(df.index)
 
@@ -133,8 +135,7 @@ def main():
 main()
 
 def test():
-    #text = "Medicare &amp; Medicaid"
-    text = ""
+    text = "Told reporters GOP will bring budget reconciliation bill to Floor-their 61st attempt to repeal/undermine #ACA, would also add to the deficit"
     print 'is healthcare: %d' % (is_healthcare(text))
 
     for term in healthcare_terms:
