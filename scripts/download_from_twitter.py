@@ -9,7 +9,8 @@ import csv
 import os.path, ConfigParser, sys, yaml
 
 output_path = '../raw_data'
-input_path = '../../congress-legislators/legislators-social-media.yaml'
+input_paths = ['../../congress-legislators/legislators-social-media.yaml',
+               '../../congress-legislators/legislators-historical-social-media.yaml']
 
 twitter = 'twitter'
 social = 'social'
@@ -23,15 +24,16 @@ def main():
     access_token = config.get('twitter', 'access_token')
     access_token_secret = config.get('twitter', 'access_token_secret')
 
-    with open(input_path, 'r') as stream:
-        data_loaded = yaml.load(stream)
+    for path in input_paths:
+        with open(path, 'r') as stream:
+            data_loaded = yaml.load(stream)
 
-    print len(data_loaded)
+        print('loaded %d records from %s' % (len(data_loaded), path))
 
-    usernames = []
-    for data in data_loaded:
-        if twitter in data[social].keys():
-            usernames.append(data[social][twitter])
+        usernames = []
+        for data in data_loaded:
+            if twitter in data[social].keys():
+                usernames.append(data[social][twitter])
 
     summary = []
     for u in usernames:
