@@ -3,6 +3,7 @@ from os import listdir
 from os.path import isfile, join
 import pandas as pd
 import yaml, re
+from datetime import datetime
 
 generic_terms = [' health ', 'health care',
                     'medicare', 'medicaid', 'medical', 'health insurance', 'healthcare']
@@ -22,6 +23,8 @@ bioguide = 'bioguide'
 party = 'party'
 terms = 'terms'
 
+twitter_dict = {}
+
 def simplify_text(input):
     text = input.replace("\n", "")
     return text
@@ -31,6 +34,9 @@ def is_healthcare(input):
 
 def is_r_leaning(input):
     return contains_term(r_leaning, input)
+
+def is_generic(input):
+    return contains_term(generic_terms, input)
 
 def is_d_leaning(input):
     return contains_term(d_leaning, input)
@@ -57,10 +63,8 @@ def contains_word(input, args):
 
     return 0
 
-def main():
-    print('Analyzing tweets related to healthcare')
-
-    #load in social yaml
+def load_yaml():
+    # load in social yaml
     with open(social_yaml, 'r') as stream:
         data_loaded = yaml.load(stream)
     twitter_dict = {}
@@ -77,7 +81,24 @@ def main():
             if party in data[terms][0].keys():
                 if data[id][bioguide] in bio_dict.keys():
                     twitter_dict[bio_dict[data[id][bioguide]]][party] = data[terms][0][party]
+                    twitter_dict[bio_dict[data[id][bioguide]]]['terms'] = convert_to_date(data[terms])
 
+    return twitter_dict
+
+
+def convert_to_date(data):
+    new_data = []
+    for term in data:
+        start = datetime.strptime(term['start'], '%Y-%M-%d').replace(hour=0, minute=0, second=0)
+        end = datetime.strptime(term['end'], '%Y-%M-%d').replace(hour=23, minute=59, second=59)
+        new_data.append({'start': start, 'end': end})
+    return new_data
+
+def main():
+    print('Analyzing tweets related to healthcare')
+
+    global twitter_dict
+    twitter_dict = load_yaml()
 
     #setting up constants
     first_write = True
@@ -106,6 +127,8 @@ def main():
         df['healthcare_count'] = df['text'].apply(healthcare_count)
         df['r_leaning'] = df['text'].apply(is_r_leaning)
         df['d_leaning'] = df['text'].apply(is_d_leaning)
+        df['generic'] = df['text'].apply(is_generic)
+
         for term in healthcare_terms:
             df[term] = df['text'].apply(contains_word, args={term})
         if twitter_handle in twitter_dict.keys():
@@ -113,11 +136,14 @@ def main():
             df['bioguide'] = twitter_dict[twitter_handle][bioguide]
         else:
             print 'inspect this'
+        df['while_in_office'] = df['created_at'].apply(while_in_office, args={twitter_handle})
+
 
 
         #remove rows without healthcare
         print 'before transformation len is: %d' % len(df.index)
         df = df.ix[~(df['healthcare_count'] == 0)]
+        df = df.ix[~(df['while_in_office'] == False)]
         print 'after transformation len is: %d' % len(df.index)
 
         row_count += len(df.index)
@@ -131,6 +157,16 @@ def main():
 
     print('just wrote %d rows' % (row_count))
 
+def while_in_office(date, rep):
+    new_date = datetime.strptime(date, '%Y-%m-%d %H:%M:%S')
+    #print('understanding if %s was in office on %s' % (rep, new_date))
+
+    terms = twitter_dict[rep.lower()]['terms']
+    for term in terms:
+        if new_date > term['start'] and new_date < term['end']:
+            return True
+
+    return False
 
 main()
 
