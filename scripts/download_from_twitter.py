@@ -1,10 +1,15 @@
+#This script downloads historical tweets from representatives
+#Requirements - congress-legislators github repo, cloned to the same root of politweets, config.ini with twitter
+# consumer keys and access tokens
+
+
 import pandas as pd
 import tweepy
 import csv
 import os.path, ConfigParser, sys, yaml
 
 output_path = '../raw_data'
-input_path = '../raw_data/legislators-social-media.yaml'
+input_path = '../../congress-legislators/legislators-social-media.yaml'
 
 twitter = 'twitter'
 social = 'social'
