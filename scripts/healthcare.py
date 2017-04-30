@@ -13,8 +13,9 @@ healthcare_terms = generic_terms + r_leaning + d_leaning
 path_to_folder = "../raw_data"
 file_suffix = "_tweets.csv"
 output_file = "../manipulated_data/healthcare_output.csv"
-social_yaml = '../raw_data/legislators-social-media.yaml'
-legislators_yaml = '../raw_data/legislators-current.yaml'
+legislators_yamls = ['../../congress-legislators/legislators-current.yaml', '../../congress-legislators/legislators-historical-min.yaml' ]
+social_yamls = ['../../congress-legislators/legislators-social-media.yaml',
+               '../../congress-legislators/legislators-historical-social-media.yaml']
 
 twitter = 'twitter'
 social = 'social'
@@ -65,23 +66,25 @@ def contains_word(input, args):
 
 def load_yaml():
     # load in social yaml
-    with open(social_yaml, 'r') as stream:
-        data_loaded = yaml.load(stream)
     twitter_dict = {}
     bio_dict = {}
-    for data in data_loaded:
-        if twitter in data[social].keys():
-            twitter_dict[data[social][twitter].lower()] = {bioguide: data[id][bioguide]}
-            bio_dict[data[id][bioguide]] = data[social][twitter].lower()
+    for file in social_yamls:
+        with open(file, 'r') as stream:
+            data_loaded = yaml.load(stream)
+        for data in data_loaded:
+            if twitter in data[social].keys():
+                twitter_dict[data[social][twitter].lower()] = {bioguide: data[id][bioguide]}
+                bio_dict[data[id][bioguide]] = data[social][twitter].lower()
 
     # load in legislators yaml
-    with open(legislators_yaml, 'r') as stream:
-        data_loaded = yaml.load(stream)
-        for data in data_loaded:
-            if party in data[terms][0].keys():
-                if data[id][bioguide] in bio_dict.keys():
-                    twitter_dict[bio_dict[data[id][bioguide]]][party] = data[terms][0][party]
-                    twitter_dict[bio_dict[data[id][bioguide]]]['terms'] = convert_to_date(data[terms])
+    for file in legislators_yamls:
+        with open(file, 'r') as stream:
+            data_loaded = yaml.load(stream)
+            for data in data_loaded:
+                if party in data[terms][0].keys():
+                    if data[id][bioguide] in bio_dict.keys():
+                        twitter_dict[bio_dict[data[id][bioguide]]][party] = data[terms][0][party]
+                        twitter_dict[bio_dict[data[id][bioguide]]]['terms'] = convert_to_date(data[terms])
 
     return twitter_dict
 
