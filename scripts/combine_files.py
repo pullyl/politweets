@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-#Script to combibe files from congresspeople
+#Script to combine files from congresspeople
 
 from os import listdir
 from os.path import isfile, join
@@ -12,8 +12,8 @@ from datetime import datetime
 path_to_folder = "../raw_data"
 file_suffix = "_tweets.csv"
 output_file = "../manipulated_data/combinedtweets.csv"
-legislators_yaml = '../raw_data/legislators-current.yaml'
-social_yaml = '../raw_data/legislators-social-media.yaml'
+legislators_yaml = '../../congress-legislators/legislators-current.yaml'
+social_yaml = '../../congress-legislators/legislators-social-media.yaml'
 csv.field_size_limit(sys.maxsize)
 party = 'party'
 terms = 'terms'

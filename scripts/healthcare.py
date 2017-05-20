@@ -13,8 +13,8 @@ healthcare_terms = generic_terms + r_leaning + d_leaning
 path_to_folder = "../raw_data"
 file_suffix = "_tweets.csv"
 output_file = "../manipulated_data/healthcare_output.csv"
-social_yaml = '../raw_data/legislators-social-media.yaml'
-legislators_yaml = '../raw_data/legislators-current.yaml'
+social_yaml = '../../congress-legislators/legislators-social-media.yaml'
+legislators_yaml = '../../congress-legislators/legislators-current.yaml'
 
 twitter = 'twitter'
 social = 'social'
